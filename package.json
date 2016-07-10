@@ -67,7 +67,8 @@
           "[R](#r)",
           "[Ruby](#ruby)",
           "[Scala](#scala)",
-          "[Shell](#shell)"
+          "[Shell](#shell)",
+          "[Swift](#swift)"
         ]
       },
       {
@@ -7104,6 +7105,27 @@
               "[@backbone](https://github.com/backbone)/[**findcruftfiles**](https://github.com/backbone/findcruftfiles)",
               "Portage cruft files search.",
               "[:arrow_upper_right:](https://git.backbone.ws/gentoo/findcruftfiles)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Swift #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3",
+              "[@almas-dev](https://github.com/almas-dev)/[**APMAlertController**](https://github.com/almas-dev/APMAlertController)",
+              "AlertController written in Swift",
+              ""
             ]
           ]
         }
