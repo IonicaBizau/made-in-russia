@@ -68,7 +68,8 @@
           "[Ruby](#ruby)",
           "[Scala](#scala)",
           "[Shell](#shell)",
-          "[Swift](#swift)"
+          "[Swift](#swift)",
+          "[VimL](#viml)"
         ]
       },
       {
@@ -7125,6 +7126,81 @@
               "3",
               "[@almas-dev](https://github.com/almas-dev)/[**APMAlertController**](https://github.com/almas-dev/APMAlertController)",
               "AlertController written in Swift",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "VimL #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "1810",
+              "[@morhetz](https://github.com/morhetz)/[**gruvbox**](https://github.com/morhetz/gruvbox)",
+              "Retro groove color scheme for Vim",
+              ""
+            ],
+            [
+              "135",
+              "[@gorkunov](https://github.com/gorkunov)/[**smartpairs.vim**](https://github.com/gorkunov/smartpairs.vim)",
+              "Fantastic selection for VIM ",
+              ""
+            ],
+            [
+              "52",
+              "[@gorkunov](https://github.com/gorkunov)/[**smartgf.vim**](https://github.com/gorkunov/smartgf.vim)",
+              "Vim 'goto file' on steroids!",
+              ""
+            ],
+            [
+              "51",
+              "[@zenbro](https://github.com/zenbro)/[**mirror.vim**](https://github.com/zenbro/mirror.vim)",
+              "Efficient way to edit remote files on multiple environments with Vim.",
+              ""
+            ],
+            [
+              "22",
+              "[@avakhov](https://github.com/avakhov)/[**vim-yaml**](https://github.com/avakhov/vim-yaml)",
+              "indent yaml",
+              ""
+            ],
+            [
+              "6",
+              "[@magny](https://github.com/magny)/[**dotfiles**](https://github.com/magny/dotfiles)",
+              "My config files for bash, vim, etc.",
+              ""
+            ],
+            [
+              "4",
+              "[@morhetz](https://github.com/morhetz)/[**rnavcr**](https://github.com/morhetz/rnavcr)",
+              "Rnavcr's not another vim config repo",
+              ""
+            ],
+            [
+              "3",
+              "[@gorkunov](https://github.com/gorkunov)/[**vimconfig**](https://github.com/gorkunov/vimconfig)",
+              "my vim config",
+              ""
+            ],
+            [
+              "3",
+              "[@morhetz](https://github.com/morhetz)/[**vim-termitr**](https://github.com/morhetz/vim-termitr)",
+              "Some vim terminal integration",
+              ""
+            ],
+            [
+              "2",
+              "[@zaa](https://github.com/zaa)/[**dotfiles**](https://github.com/zaa/dotfiles)",
+              "zaa's dot files",
               ""
             ]
           ]
