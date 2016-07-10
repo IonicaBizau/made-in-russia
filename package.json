@@ -66,7 +66,8 @@
           "[Python](#python)",
           "[R](#r)",
           "[Ruby](#ruby)",
-          "[Scala](#scala)"
+          "[Scala](#scala)",
+          "[Shell](#shell)"
         ]
       },
       {
@@ -7034,6 +7035,75 @@
               "[@Pchelolo](https://github.com/Pchelolo)/[**Quotter**](https://github.com/Pchelolo/Quotter)",
               "",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Shell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "20",
+              "[@jcmvbkbc](https://github.com/jcmvbkbc)/[**xtensa-toolchain-bui…**](https://github.com/jcmvbkbc/xtensa-toolchain-build)",
+              "Xtensa toolchain building scripts",
+              ""
+            ],
+            [
+              "5",
+              "[@ryzhovau](https://github.com/ryzhovau)/[**rrdstorm**](https://github.com/ryzhovau/rrdstorm)",
+              "RRD-driven graph statistics for routers",
+              ""
+            ],
+            [
+              "4",
+              "[@vitlav](https://github.com/vitlav)/[**eterbackup**](https://github.com/vitlav/eterbackup)",
+              "Etersoft backup tools for journaling backup",
+              ""
+            ],
+            [
+              "4",
+              "[@backbone](https://github.com/backbone)/[**snail**](https://github.com/backbone/snail)",
+              "nVidia Optimus on GNU/Linux",
+              "[:arrow_upper_right:](https://chili.backbone.ws/projects/snail)"
+            ],
+            [
+              "3",
+              "[@kbakba](https://github.com/kbakba)/[**git-hooks-contrib**](https://github.com/kbakba/git-hooks-contrib)",
+              "some git-hooks",
+              ""
+            ],
+            [
+              "3",
+              "[@backbone](https://github.com/backbone)/[**overlay**](https://github.com/backbone/overlay)",
+              "Backbone’s Portage overlay.",
+              "[:arrow_upper_right:](https://git.backbone.ws/portage/overlay)"
+            ],
+            [
+              "2",
+              "[@vitlav](https://github.com/vitlav)/[**etersoft-build-utils**](https://github.com/vitlav/etersoft-build-utils)",
+              "A set of rpm build utilities from Etersoft",
+              ""
+            ],
+            [
+              "2",
+              "[@vitlav](https://github.com/vitlav)/[**autosshd**](https://github.com/vitlav/autosshd)",
+              "Run autossh as system service",
+              ""
+            ],
+            [
+              "2",
+              "[@backbone](https://github.com/backbone)/[**findcruftfiles**](https://github.com/backbone/findcruftfiles)",
+              "Portage cruft files search.",
+              "[:arrow_upper_right:](https://git.backbone.ws/gentoo/findcruftfiles)"
             ]
           ]
         }
