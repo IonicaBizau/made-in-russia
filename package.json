@@ -51,7 +51,8 @@
           "[C#](#c-1)",
           "[CSS](#css)",
           "[HTML](#html)",
-          "[C](undefined)"
+          "[C](undefined)",
+          "[C++](#c-2)"
         ]
       },
       {
@@ -2581,6 +2582,117 @@
               "2",
               "[@tony2001](https://github.com/tony2001)/[**rabbitmq-c**](https://github.com/tony2001/rabbitmq-c)",
               "AMQP client library",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++ #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "340",
+              "[@ddemidov](https://github.com/ddemidov)/[**vexcl**](https://github.com/ddemidov/vexcl)",
+              "VexCL is a C++ vector expression template library for OpenCL/CUDA",
+              "[:arrow_upper_right:](http://vexcl.readthedocs.org)"
+            ],
+            [
+              "163",
+              "[@lisitsyn](https://github.com/lisitsyn)/[**tapkee**](https://github.com/lisitsyn/tapkee)",
+              "A flexible and efficient С++ template library for dimension reduction",
+              "[:arrow_upper_right:](http://tapkee.lisitsyn.me)"
+            ],
+            [
+              "67",
+              "[@ddemidov](https://github.com/ddemidov)/[**amgcl**](https://github.com/ddemidov/amgcl)",
+              "C++ library for solving large sparse linear systems with algebraic multigrid method",
+              "[:arrow_upper_right:](http://amgcl.readthedocs.org/)"
+            ],
+            [
+              "57",
+              "[@Nerei](https://github.com/Nerei)/[**kinfu_remake**](https://github.com/Nerei/kinfu_remake)",
+              "Optimized and reworked version of Kinfu",
+              ""
+            ],
+            [
+              "13",
+              "[@CODeRUS](https://github.com/CODeRUS)/[**libaxolotl**](https://github.com/CODeRUS/libaxolotl)",
+              "axolotl implementation in Qt",
+              ""
+            ],
+            [
+              "12",
+              "[@ddemidov](https://github.com/ddemidov)/[**gpgpu_with_modern_cp…**](https://github.com/ddemidov/gpgpu_with_modern_cpp)",
+              "LaTeX source for \"Programming CUDA and OpenCL: A Case Study Using Modern C++ Libraries\"",
+              "[:arrow_upper_right:](http://arxiv.org/abs/1212.6326)"
+            ],
+            [
+              "5",
+              "[@tinybit](https://github.com/tinybit)/[**cocaine-fastcgi-prox…**](https://github.com/tinybit/cocaine-fastcgi-proxy)",
+              "Cocaine FastCGI Proxy",
+              ""
+            ],
+            [
+              "5",
+              "[@ddemidov](https://github.com/ddemidov)/[**mba**](https://github.com/ddemidov/mba)",
+              "Scattered data interpolation with multilevel B-Splines",
+              ""
+            ],
+            [
+              "4",
+              "[@CODeRUS](https://github.com/CODeRUS)/[**android-notification…**](https://github.com/CODeRUS/android-notifications)",
+              "Simple daemon adding sound (IM category), led and icon on lockscreen for android notifications.",
+              ""
+            ],
+            [
+              "4",
+              "[@tinybit](https://github.com/tinybit)/[**lsd**](https://github.com/tinybit/lsd)",
+              "Psycodelic persistant message queue and cocaine balancer",
+              ""
+            ],
+            [
+              "4",
+              "[@ddemidov](https://github.com/ddemidov)/[**ev3dev-lang-cpp**](https://github.com/ddemidov/ev3dev-lang-cpp)",
+              "C++ language bindings for http://ev3dev.org",
+              ""
+            ],
+            [
+              "3",
+              "[@tinybit](https://github.com/tinybit)/[**generic-quadtree**](https://github.com/tinybit/generic-quadtree)",
+              "easily extensible quadtree, by default works with triangles, lines and axis aligned boxes",
+              ""
+            ],
+            [
+              "3",
+              "[@lisitsyn](https://github.com/lisitsyn)/[**formatting**](https://github.com/lisitsyn/formatting)",
+              "[Deprecated] A simple C++ formatter that resembles SLF4J and Python format",
+              ""
+            ],
+            [
+              "2",
+              "[@CODeRUS](https://github.com/CODeRUS)/[**powermenu**](https://github.com/CODeRUS/powermenu)",
+              "Powermenu - fancy menu and configuration for power key actions",
+              ""
+            ],
+            [
+              "2",
+              "[@intelfx](https://github.com/intelfx)/[**Homework_2011**](https://github.com/intelfx/Homework_2011)",
+              "A toy virtual machine implementing a custom machine language and an ahead-of-time translator to x86_64.",
+              ""
+            ],
+            [
+              "2",
+              "[@CODeRUS](https://github.com/CODeRUS)/[**aliendalvik-control**](https://github.com/CODeRUS/aliendalvik-control)",
+              "DBus daemon for controlling aliendalvik and sending commands",
               ""
             ]
           ]
