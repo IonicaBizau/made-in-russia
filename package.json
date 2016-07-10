@@ -55,7 +55,8 @@
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
           "[Clojure](#clojure)",
-          "[CoffeeScript](#coffeescript)"
+          "[CoffeeScript](#coffeescript)",
+          "[Go](#go)"
         ]
       },
       {
@@ -2981,6 +2982,267 @@
               "2",
               "[@KirillTemnov](https://github.com/KirillTemnov)/[**market-req**](https://github.com/KirillTemnov/market-req)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Go #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3179",
+              "[@nsf](https://github.com/nsf)/[**gocode**](https://github.com/nsf/gocode)",
+              "An autocompletion daemon for the Go programming language",
+              ""
+            ],
+            [
+              "1527",
+              "[@nsf](https://github.com/nsf)/[**termbox-go**](https://github.com/nsf/termbox-go)",
+              "Pure Go termbox implementation",
+              "[:arrow_upper_right:](http://code.google.com/p/termbox)"
+            ],
+            [
+              "838",
+              "[@disintegration](https://github.com/disintegration)/[**imaging**](https://github.com/disintegration/imaging)",
+              "Simple Go image processing package",
+              ""
+            ],
+            [
+              "772",
+              "[@disintegration](https://github.com/disintegration)/[**gift**](https://github.com/disintegration/gift)",
+              "Go Image Filtering Toolkit",
+              ""
+            ],
+            [
+              "365",
+              "[@nsf](https://github.com/nsf)/[**godit**](https://github.com/nsf/godit)",
+              "A very religious text editor",
+              ""
+            ],
+            [
+              "180",
+              "[@grafov](https://github.com/grafov)/[**m3u8**](https://github.com/grafov/m3u8)",
+              "Parser and generator of M3U8-playlists for Apple HLS. Library for Go language.",
+              "[:arrow_upper_right:](http://tools.ietf.org/html/draft-pantos-http-live-streaming)"
+            ],
+            [
+              "102",
+              "[@temoto](https://github.com/temoto)/[**robotstxt**](https://github.com/temoto/robotstxt)",
+              "The robots.txt exclusion protocol implementation for Go language #golang",
+              ""
+            ],
+            [
+              "87",
+              "[@nsf](https://github.com/nsf)/[**gothic**](https://github.com/nsf/gothic)",
+              "Tcl/Tk Go bindings",
+              ""
+            ],
+            [
+              "79",
+              "[@nsf](https://github.com/nsf)/[**gollvm**](https://github.com/nsf/gollvm)",
+              "LLVM bindings for the Go programming language",
+              "[:arrow_upper_right:](http://llvm.org)"
+            ],
+            [
+              "61",
+              "[@nsf](https://github.com/nsf)/[**gotris**](https://github.com/nsf/gotris)",
+              "A classic tetris game written in Go programming language",
+              ""
+            ],
+            [
+              "48",
+              "[@grafov](https://github.com/grafov)/[**streamsurfer**](https://github.com/grafov/streamsurfer)",
+              "Software for monitoring of HTTP video streams.",
+              "[:arrow_upper_right:](http://streamsurfer.org)"
+            ],
+            [
+              "47",
+              "[@temoto](https://github.com/temoto)/[**heroshi**](https://github.com/temoto/heroshi)",
+              "Heroshi – open source web crawler.",
+              "[:arrow_upper_right:](http://temoto.github.com/heroshi/)"
+            ],
+            [
+              "44",
+              "[@nsf](https://github.com/nsf)/[**gogobject**](https://github.com/nsf/gogobject)",
+              "GObject-introspection based bindings generator",
+              ""
+            ],
+            [
+              "39",
+              "[@grafov](https://github.com/grafov)/[**bcast**](https://github.com/grafov/bcast)",
+              "Broadcasting library for Go. Broadcast message of any type on a set of channels.",
+              ""
+            ],
+            [
+              "39",
+              "[@bolknote](https://github.com/bolknote)/[**go-gd**](https://github.com/bolknote/go-gd)",
+              "Go bingings for GD (http://www.boutell.com/gd/)",
+              ""
+            ],
+            [
+              "34",
+              "[@disintegration](https://github.com/disintegration)/[**quiet**](https://github.com/disintegration/quiet)",
+              "Photo hosting web application in Go",
+              ""
+            ],
+            [
+              "28",
+              "[@nsf](https://github.com/nsf)/[**gocovgui**](https://github.com/nsf/gocovgui)",
+              "A simple GUI wrapper for the gocov coverage analysis tool",
+              ""
+            ],
+            [
+              "22",
+              "[@temoto](https://github.com/temoto)/[**dlock**](https://github.com/temoto/dlock)",
+              "Distributed lock manager",
+              ""
+            ],
+            [
+              "20",
+              "[@nsf](https://github.com/nsf)/[**bin2go**](https://github.com/nsf/bin2go)",
+              "Binary to Go source file converter",
+              ""
+            ],
+            [
+              "15",
+              "[@grafov](https://github.com/grafov)/[**autograf**](https://github.com/grafov/autograf)",
+              "Another way for building Grafana dashboards.",
+              ""
+            ],
+            [
+              "12",
+              "[@nsf](https://github.com/nsf)/[**tulib**](https://github.com/nsf/tulib)",
+              "Termbox Utilities Library",
+              ""
+            ],
+            [
+              "12",
+              "[@disintegration](https://github.com/disintegration)/[**charmap**](https://github.com/disintegration/charmap)",
+              "Character encodings in Go",
+              ""
+            ],
+            [
+              "10",
+              "[@nsf](https://github.com/nsf)/[**gortfm**](https://github.com/nsf/gortfm)",
+              "Documentation generator for the Go programming language",
+              ""
+            ],
+            [
+              "10",
+              "[@nsf](https://github.com/nsf)/[**libtorgo**](https://github.com/nsf/libtorgo)",
+              "BitTorrent Go library",
+              ""
+            ],
+            [
+              "10",
+              "[@nsf](https://github.com/nsf)/[**sexp**](https://github.com/nsf/sexp)",
+              "S-expressions parser in the Go programming language",
+              ""
+            ],
+            [
+              "8",
+              "[@nsf](https://github.com/nsf)/[**torgo**](https://github.com/nsf/torgo)",
+              "BitTorrent client and a tool written in Go",
+              ""
+            ],
+            [
+              "7",
+              "[@nsf](https://github.com/nsf)/[**jsondiff**](https://github.com/nsf/jsondiff)",
+              "JsonDiff library",
+              ""
+            ],
+            [
+              "6",
+              "[@nsf](https://github.com/nsf)/[**gomandel**](https://github.com/nsf/gomandel)",
+              "Go mandelbrot demo program",
+              ""
+            ],
+            [
+              "5",
+              "[@grafov](https://github.com/grafov)/[**websocket-utils**](https://github.com/grafov/websocket-utils)",
+              "Simple utils for testing websocket connections.",
+              ""
+            ],
+            [
+              "5",
+              "[@grafov](https://github.com/grafov)/[**shift-shift**](https://github.com/grafov/shift-shift)",
+              "Simple Xorg keyboard switcher. Lshift for group1. Rshift for group2.",
+              ""
+            ],
+            [
+              "5",
+              "[@nsf](https://github.com/nsf)/[**sqlrace**](https://github.com/nsf/sqlrace)",
+              "SQL Race condition demo",
+              ""
+            ],
+            [
+              "5",
+              "[@bolknote](https://github.com/bolknote)/[**MakeCorner**](https://github.com/bolknote/MakeCorner)",
+              "Переписываю свою утилиту MakeCorner на Go",
+              "[:arrow_upper_right:](http://bolknote.ru)"
+            ],
+            [
+              "4",
+              "[@nsf](https://github.com/nsf)/[**shebang**](https://github.com/nsf/shebang)",
+              "Shebang scripting language",
+              ""
+            ],
+            [
+              "3",
+              "[@lanior](https://github.com/lanior)/[**upc**](https://github.com/lanior/upc)",
+              "Universal Problems Converter",
+              ""
+            ],
+            [
+              "2",
+              "[@dragon](https://github.com/dragon)/[**dragonhome_test1**](https://github.com/dragon/dragonhome_test1)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@grafov](https://github.com/grafov)/[**kiwi**](https://github.com/grafov/kiwi)",
+              "Strange logger & context keeper for Go language",
+              ""
+            ],
+            [
+              "2",
+              "[@grafov](https://github.com/grafov)/[**mpegts**](https://github.com/grafov/mpegts)",
+              "Mpegts stream decoder",
+              ""
+            ],
+            [
+              "2",
+              "[@nsf](https://github.com/nsf)/[**sx**](https://github.com/nsf/sx)",
+              "Sx file format",
+              ""
+            ],
+            [
+              "2",
+              "[@nsf](https://github.com/nsf)/[**goal**](https://github.com/nsf/goal)",
+              "Go makefile templates system",
+              ""
+            ],
+            [
+              "2",
+              "[@nsf](https://github.com/nsf)/[**vulkangen**](https://github.com/nsf/vulkangen)",
+              "Vulkan C++ wrapper generator",
+              ""
+            ],
+            [
+              "2",
+              "[@grafov](https://github.com/grafov)/[**wtfm**](https://github.com/grafov/wtfm)",
+              "Where's the fucking manual? (ok, let Write the Fabulous Manual)",
               ""
             ]
           ]
