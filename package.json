@@ -49,7 +49,8 @@
           "[JavaScript](#javascript)",
           "[Java](#java)",
           "[C#](#c-1)",
-          "[CSS](#css)"
+          "[CSS](#css)",
+          "[HTML](#html)"
         ]
       },
       {
@@ -2118,6 +2119,27 @@
               "[@tsergeytovarov](https://github.com/tsergeytovarov)/[**grunt-project**](https://github.com/tsergeytovarov/grunt-project)",
               "Базовый каркас проекта",
               "[:arrow_upper_right:](http://ourworkspace.ru/about.html)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "HTML #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "11",
+              "[@spalt08](https://github.com/spalt08)/[**TweenSprite**](https://github.com/spalt08/TweenSprite)",
+              "Sprite animation plugin for TweenMax.js",
+              ""
             ]
           ]
         }
