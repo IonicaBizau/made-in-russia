@@ -58,7 +58,8 @@
           "[CoffeeScript](#coffeescript)",
           "[Go](#go)",
           "[Haskell](#haskell)",
-          "[Lua](#lua)"
+          "[Lua](#lua)",
+          "[Matlab](#matlab)"
         ]
       },
       {
@@ -3462,6 +3463,33 @@
               "[@Shestak](https://github.com/Shestak)/[**ShestakUI_Media**](https://github.com/Shestak/ShestakUI_Media)",
               "Extra media for third-party addons with LibSharedMedia",
               "[:arrow_upper_right:](http://shestak.org)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Matlab #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "88",
+              "[@Bihaqo](https://github.com/Bihaqo)/[**TensorNet**](https://github.com/Bihaqo/TensorNet)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@Bihaqo](https://github.com/Bihaqo)/[**TT-MRF**](https://github.com/Bihaqo/TT-MRF)",
+              "",
+              ""
             ]
           ]
         }
