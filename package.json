@@ -65,7 +65,8 @@
           "[PHP](#php)",
           "[Python](#python)",
           "[R](#r)",
-          "[Ruby](#ruby)"
+          "[Ruby](#ruby)",
+          "[Scala](#scala)"
         ]
       },
       {
@@ -6933,6 +6934,105 @@
               "2",
               "[@niquola](https://github.com/niquola)/[**conditioner**](https://github.com/niquola/conditioner)",
               "simple conditions builder for active record",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Scala #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "44",
+              "[@btd](https://github.com/btd)/[**luna**](https://github.com/btd/luna)",
+              "Git Review Tool. Pages",
+              "[:arrow_upper_right:](http://btd.github.com/luna/)"
+            ],
+            [
+              "13",
+              "[@ezh](https://github.com/ezh)/[**HelloWorldJNIwithReg…**](https://github.com/ezh/HelloWorldJNIwithRegisterNatives)",
+              "Scala Hello World with JNI and RegisterNatives",
+              ""
+            ],
+            [
+              "12",
+              "[@VladimirNik](https://github.com/VladimirNik)/[**sprinter**](https://github.com/VladimirNik/sprinter)",
+              "Tool for generating source code from Scala ASTs",
+              ""
+            ],
+            [
+              "6",
+              "[@ezh](https://github.com/ezh)/[**android-component-Di…**](https://github.com/ezh/android-component-DigiSSHD)",
+              "DigiSSHD component for DigiControl, based on Dropbear SSH Server and OpenSSH SFTP Server",
+              "[:arrow_upper_right:](http://github.com/ezh/android-component-DigiSSHD/wiki)"
+            ],
+            [
+              "5",
+              "[@alexbool](https://github.com/alexbool)/[**spray-playground**](https://github.com/alexbool/spray-playground)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@btd](https://github.com/btd)/[**scala-freemarker**](https://github.com/btd/scala-freemarker)",
+              "From curcumflex-ftl. With some changes freemarker adoptation to Scala",
+              ""
+            ],
+            [
+              "5",
+              "[@alexbool](https://github.com/alexbool)/[**macrobuf**](https://github.com/alexbool/macrobuf)",
+              "Protocol Buffers for Scala done right",
+              ""
+            ],
+            [
+              "4",
+              "[@VladimirNik](https://github.com/VladimirNik)/[**tasty**](https://github.com/VladimirNik/tasty)",
+              "tasty project for Scala",
+              ""
+            ],
+            [
+              "3",
+              "[@btd](https://github.com/btd)/[**lift-jetty-session-c…**](https://github.com/btd/lift-jetty-session-clustering)",
+              "This repo show how to make working embedded jetty instance with mongo db session replication",
+              ""
+            ],
+            [
+              "2",
+              "[@sergei-romanenko](https://github.com/sergei-romanenko)/[**mrsc-trs**](https://github.com/sergei-romanenko/mrsc-trs)",
+              "Domain-specific supercompilation for transition systems (based on the MRSC toolkit).",
+              ""
+            ],
+            [
+              "2",
+              "[@ezh](https://github.com/ezh)/[**android-DigiLib**](https://github.com/ezh/android-DigiLib)",
+              "common code for all android-digiNNN projects",
+              "[:arrow_upper_right:](http://github.com/ezh/android-DigiLib/wiki)"
+            ],
+            [
+              "2",
+              "[@sergei-romanenko](https://github.com/sergei-romanenko)/[**mrsct**](https://github.com/sergei-romanenko/mrsct)",
+              "A variation of mrsc based on traits + self-types",
+              ""
+            ],
+            [
+              "2",
+              "[@sergei-romanenko](https://github.com/sergei-romanenko)/[**sat4j-experiments**](https://github.com/sergei-romanenko/sat4j-experiments)",
+              "Experiments with Sat4j.",
+              ""
+            ],
+            [
+              "2",
+              "[@Pchelolo](https://github.com/Pchelolo)/[**Quotter**](https://github.com/Pchelolo/Quotter)",
+              "",
               ""
             ]
           ]
