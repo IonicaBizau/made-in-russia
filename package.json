@@ -64,7 +64,8 @@
           "[Perl](#perl)",
           "[PHP](#php)",
           "[Python](#python)",
-          "[R](#r)"
+          "[R](#r)",
+          "[Ruby](#ruby)"
         ]
       },
       {
@@ -6119,6 +6120,819 @@
               "10",
               "[@mephistopheies](https://github.com/mephistopheies)/[**ml-r**](https://github.com/mephistopheies/ml-r)",
               "Code for ML course",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Ruby #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2142",
+              "[@gazay](https://github.com/gazay)/[**gon**](https://github.com/gazay/gon)",
+              "Your Rails variables in your JS",
+              ""
+            ],
+            [
+              "897",
+              "[@kostya](https://github.com/kostya)/[**eye**](https://github.com/kostya/eye)",
+              "Process monitoring tool. Inspired from Bluepill and God.",
+              ""
+            ],
+            [
+              "839",
+              "[@ai](https://github.com/ai)/[**autoprefixer-rails**](https://github.com/ai/autoprefixer-rails)",
+              "Autoprefixer for Ruby and Ruby on Rails",
+              "[:arrow_upper_right:](https://twitter.com/autoprefixer)"
+            ],
+            [
+              "733",
+              "[@the-teacher](https://github.com/the-teacher)/[**the_role**](https://github.com/the-teacher/the_role)",
+              "Authorization for Rails + GUI. Semantic, Flexible, Lightweight",
+              ""
+            ],
+            [
+              "522",
+              "[@the-teacher](https://github.com/the-teacher)/[**the_sortable_tree**](https://github.com/the-teacher/the_sortable_tree)",
+              "Nested Set + Drag&Drop GUI. Very fast! Best render helper! 2000 nodes/sec. Ready for rails 4",
+              ""
+            ],
+            [
+              "481",
+              "[@ai](https://github.com/ai)/[**r18n**](https://github.com/ai/r18n)",
+              "I18n tool to translate your Ruby application.",
+              ""
+            ],
+            [
+              "424",
+              "[@yaroslav](https://github.com/yaroslav)/[**russian**](https://github.com/yaroslav/russian)",
+              "Russian language support for Ruby and Rails | Поддержка русского языка для Ruby и Rails",
+              ""
+            ],
+            [
+              "394",
+              "[@brainopia](https://github.com/brainopia)/[**sidekiq-limit_fetch**](https://github.com/brainopia/sidekiq-limit_fetch)",
+              "Sidekiq strategy to support an advanced queue control – limiting, pausing, blocking, querying",
+              ""
+            ],
+            [
+              "351",
+              "[@davydovanton](https://github.com/davydovanton)/[**sidekiq-statistic**](https://github.com/davydovanton/sidekiq-statistic)",
+              "See statistic about your workers",
+              ""
+            ],
+            [
+              "310",
+              "[@the-teacher](https://github.com/the-teacher)/[**the_comments**](https://github.com/the-teacher/the_comments)",
+              "Comments with threading for Rails 4",
+              ""
+            ],
+            [
+              "149",
+              "[@gazay](https://github.com/gazay)/[**ids_please**](https://github.com/gazay/ids_please)",
+              "Helps to get IDs or screen names from links to social network accounts",
+              ""
+            ],
+            [
+              "108",
+              "[@ai](https://github.com/ai)/[**rails-sass-images**](https://github.com/ai/rails-sass-images)",
+              "Sass functions and mixins to inline images and get images size",
+              ""
+            ],
+            [
+              "107",
+              "[@gazay](https://github.com/gazay)/[**talks**](https://github.com/gazay/talks)",
+              "Talking hooks for long lasted cli tools",
+              ""
+            ],
+            [
+              "106",
+              "[@zzet](https://github.com/zzet)/[**ansible-rbenv-role**](https://github.com/zzet/ansible-rbenv-role)",
+              "Ansible role for installing rbenv.",
+              "[:arrow_upper_right:](https://galaxy.ansible.com/list#/roles/102)"
+            ],
+            [
+              "96",
+              "[@ai](https://github.com/ai)/[**evil-front**](https://github.com/ai/evil-front)",
+              "Helpers for frontend from Evil Martians",
+              ""
+            ],
+            [
+              "93",
+              "[@mokevnin](https://github.com/mokevnin)/[**railsify**](https://github.com/mokevnin/railsify)",
+              "rails best practices",
+              ""
+            ],
+            [
+              "90",
+              "[@brainopia](https://github.com/brainopia)/[**symbolic**](https://github.com/brainopia/symbolic)",
+              "Symbolic math for ruby",
+              "[:arrow_upper_right:](http://brainopia.github.com/symbolic)"
+            ],
+            [
+              "80",
+              "[@davydovanton](https://github.com/davydovanton)/[**awesome-hanami**](https://github.com/davydovanton/awesome-hanami)",
+              "A collection of awesome Hanami Gems and projects",
+              ""
+            ],
+            [
+              "73",
+              "[@gazay](https://github.com/gazay)/[**gon-sinatra**](https://github.com/gazay/gon-sinatra)",
+              "Your Sinatra variables in your JS",
+              ""
+            ],
+            [
+              "63",
+              "[@yaroslav](https://github.com/yaroslav)/[**yandex_inflect**](https://github.com/yaroslav/yandex_inflect)",
+              "Web service client for Yandex.Inflect Russian language inflection service | Клиент веб-сервиса Яндекс.Склонятор",
+              ""
+            ],
+            [
+              "57",
+              "[@mokevnin](https://github.com/mokevnin)/[**ipgeobase**](https://github.com/mokevnin/ipgeobase)",
+              "География российских и украинских IP-адресов. Поиск местонахождения (города) IP-адреса",
+              ""
+            ],
+            [
+              "56",
+              "[@ai](https://github.com/ai)/[**jquery-cdn**](https://github.com/ai/jquery-cdn)",
+              "Best way to use latest jQuery in Ruby app",
+              ""
+            ],
+            [
+              "53",
+              "[@oruen](https://github.com/oruen)/[**oa-vkontakte**](https://github.com/oruen/oa-vkontakte)",
+              "Расширение OmniAuth и Devise для аутентификации через \"ВКонтакте\"",
+              ""
+            ],
+            [
+              "48",
+              "[@funny-falcon](https://github.com/funny-falcon)/[**activerecord-postgre…**](https://github.com/funny-falcon/activerecord-postgresql-arrays)",
+              "PostgreSQL array awarness for ActiveRecord",
+              ""
+            ],
+            [
+              "42",
+              "[@ai](https://github.com/ai)/[**fotoramajs**](https://github.com/ai/fotoramajs)",
+              "Fotorama for Ruby on Rails",
+              "[:arrow_upper_right:](http://fotorama.io/)"
+            ],
+            [
+              "40",
+              "[@dustalov](https://github.com/dustalov)/[**myaso**](https://github.com/dustalov/myaso)",
+              "Myaso, a nice morphological analyzer.",
+              "[:arrow_upper_right:](http://nlpub.ru/Myaso)"
+            ],
+            [
+              "39",
+              "[@zzet](https://github.com/zzet)/[**elasticsearch-git**](https://github.com/zzet/elasticsearch-git)",
+              "Elasticsearch integrations for git repositories. Provide index repository and full-text search code or commits in repository.",
+              ""
+            ],
+            [
+              "36",
+              "[@brainopia](https://github.com/brainopia)/[**em-easy**](https://github.com/brainopia/em-easy)",
+              "Asynchronous programming (based on EventMachine) without trouble of callbacks ",
+              ""
+            ],
+            [
+              "35",
+              "[@shell](https://github.com/shell)/[**rails3_before_render**](https://github.com/shell/rails3_before_render)",
+              "Plugin to empower rails3 with before_render filter",
+              "[:arrow_upper_right:](http://penkin.co.uk/rails3_before_render-plugin/)"
+            ],
+            [
+              "28",
+              "[@funny-falcon](https://github.com/funny-falcon)/[**bin_utils**](https://github.com/funny-falcon/bin_utils)",
+              "Alternative to Array#pack and String#unpack",
+              ""
+            ],
+            [
+              "27",
+              "[@gazay](https://github.com/gazay)/[**share_some_love**](https://github.com/gazay/share_some_love)",
+              "Share some love to our buddies rubyists!",
+              ""
+            ],
+            [
+              "27",
+              "[@brainopia](https://github.com/brainopia)/[**backport_new_rendere…**](https://github.com/brainopia/backport_new_renderer)",
+              "Backport render anywhere feature from Rails 5.",
+              ""
+            ],
+            [
+              "23",
+              "[@gazay](https://github.com/gazay)/[**tonic**](https://github.com/gazay/tonic)",
+              "gh-pages with sass, haml, coffee (and compass)",
+              ""
+            ],
+            [
+              "23",
+              "[@davydovanton](https://github.com/davydovanton)/[**shallow_attributes**](https://github.com/davydovanton/shallow_attributes)",
+              "Simple and lightweight Virtus analog.",
+              ""
+            ],
+            [
+              "22",
+              "[@ai](https://github.com/ai)/[**about-postcss**](https://github.com/ai/about-postcss)",
+              "Keynotes about PostCSS",
+              "[:arrow_upper_right:](http://ai.github.io/about-postcss/en)"
+            ],
+            [
+              "20",
+              "[@kostya](https://github.com/kostya)/[**pg_csv**](https://github.com/kostya/pg_csv)",
+              "Fast Ruby PG csv export. Uses pg function 'copy to csv'. Effective on millions rows.",
+              ""
+            ],
+            [
+              "19",
+              "[@ai](https://github.com/ai)/[**plain_record**](https://github.com/ai/plain_record)",
+              "Data persistence with human readable and editable storage.",
+              ""
+            ],
+            [
+              "18",
+              "[@niquola](https://github.com/niquola)/[**strong_concerns**](https://github.com/niquola/strong_concerns)",
+              "Gem **strong_concerns** is technically helping you to create concerns in a right way, minimizing and making explicit interface between object and concern.",
+              ""
+            ],
+            [
+              "18",
+              "[@niquola](https://github.com/niquola)/[**angularjs-on-rails**](https://github.com/niquola/angularjs-on-rails)",
+              "angularjs and ruby on rails integration practice",
+              ""
+            ],
+            [
+              "18",
+              "[@davydovanton](https://github.com/davydovanton)/[**AnyBar_rb**](https://github.com/davydovanton/AnyBar_rb)",
+              "Ruby wrapper for AnyBar.app",
+              ""
+            ],
+            [
+              "17",
+              "[@gazay](https://github.com/gazay)/[**odnoklassniki**](https://github.com/gazay/odnoklassniki)",
+              "Ruby wrapper for Odnoklassniki API",
+              ""
+            ],
+            [
+              "17",
+              "[@ai](https://github.com/ai)/[**twitter2vk**](https://github.com/ai/twitter2vk)",
+              "Script to automatically repost statuses from Twitter to VK (В Контакте)",
+              ""
+            ],
+            [
+              "16",
+              "[@davydovanton](https://github.com/davydovanton)/[**rspec-hanami**](https://github.com/davydovanton/rspec-hanami)",
+              "RSpec Matchers for Hanami",
+              ""
+            ],
+            [
+              "16",
+              "[@funny-falcon](https://github.com/funny-falcon)/[**em-zmq-tp10**](https://github.com/funny-falcon/em-zmq-tp10)",
+              "Implementation of ZMQ2.x transport protocol - ZMTP1.0",
+              ""
+            ],
+            [
+              "15",
+              "[@mokevnin](https://github.com/mokevnin)/[**dogma**](https://github.com/mokevnin/dogma)",
+              "Orm (based on data mapper pattern). unit of work, identity map, repository.",
+              ""
+            ],
+            [
+              "15",
+              "[@brainopia](https://github.com/brainopia)/[**brain**](https://github.com/brainopia/brain)",
+              "Implementation of fundamental types of neural networks which includes multilayer perceptron, Kohonen net and Hopfield net.",
+              "[:arrow_upper_right:](http://brain.rubyforge.org)"
+            ],
+            [
+              "14",
+              "[@ai](https://github.com/ai)/[**darian**](https://github.com/ai/darian)",
+              "Darian Mars calendar converter",
+              ""
+            ],
+            [
+              "13",
+              "[@gazay](https://github.com/gazay)/[**spik**](https://github.com/gazay/spik)",
+              "Let spik with Rails!",
+              ""
+            ],
+            [
+              "12",
+              "[@oruen](https://github.com/oruen)/[**backstab**](https://github.com/oruen/backstab)",
+              "My experiment on creating a multiplayer game.",
+              ""
+            ],
+            [
+              "11",
+              "[@dustalov](https://github.com/dustalov)/[**greeb**](https://github.com/dustalov/greeb)",
+              "Greeb is a simple Unicode-aware regexp-based tokenizer.",
+              "[:arrow_upper_right:](https://nlpub.ru/Greeb)"
+            ],
+            [
+              "11",
+              "[@kostya](https://github.com/kostya)/[**pgq**](https://github.com/kostya/pgq)",
+              "Queues system for AR/Rails based on PgQ Skytools for PostgreSQL, like Resque on Redis. Rails 2.3 and 3 compatible.",
+              ""
+            ],
+            [
+              "11",
+              "[@dustalov](https://github.com/dustalov)/[**gistup**](https://github.com/dustalov/gistup)",
+              "Gistup: Use Gists",
+              "[:arrow_upper_right:](https://rubygems.org/gems/gistup)"
+            ],
+            [
+              "11",
+              "[@dustalov](https://github.com/dustalov)/[**strawberry**](https://github.com/dustalov/strawberry)",
+              "Tree-Oriented Table Data Storage.",
+              "[:arrow_upper_right:](http://github.com/peppery/strawberry/)"
+            ],
+            [
+              "10",
+              "[@kostya](https://github.com/kostya)/[**ruby-app**](https://github.com/kostya/ruby-app)",
+              "Ruby micro framework for easy create ruby applications (daemons, EventMachine-apps, db-apps, cli...). Features: bundler, environments, activesupport, rails dirs tree. Fast loading and low memory using.",
+              ""
+            ],
+            [
+              "9",
+              "[@niquola](https://github.com/niquola)/[**health_seven**](https://github.com/niquola/health_seven)",
+              "ruby hl7 2.x support",
+              ""
+            ],
+            [
+              "9",
+              "[@niquola](https://github.com/niquola)/[**cLean-Architecture**](https://github.com/niquola/cLean-Architecture)",
+              "Illustration of architecture ideas, accumulated during 5y of ehr development",
+              ""
+            ],
+            [
+              "9",
+              "[@niquola](https://github.com/niquola)/[**fhir-ruby**](https://github.com/niquola/fhir-ruby)",
+              "",
+              ""
+            ],
+            [
+              "9",
+              "[@funny-falcon](https://github.com/funny-falcon)/[**thin-fun_embed**](https://github.com/funny-falcon/thin-fun_embed)",
+              "trim of Thin web server for embedding into eventmachined application",
+              ""
+            ],
+            [
+              "7",
+              "[@kostya](https://github.com/kostya)/[**eye-rotate**](https://github.com/kostya/eye-rotate)",
+              "Log rotate for the Eye gem.",
+              ""
+            ],
+            [
+              "7",
+              "[@kostya](https://github.com/kostya)/[**confuddle**](https://github.com/kostya/confuddle)",
+              "Utility for work with unfuddle.com account from console",
+              ""
+            ],
+            [
+              "7",
+              "[@dustalov](https://github.com/dustalov)/[**myasorubka**](https://github.com/dustalov/myasorubka)",
+              "Morphological data processor, in Ruby.",
+              "[:arrow_upper_right:](https://github.com/dustalov/myaso)"
+            ],
+            [
+              "7",
+              "[@oruen](https://github.com/oruen)/[**rails_admin-treeview**](https://github.com/oruen/rails_admin-treeview)",
+              "Tree-style sidebar navigation",
+              ""
+            ],
+            [
+              "7",
+              "[@ai](https://github.com/ai)/[**d2na**](https://github.com/ai/d2na)",
+              "D²NA language for пenetic programming",
+              ""
+            ],
+            [
+              "7",
+              "[@davydovanton](https://github.com/davydovanton)/[**rodauth_hanami**](https://github.com/davydovanton/rodauth_hanami)",
+              "Example app for integrate rodauth server to hanami app",
+              ""
+            ],
+            [
+              "7",
+              "[@niquola](https://github.com/niquola)/[**ruby-cda**](https://github.com/niquola/ruby-cda)",
+              "lib for parse & generation of HL7 cda documents",
+              ""
+            ],
+            [
+              "7",
+              "[@niquola](https://github.com/niquola)/[**pg_gnostic**](https://github.com/niquola/pg_gnostic)",
+              "rails and postgresql integration",
+              ""
+            ],
+            [
+              "6",
+              "[@TimothyKlim](https://github.com/TimothyKlim)/[**typescript-ruby**](https://github.com/TimothyKlim/typescript-ruby)",
+              "Ruby TypeScript Compiler",
+              ""
+            ],
+            [
+              "6",
+              "[@kostya](https://github.com/kostya)/[**eye-http**](https://github.com/kostya/eye-http)",
+              "Http interface for the Eye gem",
+              ""
+            ],
+            [
+              "6",
+              "[@kostya](https://github.com/kostya)/[**sidekiq-kawai**](https://github.com/kostya/sidekiq-kawai)",
+              "Syntax sugar for Sidekiq consumers. Each consumer is a class, with clean interface, and custom logger.",
+              ""
+            ],
+            [
+              "6",
+              "[@kostya](https://github.com/kostya)/[**nagios_helper**](https://github.com/kostya/nagios_helper)",
+              "Gem for writing, testing, executing Nagios checks inside Rails application. Checks running throught http or script.",
+              ""
+            ],
+            [
+              "6",
+              "[@funny-falcon](https://github.com/funny-falcon)/[**ru_excel**](https://github.com/funny-falcon/ru_excel)",
+              "Port of pyExcelerator",
+              ""
+            ],
+            [
+              "6",
+              "[@kostya](https://github.com/kostya)/[**pg_reindex**](https://github.com/kostya/pg_reindex)",
+              "Console utility for gracefully rebuild indexes/pkeys for PostgreSQL, with minimal locking in semi-auto mode.",
+              ""
+            ],
+            [
+              "6",
+              "[@kostya](https://github.com/kostya)/[**bin_script**](https://github.com/kostya/bin_script)",
+              "Easy writing and executing bins(executable scripts) in Rails Application (especially for crontab or god). For my purposes much better than Rake, Thor and Rails Runner.",
+              ""
+            ],
+            [
+              "5",
+              "[@funny-falcon](https://github.com/funny-falcon)/[**tarantool16-ruby**](https://github.com/funny-falcon/tarantool16-ruby)",
+              "Ruby driver for Tarantool 1.6",
+              ""
+            ],
+            [
+              "5",
+              "[@brainopia](https://github.com/brainopia)/[**cassandra-flow**](https://github.com/brainopia/cassandra-flow)",
+              "Flexible workflow for cassandra",
+              ""
+            ],
+            [
+              "5",
+              "[@brainopia](https://github.com/brainopia)/[**robocup-client**](https://github.com/brainopia/robocup-client)",
+              "Code for a robocup team in simulation 3d league",
+              ""
+            ],
+            [
+              "5",
+              "[@mokevnin](https://github.com/mokevnin)/[**capybara-rails**](https://github.com/mokevnin/capybara-rails)",
+              "Special support for Capybara and DatabaseCleaner",
+              ""
+            ],
+            [
+              "5",
+              "[@niquola](https://github.com/niquola)/[**dojo_on_rails**](https://github.com/niquola/dojo_on_rails)",
+              "dojo and rails integration. Moved to depo",
+              ""
+            ],
+            [
+              "5",
+              "[@AlekSi](https://github.com/AlekSi)/[**redmine_code_review**](https://github.com/AlekSi/redmine_code_review)",
+              "Automated mirror + my patches; see wiki for details",
+              "[:arrow_upper_right:](http://r-labs.googlecode.com/)"
+            ],
+            [
+              "4",
+              "[@ai](https://github.com/ai)/[**dis.spbstu.ru**](https://github.com/ai/dis.spbstu.ru)",
+              "Department homepage",
+              ""
+            ],
+            [
+              "4",
+              "[@dustalov](https://github.com/dustalov)/[**TesuckThesis**](https://github.com/dustalov/TesuckThesis)",
+              "Research and Development of Automatic Keyphrase Extraction System from Natural Language Text.",
+              "[:arrow_upper_right:](http://eveel.ru)"
+            ],
+            [
+              "4",
+              "[@oruen](https://github.com/oruen)/[**vk_api**](https://github.com/oruen/vk_api)",
+              "Ruby wrapper for VK.com API",
+              ""
+            ],
+            [
+              "4",
+              "[@r3nya](https://github.com/r3nya)/[**simple_store**](https://github.com/r3nya/simple_store)",
+              "Example store on RoR 4",
+              ""
+            ],
+            [
+              "4",
+              "[@davydovanton](https://github.com/davydovanton)/[**hanami-bench**](https://github.com/davydovanton/hanami-bench)",
+              "Benchmarks for hanami",
+              ""
+            ],
+            [
+              "4",
+              "[@funny-falcon](https://github.com/funny-falcon)/[**funfig**](https://github.com/funny-falcon/funfig)",
+              "Configuration schema with calculable but overwriteable defaults",
+              ""
+            ],
+            [
+              "4",
+              "[@kostya](https://github.com/kostya)/[**resque-kawai**](https://github.com/kostya/resque-kawai)",
+              "Syntax sugar for Resque consumers. Each consumer is a class, with clean interface, and custom logger.",
+              ""
+            ],
+            [
+              "4",
+              "[@kostya](https://github.com/kostya)/[**idn_ffi**](https://github.com/kostya/idn_ffi)",
+              "LibIdn FFI ruby binding",
+              ""
+            ],
+            [
+              "4",
+              "[@AlekSi](https://github.com/AlekSi)/[**redmine_hudson**](https://github.com/AlekSi/redmine_hudson)",
+              "Automated mirror + my patches; see wiki for details",
+              "[:arrow_upper_right:](http://r-labs.googlecode.com/)"
+            ],
+            [
+              "4",
+              "[@brainopia](https://github.com/brainopia)/[**cassandra-mapper**](https://github.com/brainopia/cassandra-mapper)",
+              "Cassandra mapper",
+              ""
+            ],
+            [
+              "4",
+              "[@niquola](https://github.com/niquola)/[**simple_rest**](https://github.com/niquola/simple_rest)",
+              "ActionControllers helper methods for restful response handling",
+              ""
+            ],
+            [
+              "4",
+              "[@niquola](https://github.com/niquola)/[**famili**](https://github.com/niquola/famili)",
+              "Yet another ObjectMother pattern implementation for rails testing",
+              "[:arrow_upper_right:](http://github.com/niquola/famili)"
+            ],
+            [
+              "4",
+              "[@gazay](https://github.com/gazay)/[**is**](https://github.com/gazay/is)",
+              "Small simple tool for finding points in polygons",
+              ""
+            ],
+            [
+              "4",
+              "[@gazay](https://github.com/gazay)/[**repka**](https://github.com/gazay/repka)",
+              "Repka will help you easily gather stats from controllers if you use mongoid",
+              ""
+            ],
+            [
+              "3",
+              "[@kostya](https://github.com/kostya)/[**forking**](https://github.com/kostya/forking)",
+              "Simple processes forking, and restarting. Master process starts as daemon.",
+              ""
+            ],
+            [
+              "3",
+              "[@zzet](https://github.com/zzet)/[**persey**](https://github.com/zzet/persey)",
+              "Persey help you easily manage the configuration, depending on the environment.",
+              ""
+            ],
+            [
+              "3",
+              "[@funny-falcon](https://github.com/funny-falcon)/[**rails_db_browser**](https://github.com/funny-falcon/rails_db_browser)",
+              "Simple Rails web db console",
+              ""
+            ],
+            [
+              "3",
+              "[@davydovanton](https://github.com/davydovanton)/[**hanami-rodauth**](https://github.com/davydovanton/hanami-rodauth)",
+              "Roudauth wrapper for hanami apps",
+              ""
+            ],
+            [
+              "3",
+              "[@dustalov](https://github.com/dustalov)/[**utochki**](https://github.com/dustalov/utochki)",
+              "Swim and deploy your files over FTP.",
+              "[:arrow_upper_right:](http://github.com/eveel/utochki)"
+            ],
+            [
+              "3",
+              "[@shell](https://github.com/shell)/[**radiant-mygengo-exte…**](https://github.com/shell/radiant-mygengo-extension)",
+              "Extension to RadiantCMS that brings integration with myGengo API",
+              "[:arrow_upper_right:](http://penkin.co.uk/mygengo-contest/)"
+            ],
+            [
+              "3",
+              "[@ai](https://github.com/ai)/[**ruby2jar**](https://github.com/ai/ruby2jar)",
+              "Ruby2Jar builds JAR from a Ruby script",
+              "[:arrow_upper_right:](http://ruby2jar.rubyforge.org/)"
+            ],
+            [
+              "3",
+              "[@gazay](https://github.com/gazay)/[**diffit**](https://github.com/gazay/diffit)",
+              "A simple solution to track changes in your tables.",
+              ""
+            ],
+            [
+              "3",
+              "[@niquola](https://github.com/niquola)/[**depo**](https://github.com/niquola/depo)",
+              "Dojo and Rails integration plugin",
+              ""
+            ],
+            [
+              "3",
+              "[@brainopia](https://github.com/brainopia)/[**floq**](https://github.com/brainopia/floq)",
+              "Queues",
+              ""
+            ],
+            [
+              "3",
+              "[@brainopia](https://github.com/brainopia)/[**workstation**](https://github.com/brainopia/workstation)",
+              "chef workstation setup",
+              ""
+            ],
+            [
+              "3",
+              "[@ai](https://github.com/ai)/[**wsd2013**](https://github.com/ai/wsd2013)",
+              "Презентация «Автопрефиксер: мир без CSS-префиксов»",
+              "[:arrow_upper_right:](http://ai.github.io/wsd2013/)"
+            ],
+            [
+              "3",
+              "[@niquola](https://github.com/niquola)/[**hstored_document**](https://github.com/niquola/hstored_document)",
+              "Store and efficiently retrieve deep ruby hash into postgresql table with hstore field",
+              ""
+            ],
+            [
+              "3",
+              "[@davydovanton](https://github.com/davydovanton)/[**link-shortener**](https://github.com/davydovanton/link-shortener)",
+              "Simple hanami link shortener application",
+              ""
+            ],
+            [
+              "3",
+              "[@ai](https://github.com/ai)/[**sitnik.ru**](https://github.com/ai/sitnik.ru)",
+              "My homepage content and scripts",
+              "[:arrow_upper_right:](http://sitnik.ru)"
+            ],
+            [
+              "2",
+              "[@brainopia](https://github.com/brainopia)/[**flow**](https://github.com/brainopia/flow)",
+              "Stream processing framework",
+              ""
+            ],
+            [
+              "2",
+              "[@dustalov](https://github.com/dustalov)/[**cograge**](https://github.com/dustalov/cograge)",
+              "OpenGL Exercises for Computer Graphics and Geometry Course in USTU-UPI.",
+              "[:arrow_upper_right:](http://www.eveel.ru/)"
+            ],
+            [
+              "2",
+              "[@funny-falcon](https://github.com/funny-falcon)/[**split_pgdump**](https://github.com/funny-falcon/split_pgdump)",
+              "Turn postgresql dump in a set of small sorted files",
+              ""
+            ],
+            [
+              "2",
+              "[@dustalov](https://github.com/dustalov)/[**laces**](https://github.com/dustalov/laces)",
+              "Laces on Shoes.",
+              "[:arrow_upper_right:](http://dev.eveel.ru/laces)"
+            ],
+            [
+              "2",
+              "[@gazay](https://github.com/gazay)/[**mnemonic**](https://github.com/gazay/mnemonic)",
+              "Simple logger to show where is leaking by many-many puts",
+              ""
+            ],
+            [
+              "2",
+              "[@zzet](https://github.com/zzet)/[**ecwid_gateway**](https://github.com/zzet/ecwid_gateway)",
+              "api wrapper for ecwid",
+              ""
+            ],
+            [
+              "2",
+              "[@dustalov](https://github.com/dustalov)/[**dotscripts**](https://github.com/dustalov/dotscripts)",
+              "A couple of useful scripts from me.",
+              "[:arrow_upper_right:](http://ustalov.name/)"
+            ],
+            [
+              "2",
+              "[@alexclear](https://github.com/alexclear)/[**pinba-munin-plugins**](https://github.com/alexclear/pinba-munin-plugins)",
+              "A couple of plugins for collecting and visualising PINBA data",
+              ""
+            ],
+            [
+              "2",
+              "[@alexclear](https://github.com/alexclear)/[**mysql_utils**](https://github.com/alexclear/mysql_utils)",
+              "Various utilities to manage MySQL DBs",
+              ""
+            ],
+            [
+              "2",
+              "[@shell](https://github.com/shell)/[**penkin.co.uk**](https://github.com/shell/penkin.co.uk)",
+              "blog",
+              "[:arrow_upper_right:](http://penkin.co.uk)"
+            ],
+            [
+              "2",
+              "[@niquola](https://github.com/niquola)/[**dojo_src**](https://github.com/niquola/dojo_src)",
+              "Dojo packaged as a gem",
+              ""
+            ],
+            [
+              "2",
+              "[@ai](https://github.com/ai)/[**plague**](https://github.com/ai/plague)",
+              "Blog/book Plague engine",
+              ""
+            ],
+            [
+              "2",
+              "[@niquola](https://github.com/niquola)/[**ubiquitous-language**](https://github.com/niquola/ubiquitous-language)",
+              "ubiquitous language (DDD) implimentation in ruby",
+              ""
+            ],
+            [
+              "2",
+              "[@yaroslav](https://github.com/yaroslav)/[**pluralized_models**](https://github.com/yaroslav/pluralized_models)",
+              "Funky experimental plugin for ActiveRecord: you can now type Posts.all/find/scoped instead of Post.all/find/scoped.",
+              ""
+            ],
+            [
+              "2",
+              "[@gazay](https://github.com/gazay)/[**friendly_admin**](https://github.com/gazay/friendly_admin)",
+              "Friendly admin",
+              ""
+            ],
+            [
+              "2",
+              "[@AlekSi](https://github.com/AlekSi)/[**graytoad**](https://github.com/AlekSi/graytoad)",
+              "Graylog2 + Hoptoad",
+              ""
+            ],
+            [
+              "2",
+              "[@niquola](https://github.com/niquola)/[**kung_figure**](https://github.com/niquola/kung_figure)",
+              "Simple Ruby configuration DSL",
+              ""
+            ],
+            [
+              "2",
+              "[@dustalov](https://github.com/dustalov)/[**quoreux**](https://github.com/dustalov/quoreux)",
+              "Quoreux: Sinatra, rQRCode, GD2",
+              "[:arrow_upper_right:](http://github.com/eveel/quoreux)"
+            ],
+            [
+              "2",
+              "[@zzet](https://github.com/zzet)/[**Ecwid**](https://github.com/zzet/Ecwid)",
+              "Synchronization Models with Ecwid store data",
+              ""
+            ],
+            [
+              "2",
+              "[@kostya](https://github.com/kostya)/[**pgq_web**](https://github.com/kostya/pgq_web)",
+              "Web interface for pgq gem. Inspect pgq and londiste queues",
+              ""
+            ],
+            [
+              "2",
+              "[@dustalov](https://github.com/dustalov)/[**ruby-jetspade**](https://github.com/dustalov/ruby-jetspade)",
+              "Ruby/JetSpade Interface",
+              "[:arrow_upper_right:](http://jetspade.ru/)"
+            ],
+            [
+              "2",
+              "[@kostya](https://github.com/kostya)/[**encoding-kawai**](https://github.com/kostya/encoding-kawai)",
+              "EncodingKawai - little sintax sugar for ruby force_encoding, also working on 1.8.7.",
+              ""
+            ],
+            [
+              "2",
+              "[@dustalov](https://github.com/dustalov)/[**myaso-web**](https://github.com/dustalov/myaso-web)",
+              "An user interface for the Myaso analyzer.",
+              "[:arrow_upper_right:](http://nlpub.ru/wiki/Myaso)"
+            ],
+            [
+              "2",
+              "[@kostya](https://github.com/kostya)/[**msgpack_protocol**](https://github.com/kostya/msgpack_protocol)",
+              "Msgpack protocol for eventmachine",
+              ""
+            ],
+            [
+              "2",
+              "[@niquola](https://github.com/niquola)/[**conditioner**](https://github.com/niquola/conditioner)",
+              "simple conditions builder for active record",
               ""
             ]
           ]
