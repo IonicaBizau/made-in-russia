@@ -59,7 +59,8 @@
           "[Go](#go)",
           "[Haskell](#haskell)",
           "[Lua](#lua)",
-          "[Matlab](#matlab)"
+          "[Matlab](#matlab)",
+          "[Objective-C](#objective-c)"
         ]
       },
       {
@@ -3489,6 +3490,363 @@
               "7",
               "[@Bihaqo](https://github.com/Bihaqo)/[**TT-MRF**](https://github.com/Bihaqo/TT-MRF)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Objective-C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "1866",
+              "[@kolyvan](https://github.com/kolyvan)/[**kxmovie**](https://github.com/kolyvan/kxmovie)",
+              "movie player for iOS using ffmpeg",
+              ""
+            ],
+            [
+              "1423",
+              "[@kolyvan](https://github.com/kolyvan)/[**kxmenu**](https://github.com/kolyvan/kxmenu)",
+              "KxMenu is a vertical popup menu for using in iOS applications",
+              ""
+            ],
+            [
+              "721",
+              "[@Friend-LGA](https://github.com/Friend-LGA)/[**LGSideMenuController**](https://github.com/Friend-LGA/LGSideMenuController)",
+              "iOS side menu view controller shows left and right views on top of everything by pressing button or gesture",
+              ""
+            ],
+            [
+              "385",
+              "[@Friend-LGA](https://github.com/Friend-LGA)/[**LGAlertView**](https://github.com/Friend-LGA/LGAlertView)",
+              "Customizable implementation of UIAlertViewController, UIAlertView and UIActionSheet. All in one. You can customize every detail. Make AlertView of your dream! :)",
+              ""
+            ],
+            [
+              "257",
+              "[@Friend-LGA](https://github.com/Friend-LGA)/[**LGPlusButtonsView**](https://github.com/Friend-LGA/LGPlusButtonsView)",
+              "iOS implementation of Floating Action Button (Google Plus Button, fab), that shows more options",
+              ""
+            ],
+            [
+              "173",
+              "[@EugeneTrapeznikov](https://github.com/EugeneTrapeznikov)/[**ETFoursquareImages**](https://github.com/EugeneTrapeznikov/ETFoursquareImages)",
+              "Places' top images page like in Foursqaure app.",
+              ""
+            ],
+            [
+              "168",
+              "[@kolyvan](https://github.com/kolyvan)/[**kxtorrent**](https://github.com/kolyvan/kxtorrent)",
+              "torrent (bittorrent) client for iPhone",
+              ""
+            ],
+            [
+              "162",
+              "[@kolyvan](https://github.com/kolyvan)/[**kxsmb**](https://github.com/kolyvan/kxsmb)",
+              "KxSMB is objective-c wrapper for libsmbclient (samba.org) lib.",
+              ""
+            ],
+            [
+              "142",
+              "[@Friend-LGA](https://github.com/Friend-LGA)/[**LGRefreshView**](https://github.com/Friend-LGA/LGRefreshView)",
+              "iOS pull to refresh for UIScrollView, UITableView and UICollectionView",
+              ""
+            ],
+            [
+              "119",
+              "[@Friend-LGA](https://github.com/Friend-LGA)/[**LGActionSheet**](https://github.com/Friend-LGA/LGActionSheet)",
+              "Customizable implementation of UIActionSheet",
+              ""
+            ],
+            [
+              "115",
+              "[@opedge](https://github.com/opedge)/[**DrawReport**](https://github.com/opedge/DrawReport)",
+              "Report UI issues, live long, be happy.",
+              ""
+            ],
+            [
+              "109",
+              "[@Friend-LGA](https://github.com/Friend-LGA)/[**LGFilterView**](https://github.com/Friend-LGA/LGFilterView)",
+              "View shows and applies different filters in iOS app",
+              ""
+            ],
+            [
+              "107",
+              "[@slavikus](https://github.com/slavikus)/[**Icy**](https://github.com/slavikus/Icy)",
+              "Icy is a lightweight DPKG-based installer for the iPhone.",
+              ""
+            ],
+            [
+              "98",
+              "[@opedge](https://github.com/opedge)/[**OMAMovingAnnotations**](https://github.com/opedge/OMAMovingAnnotations)",
+              "Moving annotations for iOS MapView",
+              ""
+            ],
+            [
+              "69",
+              "[@EugeneTrapeznikov](https://github.com/EugeneTrapeznikov)/[**ETActivityIndicatorV…**](https://github.com/EugeneTrapeznikov/ETActivityIndicatorView)",
+              "Windows Phone like activity indicator for ios",
+              ""
+            ],
+            [
+              "67",
+              "[@kolyvan](https://github.com/kolyvan)/[**kxintro**](https://github.com/kolyvan/kxintro)",
+              "KxIntro is a small set of objective-c classes for showing of introduction in iOS app",
+              ""
+            ],
+            [
+              "61",
+              "[@Friend-LGA](https://github.com/Friend-LGA)/[**LGDrawer**](https://github.com/Friend-LGA/LGDrawer)",
+              "iOS helper draws UIImages programmatically",
+              ""
+            ],
+            [
+              "55",
+              "[@Friend-LGA](https://github.com/Friend-LGA)/[**LGPlaceholderView**](https://github.com/Friend-LGA/LGPlaceholderView)",
+              "View covers everything inside view controller, and shows some alert text, progress bar or other view, when you need to hide content",
+              ""
+            ],
+            [
+              "50",
+              "[@Friend-LGA](https://github.com/Friend-LGA)/[**LGViews**](https://github.com/Friend-LGA/LGViews)",
+              "Classes extends abilities of UILabel, UIButton, UITextField and UITextView",
+              ""
+            ],
+            [
+              "38",
+              "[@EugeneTrapeznikov](https://github.com/EugeneTrapeznikov)/[**ETSwipeCell**](https://github.com/EugeneTrapeznikov/ETSwipeCell)",
+              "UITableViewCell's subclass with gestures",
+              ""
+            ],
+            [
+              "33",
+              "[@Kentzo](https://github.com/Kentzo)/[**IKSegmentedControl**](https://github.com/Kentzo/IKSegmentedControl)",
+              "OpenSource analog of UISegmentedControl. Allows you to customize segment view.",
+              ""
+            ],
+            [
+              "32",
+              "[@Friend-LGA](https://github.com/Friend-LGA)/[**LGHelper**](https://github.com/Friend-LGA/LGHelper)",
+              "iOS helper contains a lot of useful macrosses, methods and hints for every day",
+              ""
+            ],
+            [
+              "29",
+              "[@etolstoy](https://github.com/etolstoy)/[**UIViewController-Rou…**](https://github.com/etolstoy/UIViewController-Routing)",
+              "Better Navigation in iOS",
+              ""
+            ],
+            [
+              "28",
+              "[@mureev](https://github.com/mureev)/[**CMDataStorage**](https://github.com/mureev/CMDataStorage)",
+              "Simple and powerful API to work with NSData in IOS Cache, Documents and Temp folder.",
+              ""
+            ],
+            [
+              "25",
+              "[@mureev](https://github.com/mureev)/[**CMSlideController**](https://github.com/mureev/CMSlideController)",
+              "UIViewController container with awesome iOS 7 slide menu, parallax menu and UIKit Dynamics.",
+              ""
+            ],
+            [
+              "23",
+              "[@mureev](https://github.com/mureev)/[**CMActionSheet**](https://github.com/mureev/CMActionSheet)",
+              "Beautifully done UIActionSheet replacement for iOS (Inspired by TweetBot, RDActionSheet and BlockAlertsAnd-ActionSheets repos)",
+              ""
+            ],
+            [
+              "22",
+              "[@Friend-LGA](https://github.com/Friend-LGA)/[**LGRadioButtonsView**](https://github.com/Friend-LGA/LGRadioButtonsView)",
+              "iOS implementation of radio buttons",
+              ""
+            ],
+            [
+              "22",
+              "[@chebur](https://github.com/chebur)/[**CHRTextFieldFormatte…**](https://github.com/chebur/CHRTextFieldFormatter)",
+              "Provides UITextField formatting masks. Such as phone number and credit card number formatters.",
+              ""
+            ],
+            [
+              "21",
+              "[@Friend-LGA](https://github.com/Friend-LGA)/[**LGAudioStreamHelper**](https://github.com/Friend-LGA/LGAudioStreamHelper)",
+              "iOS helper for easy recording audio stream, getting metadata and type of stream",
+              ""
+            ],
+            [
+              "20",
+              "[@slavikus](https://github.com/slavikus)/[**Hood**](https://github.com/slavikus/Hood)",
+              "Lightweight WiFi, GPRS, etc switcher for iOS",
+              ""
+            ],
+            [
+              "16",
+              "[@Friend-LGA](https://github.com/Friend-LGA)/[**LGSharing**](https://github.com/Friend-LGA/LGSharing)",
+              "iOS helper for easy sharing with email, message or social networks like facebook, twitter, google+ and vkontakte",
+              ""
+            ],
+            [
+              "15",
+              "[@etolstoy](https://github.com/etolstoy)/[**ParseRevealer**](https://github.com/etolstoy/ParseRevealer)",
+              "Pentesting apps using Parse as a backend",
+              ""
+            ],
+            [
+              "14",
+              "[@mureev](https://github.com/mureev)/[**ObjCMacros**](https://github.com/mureev/ObjCMacros)",
+              "ObjCMacros is set of macros and constants that speed up development without adding any new classes and categories.",
+              ""
+            ],
+            [
+              "14",
+              "[@Kentzo](https://github.com/Kentzo)/[**IKNetworkActivityMan…**](https://github.com/Kentzo/IKNetworkActivityManager)",
+              "The IKNetworkActivityManager class simplifies work with UIApplication network activity indicator. It turns your networkActivityIndicatorVisible = YES/NO code to add/removeNetworkUser:, so you don't need to remember about objects that can use network anymore.",
+              ""
+            ],
+            [
+              "13",
+              "[@Friend-LGA](https://github.com/Friend-LGA)/[**LGHelper-NS**](https://github.com/Friend-LGA/LGHelper-NS)",
+              "iOS helper extends NSArray, NSData, NSDate, NSDictionary and other NS* classes",
+              ""
+            ],
+            [
+              "13",
+              "[@kolyvan](https://github.com/kolyvan)/[**kxhtml**](https://github.com/kolyvan/kxhtml)",
+              "simple and lightweight HTML renderer for iOS",
+              ""
+            ],
+            [
+              "13",
+              "[@Friend-LGA](https://github.com/Friend-LGA)/[**LGViewControllers**](https://github.com/Friend-LGA/LGViewControllers)",
+              "Classes extends abilities of UITableViewController, UICollectionViewController, and more",
+              ""
+            ],
+            [
+              "13",
+              "[@Kentzo](https://github.com/Kentzo)/[**IKConnectionDelegate**](https://github.com/Kentzo/IKConnectionDelegate)",
+              "The IKConnectionDelegate class simplifies your NSURLConnection-related code by using GCD and blocks.",
+              ""
+            ],
+            [
+              "12",
+              "[@Friend-LGA](https://github.com/Friend-LGA)/[**LGConnection**](https://github.com/Friend-LGA/LGConnection)",
+              "iOS wrapper around AFNetworking makes it easy to use",
+              ""
+            ],
+            [
+              "10",
+              "[@Friend-LGA](https://github.com/Friend-LGA)/[**LGHelper-UI**](https://github.com/Friend-LGA/LGHelper-UI)",
+              "iOS helper extends UIColor, UIImage, UILabel, and other UI* classes",
+              ""
+            ],
+            [
+              "8",
+              "[@kolyvan](https://github.com/kolyvan)/[**kxtools**](https://github.com/kolyvan/kxtools)",
+              "a small collection of objective-c categories, classes and macros",
+              ""
+            ],
+            [
+              "8",
+              "[@kolyvan](https://github.com/kolyvan)/[**kxgridmenu**](https://github.com/kolyvan/kxgridmenu)",
+              "A grid menu with a blurred background for iOS 8.",
+              ""
+            ],
+            [
+              "8",
+              "[@Kentzo](https://github.com/Kentzo)/[**IKApplicationPrefere…**](https://github.com/Kentzo/IKApplicationPreferences)",
+              "Simple and beautiful way to add preferences to your Mac application. Mac OS X 10.6+, 64bit, ARC",
+              ""
+            ],
+            [
+              "8",
+              "[@Kentzo](https://github.com/Kentzo)/[**Xcode-Singleton-Temp…**](https://github.com/Kentzo/Xcode-Singleton-Template)",
+              "Xcode template for an NSObject Singleton subclass",
+              ""
+            ],
+            [
+              "5",
+              "[@chebur](https://github.com/chebur)/[**ELActionCell**](https://github.com/chebur/ELActionCell)",
+              "An exact copy of the Mail.app cell behavior",
+              ""
+            ],
+            [
+              "5",
+              "[@Kentzo](https://github.com/Kentzo)/[**Iceberg**](https://github.com/Kentzo/Iceberg)",
+              "Unofficial git fork of Iceberg",
+              "[:arrow_upper_right:](http://s.sudre.free.fr/Software/Iceberg.html)"
+            ],
+            [
+              "4",
+              "[@Kentzo](https://github.com/Kentzo)/[**DBPrefsWindowControl…**](https://github.com/Kentzo/DBPrefsWindowController)",
+              "Allows you to create preferences window like in Apple's apps.",
+              "[:arrow_upper_right:](http://www.meremortalsoftware.com/blog/details.php?d=2007-03-11)"
+            ],
+            [
+              "4",
+              "[@etolstoy](https://github.com/etolstoy)/[**MultipleStoryboardsS…**](https://github.com/etolstoy/MultipleStoryboardsSample)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@Kentzo](https://github.com/Kentzo)/[**RecentlyClosedTabs**](https://github.com/Kentzo/RecentlyClosedTabs)",
+              "This plugin allows you to keep history of closed tabs in Safari",
+              "[:arrow_upper_right:](http://kentzo.github.com/RecentlyClosedTabs)"
+            ],
+            [
+              "4",
+              "[@Kentzo](https://github.com/Kentzo)/[**ShortcutRecorderDemo**](https://github.com/Kentzo/ShortcutRecorderDemo)",
+              "Demo for ShortcutRecorder",
+              ""
+            ],
+            [
+              "4",
+              "[@ArtemKyslicyn](https://github.com/ArtemKyslicyn)/[**DivRssReader**](https://github.com/ArtemKyslicyn/DivRssReader)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@kolyvan](https://github.com/kolyvan)/[**DTCoreTextLab**](https://github.com/kolyvan/DTCoreTextLab)",
+              "sample of DTCoreText",
+              ""
+            ],
+            [
+              "3",
+              "[@Kentzo](https://github.com/Kentzo)/[**WhereAreYou**](https://github.com/Kentzo/WhereAreYou)",
+              "App for topcoders competition http://www.topcoder.com/wiki/display/doc…",
+              ""
+            ],
+            [
+              "3",
+              "[@kolyvan](https://github.com/kolyvan)/[**kxutils**](https://github.com/kolyvan/kxutils)",
+              "A set of useful components and categories for iOS",
+              ""
+            ],
+            [
+              "3",
+              "[@Kentzo](https://github.com/Kentzo)/[**IKPowerSources**](https://github.com/Kentzo/IKPowerSources)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@azimin](https://github.com/azimin)/[**FoodlePayPal**](https://github.com/azimin/FoodlePayPal)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@kolyvan](https://github.com/kolyvan)/[**kxvif2ne**](https://github.com/kolyvan/kxvif2ne)",
+              "iOS application for viewing VIF2NE.RU forum",
               ""
             ]
           ]
