@@ -52,7 +52,8 @@
           "[CSS](#css)",
           "[HTML](#html)",
           "[C](undefined)",
-          "[C++](#c-2)"
+          "[C++](#c-2)",
+          "[ActionScript](#actionscript)"
         ]
       },
       {
@@ -2693,6 +2694,69 @@
               "2",
               "[@CODeRUS](https://github.com/CODeRUS)/[**aliendalvik-control**](https://github.com/CODeRUS/aliendalvik-control)",
               "DBus daemon for controlling aliendalvik and sending commands",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "ActionScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "19",
+              "[@mayakwd](https://github.com/mayakwd)/[**as3-eaze-tween**](https://github.com/mayakwd/as3-eaze-tween)",
+              "Eaze Tween: smart, fast, chainable and compact Flash AS3 tweening library",
+              ""
+            ],
+            [
+              "13",
+              "[@DmitriyYukhanov](https://github.com/DmitriyYukhanov)/[**XFLTool**](https://github.com/DmitriyYukhanov/XFLTool)",
+              "Tool designed to help with optimization, cleaning and overall maintenance of the Adobe Flash Professional projects",
+              ""
+            ],
+            [
+              "10",
+              "[@mayakwd](https://github.com/mayakwd)/[**as3-vanilla-ice**](https://github.com/mayakwd/as3-vanilla-ice)",
+              "Extract strongly typed Objects from dynamic objects without writing a single line of code!",
+              ""
+            ],
+            [
+              "6",
+              "[@mayakwd](https://github.com/mayakwd)/[**as3-json-formatter**](https://github.com/mayakwd/as3-json-formatter)",
+              "JSON Formatter",
+              "[:arrow_upper_right:](http://pastila.org/as3-json-formatter/)"
+            ],
+            [
+              "5",
+              "[@DmitriyYukhanov](https://github.com/DmitriyYukhanov)/[**fpresent**](https://github.com/DmitriyYukhanov/fpresent)",
+              "Fast-written slideshow engine",
+              ""
+            ],
+            [
+              "3",
+              "[@kirillrybin](https://github.com/kirillrybin)/[**Unity-Flash-Socket-C…**](https://github.com/kirillrybin/Unity-Flash-Socket-Connection)",
+              "Sample projects for Unity and Flash aka Client-Server via Sockets",
+              ""
+            ],
+            [
+              "2",
+              "[@zlumer](https://github.com/zlumer)/[**as3-dataobject**](https://github.com/zlumer/as3-dataobject)",
+              "AS3 ORM",
+              ""
+            ],
+            [
+              "2",
+              "[@mayakwd](https://github.com/mayakwd)/[**as3-rest**](https://github.com/mayakwd/as3-rest)",
+              "Basic REST-Service framework",
               ""
             ]
           ]
