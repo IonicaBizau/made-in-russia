@@ -56,7 +56,8 @@
           "[ActionScript](#actionscript)",
           "[Clojure](#clojure)",
           "[CoffeeScript](#coffeescript)",
-          "[Go](#go)"
+          "[Go](#go)",
+          "[Haskell](#haskell)"
         ]
       },
       {
@@ -3243,6 +3244,159 @@
               "2",
               "[@grafov](https://github.com/grafov)/[**wtfm**](https://github.com/grafov/wtfm)",
               "Where's the fucking manual? (ok, let Write the Fabulous Manual)",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Haskell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "202",
+              "[@anton-k](https://github.com/anton-k)/[**ru-haskell-book**](https://github.com/anton-k/ru-haskell-book)",
+              "учебник по Haskell",
+              ""
+            ],
+            [
+              "44",
+              "[@qrilka](https://github.com/qrilka)/[**xlsx**](https://github.com/qrilka/xlsx)",
+              "Simple and incomplete Excel file parser/writer",
+              ""
+            ],
+            [
+              "21",
+              "[@l29ah](https://github.com/l29ah)/[**muesli**](https://github.com/l29ah/muesli)",
+              "An alternative apporach to Soylent",
+              ""
+            ],
+            [
+              "19",
+              "[@anton-k](https://github.com/anton-k)/[**processing-for-haske…**](https://github.com/anton-k/processing-for-haskell)",
+              "Graphics for kids and artists. Processing implemented in Haskell",
+              ""
+            ],
+            [
+              "17",
+              "[@qnikst](https://github.com/qnikst)/[**imagemagick**](https://github.com/qnikst/imagemagick)",
+              "haskell imagemagick bindings",
+              ""
+            ],
+            [
+              "10",
+              "[@graninas](https://github.com/graninas)/[**GraphServer**](https://github.com/graninas/GraphServer)",
+              "GraphServer for Haskell code visualization",
+              ""
+            ],
+            [
+              "10",
+              "[@graninas](https://github.com/graninas)/[**The-Amoeba-World**](https://github.com/graninas/The-Amoeba-World)",
+              "The Amoeba World game",
+              ""
+            ],
+            [
+              "8",
+              "[@qnikst](https://github.com/qnikst)/[**okasaki**](https://github.com/qnikst/okasaki)",
+              "solutions for book C. Okasaki purely functional data structures",
+              ""
+            ],
+            [
+              "6",
+              "[@qnikst](https://github.com/qnikst)/[**numeric-ode**](https://github.com/qnikst/numeric-ode)",
+              "Haskell numerical ODE solvers",
+              ""
+            ],
+            [
+              "5",
+              "[@graninas](https://github.com/graninas)/[**Adv2Game**](https://github.com/graninas/Adv2Game)",
+              "Advanced Adventure Game on Haskell",
+              ""
+            ],
+            [
+              "5",
+              "[@qnikst](https://github.com/qnikst)/[**TcpServers**](https://github.com/qnikst/TcpServers)",
+              "Skeleton for haskell tcpservers",
+              ""
+            ],
+            [
+              "5",
+              "[@knsd](https://github.com/knsd)/[**crypto-pubkey-openss…**](https://github.com/knsd/crypto-pubkey-openssh)",
+              "OpenSSH keys decoder/encoder",
+              "[:arrow_upper_right:](http://hackage.haskell.org/package/crypto-pubkey-openssh)"
+            ],
+            [
+              "4",
+              "[@l29ah](https://github.com/l29ah)/[**9ptorrent**](https://github.com/l29ah/9ptorrent)",
+              "a bittorrent client with a filesystem interface",
+              ""
+            ],
+            [
+              "4",
+              "[@l29ah](https://github.com/l29ah)/[**Network-NineP**](https://github.com/l29ah/Network-NineP)",
+              "A library providing one with a somewhat higher level interface to 9P2000 protocol than existing implementations. Designed to facilitate rapid development of synthetic filesystems.",
+              ""
+            ],
+            [
+              "3",
+              "[@Elemir](https://github.com/Elemir)/[**network-ninep**](https://github.com/Elemir/network-ninep)",
+              "High-level 9p haskell library",
+              ""
+            ],
+            [
+              "3",
+              "[@graninas](https://github.com/graninas)/[**Quest-Tutorial-Code**](https://github.com/graninas/Quest-Tutorial-Code)",
+              "Quest Tutorial Code for Haskell Quest Tutorial articles",
+              ""
+            ],
+            [
+              "3",
+              "[@qnikst](https://github.com/qnikst)/[**distributed-process-…**](https://github.com/qnikst/distributed-process-zmq)",
+              "0MQ backend for distributed-process.",
+              ""
+            ],
+            [
+              "2",
+              "[@qnikst](https://github.com/qnikst)/[**libvirt-hs**](https://github.com/qnikst/libvirt-hs)",
+              "libvirt haskell bindings ",
+              ""
+            ],
+            [
+              "2",
+              "[@qrilka](https://github.com/qrilka)/[**yesod-crud-test**](https://github.com/qrilka/yesod-crud-test)",
+              "Playing with yesod scaffolding and Yesod.Helpers.Crud",
+              ""
+            ],
+            [
+              "2",
+              "[@l29ah](https://github.com/l29ah)/[**monad-peel**](https://github.com/l29ah/monad-peel)",
+              "taking over andersk's hackage package",
+              ""
+            ],
+            [
+              "2",
+              "[@l29ah](https://github.com/l29ah)/[**9ph**](https://github.com/l29ah/9ph)",
+              "implementation of the 9P2000 protocol for haskell",
+              ""
+            ],
+            [
+              "2",
+              "[@dmatveev](https://github.com/dmatveev)/[**mutators**](https://github.com/dmatveev/mutators)",
+              "Automatically generate \"setters\" for complex data structures",
+              ""
+            ],
+            [
+              "2",
+              "[@l29ah](https://github.com/l29ah)/[**xmonad-config**](https://github.com/l29ah/xmonad-config)",
+              "",
               ""
             ]
           ]
