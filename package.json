@@ -60,7 +60,8 @@
           "[Haskell](#haskell)",
           "[Lua](#lua)",
           "[Matlab](#matlab)",
-          "[Objective-C](#objective-c)"
+          "[Objective-C](#objective-c)",
+          "[Perl](#perl)"
         ]
       },
       {
@@ -3847,6 +3848,411 @@
               "2",
               "[@kolyvan](https://github.com/kolyvan)/[**kxvif2ne**](https://github.com/kolyvan/kxvif2ne)",
               "iOS application for viewing VIF2NE.RU forum",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Perl #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "83",
+              "[@berekuk](https://github.com/berekuk)/[**Ubic**](https://github.com/berekuk/Ubic)",
+              "Polymorphic service manager.",
+              "[:arrow_upper_right:](https://metacpan.org/release/Ubic)"
+            ],
+            [
+              "76",
+              "[@kappa](https://github.com/kappa)/[**yadisk-sync**](https://github.com/kappa/yadisk-sync)",
+              "Linux syncronizer for Yandex.Disk",
+              ""
+            ],
+            [
+              "24",
+              "[@sharifulin](https://github.com/sharifulin)/[**mojolicious-plugin-m…**](https://github.com/sharifulin/mojolicious-plugin-mail)",
+              "Mojolcious plugin for send mail",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Mojolicious-Plugin-Mail/)"
+            ],
+            [
+              "15",
+              "[@kappa](https://github.com/kappa)/[**perl-httpd-benchmark…**](https://github.com/kappa/perl-httpd-benchmarks)",
+              "Searching for fastest small Perl httpd",
+              ""
+            ],
+            [
+              "15",
+              "[@sharifulin](https://github.com/sharifulin)/[**mojolicious-plugin-s…**](https://github.com/sharifulin/mojolicious-plugin-sharehelpers)",
+              "Mojolicious::Plugin::ShareHelpers - A Mojolicious Plugin for generate share urls, buttons and meta for Twitter, Facebook, VK, MyMailRU and Google Plus",
+              ""
+            ],
+            [
+              "13",
+              "[@olegwtf](https://github.com/olegwtf)/[**proxyhunter**](https://github.com/olegwtf/proxyhunter)",
+              "Yet another proxy hunter",
+              ""
+            ],
+            [
+              "12",
+              "[@GreenKakadu](https://github.com/GreenKakadu)/[**mojolicious-plugin-d…**](https://github.com/GreenKakadu/mojolicious-plugin-dbi)",
+              "simple DBI plugin for Mojolicious",
+              ""
+            ],
+            [
+              "11",
+              "[@xoma](https://github.com/xoma)/[**Russian-translate-of…**](https://github.com/xoma/Russian-translate-of-Mojolicious-guides)",
+              "Перевод документации и рецептов для Perl-фреймворка Mojolicious",
+              "[:arrow_upper_right:](http://allframeworks.ru/)"
+            ],
+            [
+              "10",
+              "[@kappa](https://github.com/kappa)/[**App-ThinPacker**](https://github.com/kappa/App-ThinPacker)",
+              "Make scripts autoinstall their dependencies",
+              "[:arrow_upper_right:](http://kapranoff.ru/onefilers)"
+            ],
+            [
+              "9",
+              "[@kappa](https://github.com/kappa)/[**checkvist-backup**](https://github.com/kappa/checkvist-backup)",
+              "A tool to backup your checkvist.com data",
+              ""
+            ],
+            [
+              "9",
+              "[@kappa](https://github.com/kappa)/[**shutter-yandex-disk**](https://github.com/kappa/shutter-yandex-disk)",
+              "Shutter upload plugin for Yandex.Disk service",
+              ""
+            ],
+            [
+              "8",
+              "[@sharifulin](https://github.com/sharifulin)/[**mojolicious-plugin-g…**](https://github.com/sharifulin/mojolicious-plugin-geolocation)",
+              "Mojolicious::Plugin::GeoLocation - Geo Location Mojolicious Plugin",
+              ""
+            ],
+            [
+              "8",
+              "[@sharifulin](https://github.com/sharifulin)/[**mojolicious-plugin-i…**](https://github.com/sharifulin/mojolicious-plugin-i18n)",
+              "Internationalization Plugin for Mojolicious 5.x and higher",
+              ""
+            ],
+            [
+              "7",
+              "[@sharifulin](https://github.com/sharifulin)/[**mojolicious-plugin-u…**](https://github.com/sharifulin/mojolicious-plugin-utilhelpers)",
+              "A lot of util helpers for a Mojolicious apps",
+              ""
+            ],
+            [
+              "6",
+              "[@sharifulin](https://github.com/sharifulin)/[**acme-cpanauthors-rus…**](https://github.com/sharifulin/acme-cpanauthors-russian)",
+              "Acme::CPANAuthors::Russian – We are Russian CPAN authors",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Acme-CPANAuthors-Russian/)"
+            ],
+            [
+              "6",
+              "[@sharifulin](https://github.com/sharifulin)/[**mojolicious-plugin-j…**](https://github.com/sharifulin/mojolicious-plugin-jsontoxml)",
+              "Mojolicious::Plugin::JsonToXml – JSON to XML Mojolicious Plugin",
+              ""
+            ],
+            [
+              "6",
+              "[@sharifulin](https://github.com/sharifulin)/[**net-lastfm-submissio…**](https://github.com/sharifulin/net-lastfm-submission)",
+              "Net::LastFM::Submission – Perl interface to the Last.fm Submissions Protocol",
+              "[:arrow_upper_right:](http://search.cpan.org/~sharifuln/Net-LastFM-Submission/)"
+            ],
+            [
+              "5",
+              "[@kappa](https://github.com/kappa)/[**gdocs-backup-perl**](https://github.com/kappa/gdocs-backup-perl)",
+              "Backup Google Docs",
+              ""
+            ],
+            [
+              "5",
+              "[@kappa](https://github.com/kappa)/[**app-cpanhubble**](https://github.com/kappa/app-cpanhubble)",
+              "Web frontend to CPAN and Github search functions.",
+              "[:arrow_upper_right:](http://perl.worldken.org)"
+            ],
+            [
+              "5",
+              "[@bessarabov](https://github.com/bessarabov)/[**felix**](https://github.com/bessarabov/felix)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@nordicdyno](https://github.com/nordicdyno)/[**todostat**](https://github.com/nordicdyno/todostat)",
+              "Collect and show statistic for special comments",
+              ""
+            ],
+            [
+              "5",
+              "[@berekuk](https://github.com/berekuk)/[**cpan2deb**](https://github.com/berekuk/cpan2deb)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@afiskon](https://github.com/afiskon)/[**p5-vk-mp3**](https://github.com/afiskon/p5-vk-mp3)",
+              "VK::MP3 - searches for mp3 on vkontakte.ru, also known as vk.com",
+              ""
+            ],
+            [
+              "5",
+              "[@kappa](https://github.com/kappa)/[**plack-middleware-rew…**](https://github.com/kappa/plack-middleware-rewrite)",
+              "URL-rewriting engine",
+              ""
+            ],
+            [
+              "5",
+              "[@bessarabov](https://github.com/bessarabov)/[**bessarabov_blog**](https://github.com/bessarabov/bessarabov_blog)",
+              "Markdown texts with blog posts at https://ivan.bessarabov.ru/blog",
+              "[:arrow_upper_right:](https://ivan.bessarabov.ru/blog)"
+            ],
+            [
+              "4",
+              "[@berekuk](https://github.com/berekuk)/[**Dist-Zilla-Deb**](https://github.com/berekuk/Dist-Zilla-Deb)",
+              "Debian-specific commands and plugins for Dist::Zilla",
+              ""
+            ],
+            [
+              "4",
+              "[@bessarabov](https://github.com/bessarabov)/[**Test-Whitespaces**](https://github.com/bessarabov/Test-Whitespaces)",
+              "test source code for errors in whitespaces",
+              ""
+            ],
+            [
+              "4",
+              "[@bessarabov](https://github.com/bessarabov)/[**Trac-RPC**](https://github.com/bessarabov/Trac-RPC)",
+              "Perl module to access Trac via XML-RPC Plugin",
+              ""
+            ],
+            [
+              "4",
+              "[@berekuk](https://github.com/berekuk)/[**guitarpro-perl**](https://github.com/berekuk/guitarpro-perl)",
+              "GuitarPro files parser. gt1, gp2 and gp4 formats are supported. This code is incomplete and abandoned, use with caution.",
+              "[:arrow_upper_right:](http://berekuk.ru/gp/)"
+            ],
+            [
+              "3",
+              "[@sharifulin](https://github.com/sharifulin)/[**mojolicious-command-…**](https://github.com/sharifulin/mojolicious-command-generate-sharifulinapp)",
+              "Mojolicious::Command::Generate::Shariful… – App Generator Command Sharifulin Style",
+              ""
+            ],
+            [
+              "3",
+              "[@ichesnokov](https://github.com/ichesnokov)/[**yapc-russia-2011**](https://github.com/ichesnokov/yapc-russia-2011)",
+              "Презентация \"Использование исключений при разработке на Perl\"",
+              ""
+            ],
+            [
+              "3",
+              "[@kappa](https://github.com/kappa)/[**taka2pdf**](https://github.com/kappa/taka2pdf)",
+              "takahashi.xul slides to PDF converter",
+              ""
+            ],
+            [
+              "3",
+              "[@kappa](https://github.com/kappa)/[**jobber**](https://github.com/kappa/jobber)",
+              "jobs.planetperl.ru source",
+              "[:arrow_upper_right:](http://jobs.planetperl.ru)"
+            ],
+            [
+              "3",
+              "[@olegwtf](https://github.com/olegwtf)/[**p5-IO-Socket-Socks**](https://github.com/olegwtf/p5-IO-Socket-Socks)",
+              "Extension to IO::Socket providing SOCKS proxy support",
+              "[:arrow_upper_right:](http://search.cpan.org/perldoc?IO::Socket::Socks)"
+            ],
+            [
+              "3",
+              "[@sharifulin](https://github.com/sharifulin)/[**poe-component-client…**](https://github.com/sharifulin/poe-component-client-icecast)",
+              "POE::Component::Client::Icecast - non-blocking client to Icecast server for getting tags",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/POE-Component-Client-Icecast/)"
+            ],
+            [
+              "3",
+              "[@sharifulin](https://github.com/sharifulin)/[**acme-cpanauthors-ukr…**](https://github.com/sharifulin/acme-cpanauthors-ukrainian)",
+              "Acme::CPANAuthors::Ukrainian – We are Ukrainian CPAN authors",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Acme-CPANAuthors-Ukrainian/)"
+            ],
+            [
+              "2",
+              "[@n4kz](https://github.com/n4kz)/[**meepo**](https://github.com/n4kz/meepo)",
+              "Template engine compatible with HTML::Template syntax and Perl/JavaScript source code output",
+              ""
+            ],
+            [
+              "2",
+              "[@olegwtf](https://github.com/olegwtf)/[**p5-AnyEvent-Whois-Ra…**](https://github.com/olegwtf/p5-AnyEvent-Whois-Raw)",
+              "Non-blocking wrapper for Net::Whois::Raw",
+              ""
+            ],
+            [
+              "2",
+              "[@olegwtf](https://github.com/olegwtf)/[**p5-Coro-PatchSet**](https://github.com/olegwtf/p5-Coro-PatchSet)",
+              "fix Coro as much as possible",
+              ""
+            ],
+            [
+              "2",
+              "[@kappa](https://github.com/kappa)/[**CGI-Application-Disp…**](https://github.com/kappa/CGI-Application-Dispatch-PSGI)",
+              "PSGI adapter for CGI::Application",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/CGI-Application-Dispatch-PSGI/)"
+            ],
+            [
+              "2",
+              "[@bessarabov](https://github.com/bessarabov)/[**Weightbot-API**](https://github.com/bessarabov/Weightbot-API)",
+              "Get Weightbot iPhone app data from weightbot.com",
+              ""
+            ],
+            [
+              "2",
+              "[@kappa](https://github.com/kappa)/[**pogoda**](https://github.com/kappa/pogoda)",
+              "Social weather service",
+              "[:arrow_upper_right:](http://pogoda2.net)"
+            ],
+            [
+              "2",
+              "[@n4kz](https://github.com/n4kz)/[**alleria**](https://github.com/n4kz/alleria)",
+              "Simple xmpp bot",
+              ""
+            ],
+            [
+              "2",
+              "[@n4kz](https://github.com/n4kz)/[**File-Dropbox**](https://github.com/n4kz/File-Dropbox)",
+              "Convenient and fast Dropbox API abstraction",
+              ""
+            ],
+            [
+              "2",
+              "[@vovkasm](https://github.com/vovkasm)/[**dbicx-txninsert**](https://github.com/vovkasm/dbicx-txninsert)",
+              "Allows DBIx-Class to wrap all inserts in the transaction",
+              ""
+            ],
+            [
+              "2",
+              "[@vovkasm](https://github.com/vovkasm)/[**Class-Accessor-Inher…**](https://github.com/vovkasm/Class-Accessor-Inherited-XS)",
+              "Fast XS inherited, object and class accessors",
+              ""
+            ],
+            [
+              "2",
+              "[@Meettya](https://github.com/Meettya)/[**Config-YAML-Modern**](https://github.com/Meettya/Config-YAML-Modern)",
+              "Modern YAML-based config loader from file or directory",
+              ""
+            ],
+            [
+              "2",
+              "[@avkhozov](https://github.com/avkhozov)/[**pproxy**](https://github.com/avkhozov/pproxy)",
+              "TCP proxy on Perl",
+              ""
+            ],
+            [
+              "2",
+              "[@Meettya](https://github.com/Meettya)/[**Botox**](https://github.com/Meettya/Botox)",
+              "Object::Botox - simple perl OO beauty-shot.",
+              ""
+            ],
+            [
+              "2",
+              "[@avkhozov](https://github.com/avkhozov)/[**Test-Mojo-Session**](https://github.com/avkhozov/Test-Mojo-Session)",
+              "Test::Mojo::Session",
+              "[:arrow_upper_right:](https://metacpan.org/pod/Test::Mojo::Session)"
+            ],
+            [
+              "2",
+              "[@Meettya](https://github.com/Meettya)/[**DetectCharset**](https://github.com/Meettya/DetectCharset)",
+              "Detect Russian Charset from text OR file",
+              ""
+            ],
+            [
+              "2",
+              "[@berekuk](https://github.com/berekuk)/[**Ubic-Service-Memcach…**](https://github.com/berekuk/Ubic-Service-Memcached)",
+              "Run memcached as ubic service",
+              ""
+            ],
+            [
+              "2",
+              "[@Meettya](https://github.com/Meettya)/[**Mojolicious-Plugin-R…**](https://github.com/Meettya/Mojolicious-Plugin-Redis)",
+              "Simply use Redis in Mojolicious",
+              ""
+            ],
+            [
+              "2",
+              "[@robotomize](https://github.com/robotomize)/[**twiilog**](https://github.com/robotomize/twiilog)",
+              "Application for notification of server load via twitter.",
+              ""
+            ],
+            [
+              "2",
+              "[@bessarabov](https://github.com/bessarabov)/[**App-Comparator**](https://github.com/bessarabov/App-Comparator)",
+              "Compare Perl CPAN modules.",
+              ""
+            ],
+            [
+              "2",
+              "[@berekuk](https://github.com/berekuk)/[**Ubic-Service-Cocaine**](https://github.com/berekuk/Ubic-Service-Cocaine)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@olegwtf](https://github.com/olegwtf)/[**p5-Mojo-SMTP-Client**](https://github.com/olegwtf/p5-Mojo-SMTP-Client)",
+              "SMTP client based on Mojo::IOLoop",
+              ""
+            ],
+            [
+              "2",
+              "[@bessarabov](https://github.com/bessarabov)/[**WWW-Questhub**](https://github.com/bessarabov/WWW-Questhub)",
+              "questhub.io API",
+              ""
+            ],
+            [
+              "2",
+              "[@kappa](https://github.com/kappa)/[**google-contacts-dump**](https://github.com/kappa/google-contacts-dump)",
+              "Google Contacts dumper",
+              ""
+            ],
+            [
+              "2",
+              "[@GreenKakadu](https://github.com/GreenKakadu)/[**bootylicious-plugin-…**](https://github.com/GreenKakadu/bootylicious-plugin-ajaxlibloader)",
+              "this plugin provides your Bootylicious application with stable, reliable, high speed, globally available access to all of the most popular, open source JavaScript libraries (by using content distribution network Google AJAX Libraries API",
+              ""
+            ],
+            [
+              "2",
+              "[@GreenKakadu](https://github.com/GreenKakadu)/[**bootylicious-plugin-…**](https://github.com/GreenKakadu/bootylicious-plugin-tocjquery)",
+              "load TOC (Table of Contents) jQuery plugin for bootylicious articles",
+              ""
+            ],
+            [
+              "2",
+              "[@sharifulin](https://github.com/sharifulin)/[**pod2-ru**](https://github.com/sharifulin/pod2-ru)",
+              "POD2::RU - Russian translation of Perl core documentation",
+              "[:arrow_upper_right:](http://translated.by/you/tags/pod2ru/)"
+            ],
+            [
+              "2",
+              "[@GreenKakadu](https://github.com/GreenKakadu)/[**bootylicious-plugin-…**](https://github.com/GreenKakadu/bootylicious-plugin-gallery)",
+              "Bootylicious::Plugin::Gallery - Gallery plugin for Bootylicious",
+              "[:arrow_upper_right:](http://getbootylicious.org/)"
+            ],
+            [
+              "2",
+              "[@sharifulin](https://github.com/sharifulin)/[**acme-cpanauthors-nor…**](https://github.com/sharifulin/acme-cpanauthors-norwegian)",
+              "Acme::CPANAuthors::Norwegian – We are Norwegian CPAN authors",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Acme-CPANAuthors-Norwegian/)"
+            ],
+            [
+              "2",
+              "[@n4kz](https://github.com/n4kz)/[**japh**](https://github.com/n4kz/japh)",
+              "Perl programs",
               ""
             ]
           ]
