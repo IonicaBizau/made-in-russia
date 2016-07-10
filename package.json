@@ -61,7 +61,8 @@
           "[Lua](#lua)",
           "[Matlab](#matlab)",
           "[Objective-C](#objective-c)",
-          "[Perl](#perl)"
+          "[Perl](#perl)",
+          "[PHP](#php)"
         ]
       },
       {
@@ -4253,6 +4254,693 @@
               "2",
               "[@n4kz](https://github.com/n4kz)/[**japh**](https://github.com/n4kz/japh)",
               "Perl programs",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "PHP #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "1301",
+              "[@kakserpom](https://github.com/kakserpom)/[**phpdaemon**](https://github.com/kakserpom/phpdaemon)",
+              "Asynchronous server-side framework for network applications implemented in PHP using libevent",
+              "[:arrow_upper_right:](http://daemon.io/)"
+            ],
+            [
+              "543",
+              "[@yupe](https://github.com/yupe)/[**yupe**](https://github.com/yupe/yupe)",
+              "Юпи! -  интернет-магазин на Yiiframework демо - http://demo.yupe.ru/store Сайт",
+              "[:arrow_upper_right:](http://yupe.ru)"
+            ],
+            [
+              "316",
+              "[@indeyets](https://github.com/indeyets)/[**appserver-in-php**](https://github.com/indeyets/appserver-in-php)",
+              "Generic HTTP applications approach for PHP5.3+ (inspired by Rack and WSGI)",
+              ""
+            ],
+            [
+              "277",
+              "[@samdark](https://github.com/samdark)/[**yii2-shop**](https://github.com/samdark/yii2-shop)",
+              "Example project implementing simple shop using Yii 2.0",
+              ""
+            ],
+            [
+              "256",
+              "[@creocoder](https://github.com/creocoder)/[**yii2-nested-sets**](https://github.com/creocoder/yii2-nested-sets)",
+              "The nested sets behavior for the Yii framework.",
+              ""
+            ],
+            [
+              "213",
+              "[@samdark](https://github.com/samdark)/[**sitemap**](https://github.com/samdark/sitemap)",
+              "Sitemap and sitemap index builder",
+              ""
+            ],
+            [
+              "190",
+              "[@indeyets](https://github.com/indeyets)/[**pake**](https://github.com/indeyets/pake)",
+              "pake is a PHP automation tool with capabilities similar to make",
+              "[:arrow_upper_right:](http://wiki.github.com/indeyets/pake)"
+            ],
+            [
+              "132",
+              "[@creocoder](https://github.com/creocoder)/[**yii2-flysystem**](https://github.com/creocoder/yii2-flysystem)",
+              "The Flysystem integration for the Yii framework.",
+              ""
+            ],
+            [
+              "128",
+              "[@samdark](https://github.com/samdark)/[**yii2-webshell**](https://github.com/samdark/yii2-webshell)",
+              "Web shell allows to run yii console commands using a browser",
+              ""
+            ],
+            [
+              "96",
+              "[@samdark](https://github.com/samdark)/[**Yeeki**](https://github.com/samdark/Yeeki)",
+              "Yii 1.1-based wiki",
+              ""
+            ],
+            [
+              "92",
+              "[@creocoder](https://github.com/creocoder)/[**yii2-taggable**](https://github.com/creocoder/yii2-taggable)",
+              "The taggable behavior for the Yii framework.",
+              ""
+            ],
+            [
+              "85",
+              "[@samdark](https://github.com/samdark)/[**Typograph**](https://github.com/samdark/Typograph)",
+              "Класс для автоматического применения правил русской типографики для веб",
+              "[:arrow_upper_right:](http://rmcreative.ru/blog/post/tipograf)"
+            ],
+            [
+              "79",
+              "[@samdark](https://github.com/samdark)/[**yii2-minimal**](https://github.com/samdark/yii2-minimal)",
+              "Yii 2 minimal application template",
+              ""
+            ],
+            [
+              "73",
+              "[@samdark](https://github.com/samdark)/[**yii-application-cook…**](https://github.com/samdark/yii-application-cookbook-2nd-edition-code)",
+              "Code of the second edition of Yii Application Development Cookbook",
+              ""
+            ],
+            [
+              "70",
+              "[@lisachenko](https://github.com/lisachenko)/[**php-deal**](https://github.com/lisachenko/php-deal)",
+              "Design by Contract framework for PHP",
+              ""
+            ],
+            [
+              "67",
+              "[@kovshenin](https://github.com/kovshenin)/[**post-options-api**](https://github.com/kovshenin/post-options-api)",
+              "Post Options API is an alternative to Custom Fields",
+              "[:arrow_upper_right:](http://theme.fm/2011/08/post-options-api-an-alternative-to-custom-fields-1265/)"
+            ],
+            [
+              "67",
+              "[@samdark](https://github.com/samdark)/[**yiifeed**](https://github.com/samdark/yiifeed)",
+              "Pre-moderated news aggregator",
+              "[:arrow_upper_right:](http://yiifeed.com/)"
+            ],
+            [
+              "66",
+              "[@zelenin](https://github.com/zelenin)/[**yii2-i18n-module**](https://github.com/zelenin/yii2-i18n-module)",
+              "Yii2 i18n (internalization) module makes the translation of your application so simple",
+              ""
+            ],
+            [
+              "65",
+              "[@kovshenin](https://github.com/kovshenin)/[**escape-ngg**](https://github.com/kovshenin/escape-ngg)",
+              "Escape NextGen Gallery",
+              ""
+            ],
+            [
+              "61",
+              "[@zelenin](https://github.com/zelenin)/[**yii2-semantic-ui**](https://github.com/zelenin/yii2-semantic-ui)",
+              "Semantic UI extension for Yii2",
+              "[:arrow_upper_right:](http://yii2-semantic-ui.zelenin.pw)"
+            ],
+            [
+              "57",
+              "[@zelenin](https://github.com/zelenin)/[**sms_ru**](https://github.com/zelenin/sms_ru)",
+              "PHP-класс для работы с api сервиса sms.ru",
+              ""
+            ],
+            [
+              "54",
+              "[@bezumkin](https://github.com/bezumkin)/[**miniShop2**](https://github.com/bezumkin/miniShop2)",
+              "Second version of simple online shop for MODX Revolution",
+              ""
+            ],
+            [
+              "51",
+              "[@bezumkin](https://github.com/bezumkin)/[**miniShop**](https://github.com/bezumkin/miniShop)",
+              "Project is closed and not supported",
+              ""
+            ],
+            [
+              "46",
+              "[@creocoder](https://github.com/creocoder)/[**yii2-translateable**](https://github.com/creocoder/yii2-translateable)",
+              "The translateable behavior for the Yii framework.",
+              ""
+            ],
+            [
+              "43",
+              "[@bezumkin](https://github.com/bezumkin)/[**pdoTools**](https://github.com/bezumkin/pdoTools)",
+              "Small library for creating fast snippets for MODX Revolution that works through PDO.",
+              ""
+            ],
+            [
+              "39",
+              "[@samdark](https://github.com/samdark)/[**realpath_cache_tuner**](https://github.com/samdark/realpath_cache_tuner)",
+              "Simple script that helps tuning PHP realpath cache",
+              ""
+            ],
+            [
+              "37",
+              "[@zelenin](https://github.com/zelenin)/[**telegram-bot-api**](https://github.com/zelenin/telegram-bot-api)",
+              "Telegram Bot API Client",
+              ""
+            ],
+            [
+              "35",
+              "[@kakserpom](https://github.com/kakserpom)/[**quicky**](https://github.com/kakserpom/quicky)",
+              "Quicky - template engine for PHP, which supports Smarty and Blitz syntax as well. Quicky has many own features and capabilites.  Quicky is very very fast (it was designed for highload projects).",
+              ""
+            ],
+            [
+              "31",
+              "[@samdark](https://github.com/samdark)/[**yiiframework-ru**](https://github.com/samdark/yiiframework-ru)",
+              "yiiframework.ru",
+              "[:arrow_upper_right:](https://gitter.im/samdark/yiiframework-ru)"
+            ],
+            [
+              "31",
+              "[@zelenin](https://github.com/zelenin)/[**yii2-slug-behavior**](https://github.com/zelenin/yii2-slug-behavior)",
+              "Yii2 slug behavior",
+              ""
+            ],
+            [
+              "30",
+              "[@lisachenko](https://github.com/lisachenko)/[**protocol-fcgi**](https://github.com/lisachenko/protocol-fcgi)",
+              "FastCGI (FCGI) Protocol implementation for PHP",
+              ""
+            ],
+            [
+              "30",
+              "[@samdark](https://github.com/samdark)/[**yii-jobs**](https://github.com/samdark/yii-jobs)",
+              "A module and an application for Yii that provides a job-portal-like functionality",
+              ""
+            ],
+            [
+              "26",
+              "[@indeyets](https://github.com/indeyets)/[**MySQL-Query-Builder**](https://github.com/indeyets/MySQL-Query-Builder)",
+              "Simple object-oriented API for composing PDO::MySQL Queries",
+              ""
+            ],
+            [
+              "26",
+              "[@bezumkin](https://github.com/bezumkin)/[**Tickets**](https://github.com/bezumkin/Tickets)",
+              "Tickets system for MODX Revolution",
+              ""
+            ],
+            [
+              "25",
+              "[@samdark](https://github.com/samdark)/[**yii-fullajax**](https://github.com/samdark/yii-fullajax)",
+              "fullajax Yii playground",
+              ""
+            ],
+            [
+              "24",
+              "[@kovshenin](https://github.com/kovshenin)/[**debug-bar-slow-actio…**](https://github.com/kovshenin/debug-bar-slow-actions)",
+              "Ever wondered which actions and filters were slowing down your WordPress site? You're welcome.",
+              ""
+            ],
+            [
+              "23",
+              "[@samdark](https://github.com/samdark)/[**yii-db-profiler**](https://github.com/samdark/yii-db-profiler)",
+              "Yii profiler adjusted to deal with MySQL performance optimizations",
+              ""
+            ],
+            [
+              "22",
+              "[@zelenin](https://github.com/zelenin)/[**yii2-rbac-module**](https://github.com/zelenin/yii2-rbac-module)",
+              "Yii2 RBAC module with generating assignments to DB from RBAC data store file rbac.php",
+              ""
+            ],
+            [
+              "21",
+              "[@nkt](https://github.com/nkt)/[**flame**](https://github.com/nkt/flame)",
+              "The PDO wrapper with comfortable API for placeholders",
+              "[:arrow_upper_right:](https://nkt.github.io/flame/)"
+            ],
+            [
+              "19",
+              "[@bezumkin](https://github.com/bezumkin)/[**modExtra**](https://github.com/bezumkin/modExtra)",
+              "A base MODx Extra template to begin development on",
+              ""
+            ],
+            [
+              "15",
+              "[@samdark](https://github.com/samdark)/[**intl-icu-data-tables**](https://github.com/samdark/intl-icu-data-tables)",
+              "PHP intl extension, ICU data tables",
+              "[:arrow_upper_right:](http://intl.rmcreative.ru/)"
+            ],
+            [
+              "15",
+              "[@zelenin](https://github.com/zelenin)/[**VK**](https://github.com/zelenin/VK)",
+              "PHP class for VK API",
+              ""
+            ],
+            [
+              "14",
+              "[@lisachenko](https://github.com/lisachenko)/[**warlock**](https://github.com/lisachenko/warlock)",
+              "PHP Warlock is a bridge that integrates AOP and DIC into one powerful component",
+              ""
+            ],
+            [
+              "14",
+              "[@bezumkin](https://github.com/bezumkin)/[**modx-hybridauth**](https://github.com/bezumkin/modx-hybridauth)",
+              "MODX component for social sign on",
+              ""
+            ],
+            [
+              "13",
+              "[@zelenin](https://github.com/zelenin)/[**yii2-rss**](https://github.com/zelenin/yii2-rss)",
+              "Yii2 RSS extension adds RSS-feed to your site",
+              ""
+            ],
+            [
+              "13",
+              "[@nkt](https://github.com/nkt)/[**doctrine-columns**](https://github.com/nkt/doctrine-columns)",
+              "Doctrine columns",
+              ""
+            ],
+            [
+              "13",
+              "[@zelenin](https://github.com/zelenin)/[**yii2-sms_ru**](https://github.com/zelenin/yii2-sms_ru)",
+              "Yii2 extension for sms.ru",
+              ""
+            ],
+            [
+              "13",
+              "[@bezumkin](https://github.com/bezumkin)/[**AjaxForm**](https://github.com/bezumkin/AjaxForm)",
+              "Simple component for MODX Revolution, that allows you to send any form through ajax.",
+              ""
+            ],
+            [
+              "12",
+              "[@samdark](https://github.com/samdark)/[**yii2-league-oauth2-s…**](https://github.com/samdark/yii2-league-oauth2-server)",
+              "Yii 2.0 implementation of PHP league OAuth2 server interfaces",
+              ""
+            ],
+            [
+              "12",
+              "[@bezumkin](https://github.com/bezumkin)/[**mxManager**](https://github.com/bezumkin/mxManager)",
+              "Server side component for iOS application \"mxManager\"",
+              ""
+            ],
+            [
+              "10",
+              "[@bezumkin](https://github.com/bezumkin)/[**debugParser**](https://github.com/bezumkin/debugParser)",
+              "Component for display verbose information about processing tags in modParser of MODX Revolution",
+              ""
+            ],
+            [
+              "9",
+              "[@kovshenin](https://github.com/kovshenin)/[**technical-support**](https://github.com/kovshenin/technical-support)",
+              "Technical Support for WordPress Plugin",
+              "[:arrow_upper_right:](http://kovshenin.com/wordpress/plugins/technical-support/)"
+            ],
+            [
+              "9",
+              "[@creocoder](https://github.com/creocoder)/[**yii2-app-ninja**](https://github.com/creocoder/yii2-app-ninja)",
+              "The ninja application template for the Yii framework.",
+              ""
+            ],
+            [
+              "9",
+              "[@memphys](https://github.com/memphys)/[**silex-capistrano**](https://github.com/memphys/silex-capistrano)",
+              "test project for devconf presentation",
+              ""
+            ],
+            [
+              "9",
+              "[@bezumkin](https://github.com/bezumkin)/[**MinifyX**](https://github.com/bezumkin/MinifyX)",
+              "MinifyX is a MODX® Revolution addon that allows you to combine and minify JS and CSS files to speed up your site and reduce server load",
+              ""
+            ],
+            [
+              "9",
+              "[@lisachenko](https://github.com/lisachenko)/[**zf2-aspect**](https://github.com/lisachenko/zf2-aspect)",
+              "Playground for integration of aspect-oriented programming into ZF2",
+              ""
+            ],
+            [
+              "8",
+              "[@AgelxNash](https://github.com/AgelxNash)/[**diffplugin4modx**](https://github.com/AgelxNash/diffplugin4modx)",
+              "Плагин сохранения истории изменений сниппетов, чанков, плагинов, модулей и шаблонов в modx evolution [Не поддерживается]",
+              ""
+            ],
+            [
+              "8",
+              "[@zelenin](https://github.com/zelenin)/[**RSS-Generator**](https://github.com/zelenin/RSS-Generator)",
+              "PHP class for generating of RSS feeds. Full support of [RSSboard specification](http://www.rssboard.org/r…",
+              ""
+            ],
+            [
+              "8",
+              "[@AgelxNash](https://github.com/AgelxNash)/[**SEOPagination**](https://github.com/AgelxNash/SEOPagination)",
+              "Laravel SEO Pagination",
+              ""
+            ],
+            [
+              "8",
+              "[@AgelxNash](https://github.com/AgelxNash)/[**MODXComposer**](https://github.com/AgelxNash/MODXComposer)",
+              "Долой репозитории, давай composer для MODX Evolution ",
+              "[:arrow_upper_right:](http://www.youtube.com/watch?v=4Prcb5BZRtc)"
+            ],
+            [
+              "8",
+              "[@zelenin](https://github.com/zelenin)/[**elo**](https://github.com/zelenin/elo)",
+              "A PHP implementation of Elo rating system",
+              ""
+            ],
+            [
+              "7",
+              "[@stamm](https://github.com/stamm)/[**yii-console-completi…**](https://github.com/stamm/yii-console-completion)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@kovshenin](https://github.com/kovshenin)/[**minimalgeorgia**](https://github.com/kovshenin/minimalgeorgia)",
+              "Minimal Georgia Theme for WordPress",
+              "[:arrow_upper_right:](http://kovshenin.com/wordpress/themes/minimal-georgia/)"
+            ],
+            [
+              "7",
+              "[@lisachenko](https://github.com/lisachenko)/[**go-prototype-php**](https://github.com/lisachenko/go-prototype-php)",
+              "Prototype programming library for PHP",
+              ""
+            ],
+            [
+              "6",
+              "[@kovshenin](https://github.com/kovshenin)/[**twitter-blockquotes**](https://github.com/kovshenin/twitter-blockquotes)",
+              "Twitter Blockquotes Plugin for WordPress",
+              "[:arrow_upper_right:](http://theme.fm/plugins/twitter-blockquotes/)"
+            ],
+            [
+              "6",
+              "[@nkt](https://github.com/nkt)/[**php-scalar**](https://github.com/nkt/php-scalar)",
+              "Methods for PHP scalars",
+              "[:arrow_upper_right:](http://nkt.github.io/php-scalar)"
+            ],
+            [
+              "6",
+              "[@AgelxNash](https://github.com/AgelxNash)/[**MinifyX-for-Evolutio…**](https://github.com/AgelxNash/MinifyX-for-Evolution)",
+              "Component MinifyX for MODX Evolution",
+              ""
+            ],
+            [
+              "6",
+              "[@zelenin](https://github.com/zelenin)/[**yii2-request-log-mod…**](https://github.com/zelenin/yii2-request-log-module)",
+              "Yii2 request log module",
+              ""
+            ],
+            [
+              "5",
+              "[@zelenin](https://github.com/zelenin)/[**ddd-core**](https://github.com/zelenin/ddd-core)",
+              "Core for Domain-driven design concepts",
+              ""
+            ],
+            [
+              "5",
+              "[@bezumkin](https://github.com/bezumkin)/[**Sendex**](https://github.com/bezumkin/Sendex)",
+              "Subscriptions for MODX Revolution",
+              ""
+            ],
+            [
+              "5",
+              "[@zelenin](https://github.com/zelenin)/[**yii-sms_ru**](https://github.com/zelenin/yii-sms_ru)",
+              "Расширение Yii для работы с api sms.ru",
+              ""
+            ],
+            [
+              "5",
+              "[@bezumkin](https://github.com/bezumkin)/[**MODX-SMF**](https://github.com/bezumkin/MODX-SMF)",
+              "MODX + SMF two-way synchronization",
+              ""
+            ],
+            [
+              "5",
+              "[@memphys](https://github.com/memphys)/[**zf2-capistrano**](https://github.com/memphys/zf2-capistrano)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@mrmlnc](https://github.com/mrmlnc)/[**October-Russian-Lang…**](https://github.com/mrmlnc/October-Russian-Language)",
+              ":pencil: Полный перевод языковых файлов OctoberCMS на русский язык.",
+              ""
+            ],
+            [
+              "5",
+              "[@zelenin](https://github.com/zelenin)/[**Instagram**](https://github.com/zelenin/Instagram)",
+              "A PHP implementation of the Instagram API",
+              ""
+            ],
+            [
+              "4",
+              "[@bezumkin](https://github.com/bezumkin)/[**eventsCalendar2**](https://github.com/bezumkin/eventsCalendar2)",
+              "Calendar for MODX Revolution",
+              "[:arrow_upper_right:](http://webstartpage.ru/modx/eventscalendar2.html)"
+            ],
+            [
+              "4",
+              "[@zelenin](https://github.com/zelenin)/[**yii2-semantic-ui-dem…**](https://github.com/zelenin/yii2-semantic-ui-demo)",
+              "Semantic UI extension for Yii2 demo",
+              "[:arrow_upper_right:](http://yii2-semantic-ui.zelenin.pw)"
+            ],
+            [
+              "4",
+              "[@bezumkin](https://github.com/bezumkin)/[**mSearch**](https://github.com/bezumkin/mSearch)",
+              "Search snippet with russian morphology for MODx Revolution",
+              ""
+            ],
+            [
+              "4",
+              "[@memphys](https://github.com/memphys)/[**zf-capistrano**](https://github.com/memphys/zf-capistrano)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@bezumkin](https://github.com/bezumkin)/[**modx-markdown**](https://github.com/bezumkin/modx-markdown)",
+              "Markdown for MODX Revolution",
+              ""
+            ],
+            [
+              "4",
+              "[@indeyets](https://github.com/indeyets)/[**php-protobuf**](https://github.com/indeyets/php-protobuf)",
+              "Protocol Buffers implementation for PHP",
+              ""
+            ],
+            [
+              "4",
+              "[@stamm](https://github.com/stamm)/[**wp2e2**](https://github.com/stamm/wp2e2)",
+              "This script parse articles from wordpress to e2",
+              "[:arrow_upper_right:](http://blogengine.ru/)"
+            ],
+            [
+              "4",
+              "[@stamm](https://github.com/stamm)/[**yii.blog**](https://github.com/stamm/yii.blog)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@zelenin](https://github.com/zelenin)/[**Tor**](https://github.com/zelenin/Tor)",
+              "The Old Reader API (PHP implementation).",
+              ""
+            ],
+            [
+              "4",
+              "[@samdark](https://github.com/samdark)/[**yii2-iconized-menu-w…**](https://github.com/samdark/yii2-iconized-menu-widget)",
+              "Menu with favicons for each item.",
+              ""
+            ],
+            [
+              "4",
+              "[@kakserpom](https://github.com/kakserpom)/[**phpdaemon-BTtracker**](https://github.com/kakserpom/phpdaemon-BTtracker)",
+              "BitTorrent tracker written in phpDaemon.",
+              ""
+            ],
+            [
+              "4",
+              "[@AgelxNash](https://github.com/AgelxNash)/[**modLaravel**](https://github.com/AgelxNash/modLaravel)",
+              "Launch snippets from content (by CMS MODX Evolution)",
+              ""
+            ],
+            [
+              "3",
+              "[@AgelxNash](https://github.com/AgelxNash)/[**MODX.IDEHelperGenera…**](https://github.com/AgelxNash/MODX.IDEHelperGenerator)",
+              "IDE helper",
+              ""
+            ],
+            [
+              "3",
+              "[@kovshenin](https://github.com/kovshenin)/[**crapcha**](https://github.com/kovshenin/crapcha)",
+              "Protect your WordPress site with a completely ridiculous and phony captcha that hassles for amusement.",
+              "[:arrow_upper_right:](http://crapcha.com/)"
+            ],
+            [
+              "3",
+              "[@bezumkin](https://github.com/bezumkin)/[**modx-jevix**](https://github.com/bezumkin/modx-jevix)",
+              "HTML validator and filter",
+              ""
+            ],
+            [
+              "3",
+              "[@bezumkin](https://github.com/bezumkin)/[**modx-loginza**](https://github.com/bezumkin/modx-loginza)",
+              "Loginza implementation for MODX Revolution",
+              "[:arrow_upper_right:](http://bezumkin.ru/modx/loginza.html)"
+            ],
+            [
+              "3",
+              "[@zelenin](https://github.com/zelenin)/[**zend-expressive-conf…**](https://github.com/zelenin/zend-expressive-config)",
+              "Zend Expressive config manager",
+              ""
+            ],
+            [
+              "3",
+              "[@kovshenin](https://github.com/kovshenin)/[**twitter-friendly-lin…**](https://github.com/kovshenin/twitter-friendly-links)",
+              "Twitter Friendly Links for WordPress",
+              "[:arrow_upper_right:](http://kovshenin.com/wordpress/plugins/twitter-friendly-links/)"
+            ],
+            [
+              "3",
+              "[@kakserpom](https://github.com/kakserpom)/[**fail2ban_reporter**](https://github.com/kakserpom/fail2ban_reporter)",
+              "Tiny tool which is keeping an eye on your fail2ban logs and automatically sends Abuse Reports to mailboxes from RIPE DB. Let's try to make Internet a bit cleaner.",
+              ""
+            ],
+            [
+              "3",
+              "[@Fi1osof](https://github.com/Fi1osof)/[**modBlog**](https://github.com/Fi1osof/modBlog)",
+              "MODX Revolution extra for creation blogs",
+              ""
+            ],
+            [
+              "3",
+              "[@bezumkin](https://github.com/bezumkin)/[**dateAgo**](https://github.com/bezumkin/dateAgo)",
+              "Snippet for MODX, that makes dates looks cool",
+              ""
+            ],
+            [
+              "2",
+              "[@kovshenin](https://github.com/kovshenin)/[**sharedaddy-retweet**](https://github.com/kovshenin/sharedaddy-retweet)",
+              "Retweet button for Sharedaddy (Jetpack)",
+              ""
+            ],
+            [
+              "2",
+              "[@nkt](https://github.com/nkt)/[**symfony-app**](https://github.com/nkt/symfony-app)",
+              "The Symfony application skeleton",
+              "[:arrow_upper_right:](https://packagist.org/packages/nkt/symfony-app)"
+            ],
+            [
+              "2",
+              "[@indeyets](https://github.com/indeyets)/[**php-twitterdata**](https://github.com/indeyets/php-twitterdata)",
+              "PHP library for parsing and emitting TwitterData",
+              ""
+            ],
+            [
+              "2",
+              "[@indeyets](https://github.com/indeyets)/[**bliki**](https://github.com/indeyets/bliki)",
+              "bliki-engine working on top of appserver-in-php",
+              ""
+            ],
+            [
+              "2",
+              "[@indeyets](https://github.com/indeyets)/[**midcom**](https://github.com/indeyets/midcom)",
+              "MVC framework for PHP and the Midgard content repository",
+              "[:arrow_upper_right:](http://www.midgard-project.org/)"
+            ],
+            [
+              "2",
+              "[@stamm](https://github.com/stamm)/[**yii-autocomplete**](https://github.com/stamm/yii-autocomplete)",
+              "Autocomplete in PhpStorm for yii",
+              ""
+            ],
+            [
+              "2",
+              "[@bezumkin](https://github.com/bezumkin)/[**AjaxSnippet**](https://github.com/bezumkin/AjaxSnippet)",
+              "Simple component for MODX Revolution, that allows you to run any snippet through ajax.",
+              ""
+            ],
+            [
+              "2",
+              "[@stamm](https://github.com/stamm)/[**yii-socials**](https://github.com/stamm/yii-socials)",
+              "",
+              "[:arrow_upper_right:](socials.zagirov.name)"
+            ],
+            [
+              "2",
+              "[@bezumkin](https://github.com/bezumkin)/[**BannerY**](https://github.com/bezumkin/BannerY)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@AgelxNash](https://github.com/AgelxNash)/[**summary**](https://github.com/AgelxNash/summary)",
+              "Truncates the HTML string to the specified length (and snippet for MODX evolugin/revolution)",
+              ""
+            ],
+            [
+              "2",
+              "[@AgelxNash](https://github.com/AgelxNash)/[**CK4ME**](https://github.com/AgelxNash/CK4ME)",
+              "Cache Kohana for MODX Evolution [Не поддерживается]",
+              ""
+            ],
+            [
+              "2",
+              "[@bezumkin](https://github.com/bezumkin)/[**miniPayment**](https://github.com/bezumkin/miniPayment)",
+              "Component for work with payments on MODX Revolution",
+              ""
+            ],
+            [
+              "2",
+              "[@bezumkin](https://github.com/bezumkin)/[**PageBreaker**](https://github.com/bezumkin/PageBreaker)",
+              "Component for MODX Revolution that splits a single large page into several smaller",
+              ""
+            ],
+            [
+              "2",
+              "[@AgelxNash](https://github.com/AgelxNash)/[**l4-confirm-action**](https://github.com/AgelxNash/l4-confirm-action)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@bezumkin](https://github.com/bezumkin)/[**Schedule**](https://github.com/bezumkin/Schedule)",
+              "Component for building custom schedule on MODX Revolution",
+              ""
+            ],
+            [
+              "2",
+              "[@kovshenin](https://github.com/kovshenin)/[**camptix-admin-flags**](https://github.com/kovshenin/camptix-admin-flags)",
+              "An addon for CampTix that allows admins to configure and set private per-attendee flags.",
               ""
             ]
           ]
