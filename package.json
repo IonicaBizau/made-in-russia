@@ -48,7 +48,8 @@
         "ul": [
           "[JavaScript](#javascript)",
           "[Java](#java)",
-          "[C#](#c-1)"
+          "[C#](#c-1)",
+          "[CSS](#css)"
         ]
       },
       {
@@ -2090,6 +2091,33 @@
               "[@roman-yagodin](https://github.com/roman-yagodin)/[**R7.DnnLocalization**](https://github.com/roman-yagodin/R7.DnnLocalization)",
               "Localization of DNN Platform static resources (language pack) - русский перевод DotNetNuke",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "CSS #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3",
+              "[@tsergeytovarov](https://github.com/tsergeytovarov)/[**gulp-project**](https://github.com/tsergeytovarov/gulp-project)",
+              "Базовый шаблон проекта на Gulp",
+              "[:arrow_upper_right:](http://ourworkspace.ru)"
+            ],
+            [
+              "2",
+              "[@tsergeytovarov](https://github.com/tsergeytovarov)/[**grunt-project**](https://github.com/tsergeytovarov/grunt-project)",
+              "Базовый каркас проекта",
+              "[:arrow_upper_right:](http://ourworkspace.ru/about.html)"
             ]
           ]
         }
