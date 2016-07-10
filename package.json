@@ -50,7 +50,8 @@
           "[Java](#java)",
           "[C#](#c-1)",
           "[CSS](#css)",
-          "[HTML](#html)"
+          "[HTML](#html)",
+          "[C](undefined)"
         ]
       },
       {
@@ -2139,6 +2140,447 @@
               "11",
               "[@spalt08](https://github.com/spalt08)/[**TweenSprite**](https://github.com/spalt08/TweenSprite)",
               "Sprite animation plugin for TweenMax.js",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "212",
+              "[@nekromant](https://github.com/nekromant)/[**esp8266-frankenstein**](https://github.com/nekromant/esp8266-frankenstein)",
+              "Alternative firmware for ESP8266 modules",
+              ""
+            ],
+            [
+              "191",
+              "[@nekromant](https://github.com/nekromant)/[**antares**](https://github.com/nekromant/antares)",
+              "antares uC buildsystem",
+              ""
+            ],
+            [
+              "59",
+              "[@tony2001](https://github.com/tony2001)/[**pinba_extension**](https://github.com/tony2001/pinba_extension)",
+              "Pinba PHP extension",
+              "[:arrow_upper_right:](http://pinba.org)"
+            ],
+            [
+              "46",
+              "[@LongSoft](https://github.com/LongSoft)/[**PMPatch**](https://github.com/LongSoft/PMPatch)",
+              "Utility to patch UEFI BIOS PowerManagement module to be compatible with MacOS X SpeedStep implementation",
+              ""
+            ],
+            [
+              "37",
+              "[@rtsisyk](https://github.com/rtsisyk)/[**msgpuck**](https://github.com/rtsisyk/msgpuck)",
+              "A simple and efficient MsgPack binary serialization library in a self-contained header file",
+              ""
+            ],
+            [
+              "36",
+              "[@tony2001](https://github.com/tony2001)/[**ngx_http_pinba_modul…**](https://github.com/tony2001/ngx_http_pinba_module)",
+              "Pinba module for nginx",
+              "[:arrow_upper_right:](http://pinba.org)"
+            ],
+            [
+              "32",
+              "[@akalend](https://github.com/akalend)/[**amqp-rest**](https://github.com/akalend/amqp-rest)",
+              "the light HTTP gate (rest)  for  amqp broket",
+              ""
+            ],
+            [
+              "28",
+              "[@moteus](https://github.com/moteus)/[**lua-lluv**](https://github.com/moteus/lua-lluv)",
+              "Lua binding to libuv",
+              ""
+            ],
+            [
+              "22",
+              "[@illarionov](https://github.com/illarionov)/[**sqlite3-unicodesn**](https://github.com/illarionov/sqlite3-unicodesn)",
+              "SQLite unicode full-text-search tokenizer with Snowball stemming",
+              ""
+            ],
+            [
+              "17",
+              "[@leshak](https://github.com/leshak)/[**i5700-leshak-kernel**](https://github.com/leshak/i5700-leshak-kernel)",
+              "Linux kernel 2.6.29 for Samsung Spica i5700 with Android 2.x",
+              ""
+            ],
+            [
+              "16",
+              "[@astarasikov](https://github.com/astarasikov)/[**iconia-gnu-kernel**](https://github.com/astarasikov/iconia-gnu-kernel)",
+              "Port of Iconia A500 to chromium and vanilla linux",
+              ""
+            ],
+            [
+              "16",
+              "[@akalend](https://github.com/akalend)/[**click-server**](https://github.com/akalend/click-server)",
+              "the light HTTP server for accounting clicks (using in banner system)",
+              ""
+            ],
+            [
+              "15",
+              "[@nekromant](https://github.com/nekromant)/[**scam-o-matic**](https://github.com/nekromant/scam-o-matic)",
+              "A tool to salvage usable space from crappy memory cards. ",
+              "[:arrow_upper_right:](http://ncrmnt.org/wp/2011/12/05/scam-o-matic/)"
+            ],
+            [
+              "14",
+              "[@tony2001](https://github.com/tony2001)/[**rfc5766-turn-server**](https://github.com/tony2001/rfc5766-turn-server)",
+              "[SVN copy of..] High-performance free open source TURN and STUN Server implementation. VoIP media traffic NAT traversal and gateway. ",
+              ""
+            ],
+            [
+              "13",
+              "[@nekromant](https://github.com/nekromant)/[**pl2303gpio**](https://github.com/nekromant/pl2303gpio)",
+              "PL2303HX Userspace GPIO control tool",
+              ""
+            ],
+            [
+              "12",
+              "[@moteus](https://github.com/moteus)/[**lua-AesFileEncrypt**](https://github.com/moteus/lua-AesFileEncrypt)",
+              "A simple file encryption library",
+              ""
+            ],
+            [
+              "10",
+              "[@nekromant](https://github.com/nekromant)/[**linux-rlx-upstream**](https://github.com/nekromant/linux-rlx-upstream)",
+              "Initial effort to port upstream linux kernels to MIPS RLX variant used in RTL8196/RTL8198",
+              ""
+            ],
+            [
+              "10",
+              "[@LongSoft](https://github.com/LongSoft)/[**FD44Copier**](https://github.com/LongSoft/FD44Copier)",
+              "Utility to copy BIOS data from one ASUS BIOS image file to another",
+              ""
+            ],
+            [
+              "10",
+              "[@akorotkov](https://github.com/akorotkov)/[**pgsphere**](https://github.com/akorotkov/pgsphere)",
+              "",
+              ""
+            ],
+            [
+              "9",
+              "[@tony2001](https://github.com/tony2001)/[**eaccelerator**](https://github.com/tony2001/eaccelerator)",
+              "eAccelerator fork",
+              ""
+            ],
+            [
+              "9",
+              "[@nofearnohappy](https://github.com/nofearnohappy)/[**android_device_xiaom…**](https://github.com/nofearnohappy/android_device_xiaomi_hermes)",
+              "",
+              ""
+            ],
+            [
+              "9",
+              "[@rtsisyk](https://github.com/rtsisyk)/[**mininb**](https://github.com/rtsisyk/mininb)",
+              "Mini NoSQL Benchmark",
+              ""
+            ],
+            [
+              "8",
+              "[@infofarmer](https://github.com/infofarmer)/[**hashtypes**](https://github.com/infofarmer/hashtypes)",
+              "sha1, md5 and other data types for PostgreSQL",
+              ""
+            ],
+            [
+              "8",
+              "[@tony2001](https://github.com/tony2001)/[**pidgin-libnotify**](https://github.com/tony2001/pidgin-libnotify)",
+              "libnotify plugin for Pidgin",
+              ""
+            ],
+            [
+              "7",
+              "[@nekromant](https://github.com/nekromant)/[**tinypowerswitch**](https://github.com/nekromant/tinypowerswitch)",
+              "Firmware source for attiny2313-based power switcher",
+              ""
+            ],
+            [
+              "7",
+              "[@LongSoft](https://github.com/LongSoft)/[**InsydeImageExtractor**](https://github.com/LongSoft/InsydeImageExtractor)",
+              "Utility for extracting UEFI image from InsydeFlasher executable file",
+              ""
+            ],
+            [
+              "6",
+              "[@tony2001](https://github.com/tony2001)/[**leptonica**](https://github.com/tony2001/leptonica)",
+              "PHP bindings for Leptonica library",
+              ""
+            ],
+            [
+              "6",
+              "[@nekromant](https://github.com/nekromant)/[**usniffer**](https://github.com/nekromant/usniffer)",
+              "Necromant's UART sniffer",
+              ""
+            ],
+            [
+              "6",
+              "[@illarionov](https://github.com/illarionov)/[**rdr2netflow**](https://github.com/illarionov/rdr2netflow)",
+              "Cisco SCE RDRv1 to Netflow v5 converter",
+              ""
+            ],
+            [
+              "6",
+              "[@leshak](https://github.com/leshak)/[**i5700-leshak-kmodule…**](https://github.com/leshak/i5700-leshak-kmodules2)",
+              "Kernel modules for i5700 with Android 2.x",
+              ""
+            ],
+            [
+              "6",
+              "[@tony2001](https://github.com/tony2001)/[**arrr**](https://github.com/tony2001/arrr)",
+              "PHP extension embedding R language",
+              ""
+            ],
+            [
+              "5",
+              "[@vm03](https://github.com/vm03)/[**android_kernel_lge_m…**](https://github.com/vm03/android_kernel_lge_msm8610)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@akorotkov](https://github.com/akorotkov)/[**postgres**](https://github.com/akorotkov/postgres)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@LongSoft](https://github.com/LongSoft)/[**UBU-helpers**](https://github.com/LongSoft/UBU-helpers)",
+              "Set of helper utilitites for UEFI BIOS Updater project",
+              ""
+            ],
+            [
+              "5",
+              "[@tony2001](https://github.com/tony2001)/[**memtrack**](https://github.com/tony2001/memtrack)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@moteus](https://github.com/moteus)/[**lua-odbc**](https://github.com/moteus/lua-odbc)",
+              "ODBC Library for lua",
+              ""
+            ],
+            [
+              "5",
+              "[@cfr](https://github.com/cfr)/[**assimp-ios**](https://github.com/cfr/assimp-ios)",
+              "Open Asset Import Library (iOS)",
+              ""
+            ],
+            [
+              "4",
+              "[@moteus](https://github.com/moteus)/[**lua-luq**](https://github.com/moteus/lua-luq)",
+              "Light userdata queue",
+              ""
+            ],
+            [
+              "4",
+              "[@astarasikov](https://github.com/astarasikov)/[**device_kovsky**](https://github.com/astarasikov/device_kovsky)",
+              "HTC Kovsky device tree for CyanogenMod",
+              ""
+            ],
+            [
+              "4",
+              "[@nofearnohappy](https://github.com/nofearnohappy)/[**custom_kernel_hermes**](https://github.com/nofearnohappy/custom_kernel_hermes)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@astarasikov](https://github.com/astarasikov)/[**libARMCopro**](https://github.com/astarasikov/libARMCopro)",
+              "A library to disassemble ARM architecture coprocessor access instructions",
+              ""
+            ],
+            [
+              "4",
+              "[@illarionov](https://github.com/illarionov)/[**SpatiaLite**](https://github.com/illarionov/SpatiaLite)",
+              "SpatiaLite 4.0.0 mirror",
+              ""
+            ],
+            [
+              "4",
+              "[@illarionov](https://github.com/illarionov)/[**sirfdump**](https://github.com/illarionov/sirfdump)",
+              "Sirf binary dumper",
+              ""
+            ],
+            [
+              "4",
+              "[@LongSoft](https://github.com/LongSoft)/[**AddrInfo**](https://github.com/LongSoft/AddrInfo)",
+              "Utility to find addresses of different data structures in ASUS BIOS image files and to store them in INI-formated file",
+              ""
+            ],
+            [
+              "3",
+              "[@illarionov](https://github.com/illarionov)/[**des21xx**](https://github.com/illarionov/des21xx)",
+              "D-Link DES-2108/2110 console management utility.",
+              "[:arrow_upper_right:](http://forum.dlink.ru/viewtopic.php?t=123443)"
+            ],
+            [
+              "3",
+              "[@astarasikov](https://github.com/astarasikov)/[**mkbootimg-mtype-hack…**](https://github.com/astarasikov/mkbootimg-mtype-hacked)",
+              "A patched version of android's mkbootimg to allow patching mtype",
+              ""
+            ],
+            [
+              "3",
+              "[@akalend](https://github.com/akalend)/[**mtserver**](https://github.com/akalend/mtserver)",
+              "the example multithreading server by libev",
+              ""
+            ],
+            [
+              "3",
+              "[@akalend](https://github.com/akalend)/[**ngx_http_stat_module**](https://github.com/akalend/ngx_http_stat_module)",
+              "The ngx_http_stat_module is addon for nginx HTTP server. The addon send data to stat daemon by UDP. The stat daemon collection, accumulation and processing statistics.",
+              ""
+            ],
+            [
+              "3",
+              "[@illarionov](https://github.com/illarionov)/[**sirfmemdump**](https://github.com/illarionov/sirfmemdump)",
+              "Sirf GPS chipset memory dumper",
+              ""
+            ],
+            [
+              "3",
+              "[@tony2001](https://github.com/tony2001)/[**libspindle**](https://github.com/tony2001/libspindle)",
+              "Small library providing thread pooling capabilities",
+              ""
+            ],
+            [
+              "3",
+              "[@nekromant](https://github.com/nekromant)/[**aura**](https://github.com/nekromant/aura)",
+              "Universal RPC library for interfacing with your favourite hardware",
+              "[:arrow_upper_right:](http://nekromant.github.io/aura/)"
+            ],
+            [
+              "3",
+              "[@tony2001](https://github.com/tony2001)/[**funcprof**](https://github.com/tony2001/funcprof)",
+              "PHP extension to help function profiling",
+              ""
+            ],
+            [
+              "3",
+              "[@astarasikov](https://github.com/astarasikov)/[**uboot-bn-nook-hd-fas…**](https://github.com/astarasikov/uboot-bn-nook-hd-fastboot)",
+              "U-boot for B&N Nook HD+ that boots directly to fastboot ignoring EMMC/SD",
+              ""
+            ],
+            [
+              "3",
+              "[@illarionov](https://github.com/illarionov)/[**OpenRRCP**](https://github.com/illarionov/OpenRRCP)",
+              "OpenRRCP is an open-source cross-platform RRCP-based toolset, that is able to configure and fetch status from such ethernet switches. ",
+              "[:arrow_upper_right:](https://sourceforge.net/apps/trac/openrrcp/wiki)"
+            ],
+            [
+              "3",
+              "[@akalend](https://github.com/akalend)/[**hhvm-msgpack**](https://github.com/akalend/hhvm-msgpack)",
+              "The native HHVM msgpack (msgpack.org) module, It hasn't any dependencies",
+              ""
+            ],
+            [
+              "3",
+              "[@illarionov](https://github.com/illarionov)/[**ourfa**](https://github.com/illarionov/ourfa)",
+              " Open source implementation of URFA (UTM Remote Function Access) protocol",
+              ""
+            ],
+            [
+              "2",
+              "[@nekromant](https://github.com/nekromant)/[**servomatic**](https://github.com/nekromant/servomatic)",
+              "proof-of-concept: attiny2313 controlling 13 servos",
+              ""
+            ],
+            [
+              "2",
+              "[@nekromant](https://github.com/nekromant)/[**agilia-files**](https://github.com/nekromant/agilia-files)",
+              "My ABUILDs for Agilia linux",
+              ""
+            ],
+            [
+              "2",
+              "[@astarasikov](https://github.com/astarasikov)/[**samsung-xmm6260-fw-l…**](https://github.com/astarasikov/samsung-xmm6260-fw-loader)",
+              "Code for loading firmware to the modem on I9100 and I9250 (see libsamsung-ipc)",
+              ""
+            ],
+            [
+              "2",
+              "[@astarasikov](https://github.com/astarasikov)/[**l4re-snapshot**](https://github.com/astarasikov/l4re-snapshot)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@nekromant](https://github.com/nekromant)/[**antares-examples**](https://github.com/nekromant/antares-examples)",
+              "Example projects for use with antares",
+              ""
+            ],
+            [
+              "2",
+              "[@moteus](https://github.com/moteus)/[**luasqlite3**](https://github.com/moteus/luasqlite3)",
+              "fork from http://lua.sqlite.org",
+              ""
+            ],
+            [
+              "2",
+              "[@akalend](https://github.com/akalend)/[**sophiaDb**](https://github.com/akalend/sophiaDb)",
+              "The SophiaDb is memcached port to the key/value storage API Sophia (http://sphia.org/) based on the  Fractional Cascading ideas.",
+              ""
+            ],
+            [
+              "2",
+              "[@rtsisyk](https://github.com/rtsisyk)/[**time-bench**](https://github.com/rtsisyk/time-bench)",
+              "time_bench: time() / gettimeofday() / clock_gettime() benchmark",
+              ""
+            ],
+            [
+              "2",
+              "[@nofearnohappy](https://github.com/nofearnohappy)/[**Custom_kernel_hermes…**](https://github.com/nofearnohappy/Custom_kernel_hermes_new)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@tony2001](https://github.com/tony2001)/[**php-libevent**](https://github.com/tony2001/php-libevent)",
+              "PHP libevent extension",
+              ""
+            ],
+            [
+              "2",
+              "[@nekromant](https://github.com/nekromant)/[**ampe-sw-switch**](https://github.com/nekromant/ampe-sw-switch)",
+              "Kernel module for controlling usb host vbus lines on Allwinner A10 devices",
+              ""
+            ],
+            [
+              "2",
+              "[@tony2001](https://github.com/tony2001)/[**rrd**](https://github.com/tony2001/rrd)",
+              "PHP bindings to rrd tool system",
+              ""
+            ],
+            [
+              "2",
+              "[@szastupov](https://github.com/szastupov)/[**ustl**](https://github.com/szastupov/ustl)",
+              "ustl mirror (see no-exceptions branch)",
+              "[:arrow_upper_right:](http://ustl.sourceforge.net/)"
+            ],
+            [
+              "2",
+              "[@Nazg-Gul](https://github.com/Nazg-Gul)/[**fm**](https://github.com/Nazg-Gul/fm)",
+              "A GNU/Linux console-based file manager",
+              "[:arrow_upper_right:](http://nazg-gul.dyndns.org/wiki/index.php/Main_Page)"
+            ],
+            [
+              "2",
+              "[@tony2001](https://github.com/tony2001)/[**rabbitmq-c**](https://github.com/tony2001/rabbitmq-c)",
+              "AMQP client library",
               ""
             ]
           ]
