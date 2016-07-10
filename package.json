@@ -47,7 +47,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[Java](#java)"
+          "[Java](#java)",
+          "[C#](#c-1)"
         ]
       },
       {
@@ -1839,6 +1840,255 @@
               "2",
               "[@4ntoine](https://github.com/4ntoine)/[**CoffeeCatchDemo**](https://github.com/4ntoine/CoffeeCatchDemo)",
               "Test project for coffeecatch lib",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C# #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "176",
+              "[@Maxx53](https://github.com/Maxx53)/[**SCMBot**](https://github.com/Maxx53/SCMBot)",
+              "Steam Community Market auto-buying bot",
+              "[:arrow_upper_right:](http://scmbot.com)"
+            ],
+            [
+              "125",
+              "[@controlflow](https://github.com/controlflow)/[**resharper-postfix**](https://github.com/controlflow/resharper-postfix)",
+              "ReSharper Postfix Templates plugin",
+              ""
+            ],
+            [
+              "103",
+              "[@chromealex](https://github.com/chromealex)/[**Unity3d.UI.Windows**](https://github.com/chromealex/Unity3d.UI.Windows)",
+              "Unity 3D UI (uGUI) Windows Extensions",
+              "[:arrow_upper_right:](http://chromealex.github.io/Unity3d.UI.Windows/)"
+            ],
+            [
+              "78",
+              "[@controlflow](https://github.com/controlflow)/[**resharper-heapview**](https://github.com/controlflow/resharper-heapview)",
+              "ReSharper Heap Allocations Viewer plugin",
+              ""
+            ],
+            [
+              "57",
+              "[@Athari](https://github.com/Athari)/[**CsCss**](https://github.com/Athari/CsCss)",
+              "CSS parsing library for C# based on Mozilla Firefox code [MPL]",
+              ""
+            ],
+            [
+              "56",
+              "[@nicloay](https://github.com/nicloay)/[**Node-Inspector**](https://github.com/nicloay/Node-Inspector)",
+              "Unity graph editor extension. ",
+              ""
+            ],
+            [
+              "37",
+              "[@nicloay](https://github.com/nicloay)/[**colorus**](https://github.com/nicloay/colorus)",
+              "Unity3d ColoringBook web/ios",
+              ""
+            ],
+            [
+              "34",
+              "[@Maxx53](https://github.com/Maxx53)/[**NoCableLauncher**](https://github.com/Maxx53/NoCableLauncher)",
+              "Rocksmith 2014 Launcher for playing without RealTone cable (nocable fix)",
+              ""
+            ],
+            [
+              "28",
+              "[@nicloay](https://github.com/nicloay)/[**unity-spine-importer**](https://github.com/nicloay/unity-spine-importer)",
+              "Bring data from spine (EsotericSoftware) in to the unity3d",
+              ""
+            ],
+            [
+              "23",
+              "[@controlflow](https://github.com/controlflow)/[**resharper-gotoword**](https://github.com/controlflow/resharper-gotoword)",
+              "ReSharper Go to Word navigation plugin",
+              ""
+            ],
+            [
+              "19",
+              "[@Athari](https://github.com/Athari)/[**XnaConvert**](https://github.com/Athari/XnaConvert)",
+              "Utility for converting XNA XNB files (Texture2D to PNG images) [New BSD]",
+              ""
+            ],
+            [
+              "17",
+              "[@Konard](https://github.com/Konard)/[**LinksPlatform**](https://github.com/Konard/LinksPlatform)",
+              "Holistic system for storage and transformation of information based on associative model of data. Целостная система для хранения и обработки информации основная на ассоциативной модели данных.",
+              ""
+            ],
+            [
+              "15",
+              "[@Athari](https://github.com/Athari)/[**Alba.Jaml**](https://github.com/Athari/Alba.Jaml)",
+              "JAML = WPF XAML − XML.verbosity + JSON.elegance [Simplified BSD]",
+              ""
+            ],
+            [
+              "10",
+              "[@jeanfabre](https://github.com/jeanfabre)/[**PlayMaker--Unity--UI**](https://github.com/jeanfabre/PlayMaker--Unity--UI)",
+              "PlayMaker",
+              ""
+            ],
+            [
+              "9",
+              "[@jeanfabre](https://github.com/jeanfabre)/[**PlayMakerCustomActio…**](https://github.com/jeanfabre/PlayMakerCustomActions_U4)",
+              "PlayMaker Custom Actions for Unity 4, as part of the PlayMaker ecosystem effort",
+              ""
+            ],
+            [
+              "8",
+              "[@Athari](https://github.com/Athari)/[**Alba.Framework**](https://github.com/Athari/Alba.Framework)",
+              "Framework for private projects [Public Domain + other]",
+              ""
+            ],
+            [
+              "7",
+              "[@roman-yagodin](https://github.com/roman-yagodin)/[**R7.Documents**](https://github.com/roman-yagodin/R7.Documents)",
+              "Redesigned version of DNN Documents module",
+              ""
+            ],
+            [
+              "6",
+              "[@jeanfabre](https://github.com/jeanfabre)/[**PlayMaker--UnityLear…**](https://github.com/jeanfabre/PlayMaker--UnityLearn--2dPlatformer)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@jeanfabre](https://github.com/jeanfabre)/[**PlayMakerCustomActio…**](https://github.com/jeanfabre/PlayMakerCustomActions_U3)",
+              "PlayMaker Custom Actions for Unity 3, as part of the PlayMaker ecosystem effort",
+              ""
+            ],
+            [
+              "5",
+              "[@ForNeVeR](https://github.com/ForNeVeR)/[**CyclopsChat**](https://github.com/ForNeVeR/CyclopsChat)",
+              "WPF-based XMPP chat application.",
+              ""
+            ],
+            [
+              "5",
+              "[@nicloay](https://github.com/nicloay)/[**atlasToCube**](https://github.com/nicloay/atlasToCube)",
+              "Unity3d utility to put any texture from atlas to different faces of cube",
+              ""
+            ],
+            [
+              "5",
+              "[@chromealex](https://github.com/chromealex)/[**ME.Macros**](https://github.com/chromealex/ME.Macros)",
+              "Unity 3D Macros System",
+              ""
+            ],
+            [
+              "5",
+              "[@controlflow](https://github.com/controlflow)/[**Parse.Sharp**](https://github.com/controlflow/Parse.Sharp)",
+              "Yet another C# parser combinator library",
+              ""
+            ],
+            [
+              "4",
+              "[@Athari](https://github.com/Athari)/[**CsConsoleFormat**](https://github.com/Athari/CsConsoleFormat)",
+              ".NET C# library for advanced formatting of console output [Apache]",
+              ""
+            ],
+            [
+              "4",
+              "[@xakepru](https://github.com/xakepru)/[**x14.05-coding-decapt…**](https://github.com/xakepru/x14.05-coding-decaptcha)",
+              "Пример приложения для расшифровки капчи на базе Tesseract OCR и FANN",
+              ""
+            ],
+            [
+              "4",
+              "[@roman-yagodin](https://github.com/roman-yagodin)/[**R7.University**](https://github.com/roman-yagodin/R7.University)",
+              "Modules and base library for DNN Platfrom designed to present and manage various assets  (e.g. divisions, employees, educational programs, documents) for high school educational organization website, compatible with obrnadzor.gov.ru microdata requirements.",
+              ""
+            ],
+            [
+              "3",
+              "[@ForNeVeR](https://github.com/ForNeVeR)/[**hell-api**](https://github.com/ForNeVeR/hell-api)",
+              "Miranda IM managed plugin API adapter for .NET.",
+              ""
+            ],
+            [
+              "3",
+              "[@roman-yagodin](https://github.com/roman-yagodin)/[**R7.DotNetNuke.Extens…**](https://github.com/roman-yagodin/R7.DotNetNuke.Extensions)",
+              "A library for DNN Platform extensions development",
+              ""
+            ],
+            [
+              "3",
+              "[@controlflow](https://github.com/controlflow)/[**resharper-checker**](https://github.com/controlflow/resharper-checker)",
+              "ReSharper.Checker MSIL weaver that emit null checks from [NotNull] annotations",
+              ""
+            ],
+            [
+              "2",
+              "[@ForNeVeR](https://github.com/ForNeVeR)/[**TankDriver**](https://github.com/ForNeVeR/TankDriver)",
+              "Simple game in XNA.",
+              ""
+            ],
+            [
+              "2",
+              "[@roman-yagodin](https://github.com/roman-yagodin)/[**R7.Epsilon**](https://github.com/roman-yagodin/R7.Epsilon)",
+              "Highly customizable, multiportal, responsive skin for DNN Platform",
+              ""
+            ],
+            [
+              "2",
+              "[@roman-yagodin](https://github.com/roman-yagodin)/[**R7.News**](https://github.com/roman-yagodin/R7.News)",
+              "News subsystem for DNN Platform",
+              ""
+            ],
+            [
+              "2",
+              "[@ForNeVeR](https://github.com/ForNeVeR)/[**BetterFuck**](https://github.com/ForNeVeR/BetterFuck)",
+              "Brainfuck language compiler for CLR.",
+              ""
+            ],
+            [
+              "2",
+              "[@intagger](https://github.com/intagger)/[**SerializersRace**](https://github.com/intagger/SerializersRace)",
+              "A performance testing tool for .NET serializers.",
+              ""
+            ],
+            [
+              "2",
+              "[@jeanfabre](https://github.com/jeanfabre)/[**PlayMakerBetaActions…**](https://github.com/jeanfabre/PlayMakerBetaActions_U4)",
+              "PlayMaker Beta Actions, as part of the PlayMaker ecosystem effort",
+              ""
+            ],
+            [
+              "2",
+              "[@Maxx53](https://github.com/Maxx53)/[**IzickLanCoop**](https://github.com/Maxx53/IzickLanCoop)",
+              "Lan Cooperative for The Binding of Isaac: Rebirth",
+              ""
+            ],
+            [
+              "2",
+              "[@ForNeVeR](https://github.com/ForNeVeR)/[**ImapSlack**](https://github.com/ForNeVeR/ImapSlack)",
+              "Integrate Slack with IMAP email server.",
+              ""
+            ],
+            [
+              "2",
+              "[@nicloay](https://github.com/nicloay)/[**persistentSingleton**](https://github.com/nicloay/persistentSingleton)",
+              "Unity plugin which store/read properties from/to singleton to UserPrefs",
+              ""
+            ],
+            [
+              "2",
+              "[@roman-yagodin](https://github.com/roman-yagodin)/[**R7.DnnLocalization**](https://github.com/roman-yagodin/R7.DnnLocalization)",
+              "Localization of DNN Platform static resources (language pack) - русский перевод DotNetNuke",
               ""
             ]
           ]
