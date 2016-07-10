@@ -63,7 +63,8 @@
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
           "[PHP](#php)",
-          "[Python](#python)"
+          "[Python](#python)",
+          "[R](#r)"
         ]
       },
       {
@@ -6098,6 +6099,27 @@
               "[@andreypopp](https://github.com/andreypopp)/[**pyevent2**](https://github.com/andreypopp/pyevent2)",
               "Python bindings for libevent 2.x",
               "[:arrow_upper_right:](http://github.com/bsdemon/pyevent2)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "R #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "10",
+              "[@mephistopheies](https://github.com/mephistopheies)/[**ml-r**](https://github.com/mephistopheies/ml-r)",
+              "Code for ML course",
+              ""
             ]
           ]
         }
