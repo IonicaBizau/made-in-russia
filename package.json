@@ -38,5 +38,1214 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/made-in-russia/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/made-in-russia#readme"
+  "homepage": "https://github.com/IonicaBizau/made-in-russia#readme",
+  "blah": {
+    "installation": [
+      {
+        "h2": "Contents"
+      },
+      {
+        "ul": [
+          "[JavaScript](#javascript)"
+        ]
+      },
+      {
+        "h3": "JavaScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "4449",
+              "[@sergeche](https://github.com/sergeche)/[**emmet-sublime**](https://github.com/sergeche/emmet-sublime)",
+              "Emmet for Sublime Text",
+              "[:arrow_upper_right:](http://emmet.io)"
+            ],
+            [
+              "2820",
+              "[@VodkaBears](https://github.com/VodkaBears)/[**Vide**](https://github.com/VodkaBears/Vide)",
+              "Easy as hell jQuery plugin for video backgrounds.",
+              "[:arrow_upper_right:](http://vodkabears.github.io/vide/)"
+            ],
+            [
+              "2094",
+              "[@VodkaBears](https://github.com/VodkaBears)/[**Remodal**](https://github.com/VodkaBears/Remodal)",
+              "Responsive, lightweight, fast, synchronized with CSS animations, fully customizable modal window plugin with declarative configuration and hash tracking.",
+              "[:arrow_upper_right:](http://vodkabears.github.io/remodal/)"
+            ],
+            [
+              "1981",
+              "[@zloirock](https://github.com/zloirock)/[**core-js**](https://github.com/zloirock/core-js)",
+              "Standard Library",
+              ""
+            ],
+            [
+              "340",
+              "[@ealeksandrov](https://github.com/ealeksandrov)/[**NodeAPI**](https://github.com/ealeksandrov/NodeAPI)",
+              "Simple RESTful API implementation on Node.js + MongoDB.",
+              ""
+            ],
+            [
+              "327",
+              "[@VodkaBears](https://github.com/VodkaBears)/[**Interdimensional**](https://github.com/VodkaBears/Interdimensional)",
+              "Spatial scrolling for your web pages.",
+              "[:arrow_upper_right:](http://vodkabears.github.io/interdimensional/)"
+            ],
+            [
+              "267",
+              "[@sergeche](https://github.com/sergeche)/[**eclipse-zencoding**](https://github.com/sergeche/eclipse-zencoding)",
+              "Native Zen Coding plugin for Eclipse",
+              "[:arrow_upper_right:](http://code.google.com/p/zen-coding/)"
+            ],
+            [
+              "252",
+              "[@sgrebnov](https://github.com/sgrebnov)/[**jqmobile-metro-theme**](https://github.com/sgrebnov/jqmobile-metro-theme)",
+              "My attempt to implement Metro theme for jQuery Mobile",
+              ""
+            ],
+            [
+              "240",
+              "[@sergeche](https://github.com/sergeche)/[**xmlview**](https://github.com/sergeche/xmlview)",
+              "Powerful XML viewer for Google Chrome and Safari",
+              ""
+            ],
+            [
+              "228",
+              "[@Sannis](https://github.com/Sannis)/[**node-mysql-libmysqlc…**](https://github.com/Sannis/node-mysql-libmysqlclient)",
+              "Asynchronous MySQL binding for Node.js",
+              "[:arrow_upper_right:](http://sannis.github.com/node-mysql-libmysqlclient)"
+            ],
+            [
+              "215",
+              "[@sergeche](https://github.com/sergeche)/[**codemirror-movie**](https://github.com/sergeche/codemirror-movie)",
+              "A plugin for CodeMirror for code demos",
+              "[:arrow_upper_right:](http://media.chikuyonok.ru/codemirror-movie/)"
+            ],
+            [
+              "209",
+              "[@veged](https://github.com/veged)/[**xjst**](https://github.com/veged/xjst)",
+              "Extensible JavaScript Transformations",
+              "[:arrow_upper_right:](http://veged.github.com/xjst/)"
+            ],
+            [
+              "204",
+              "[@lahmatiy](https://github.com/lahmatiy)/[**component-inspector**](https://github.com/lahmatiy/component-inspector)",
+              "Component DOM inspector",
+              ""
+            ],
+            [
+              "174",
+              "[@artzub](https://github.com/artzub)/[**GitHubVisualizer**](https://github.com/artzub/GitHubVisualizer)",
+              "Visualization the history of repository changes based on data from GitHub",
+              "[:arrow_upper_right:](http://ghv.artzub.com/)"
+            ],
+            [
+              "159",
+              "[@sergeche](https://github.com/sergeche)/[**tx-content-assist**](https://github.com/sergeche/tx-content-assist)",
+              "Content assist for textarea",
+              ""
+            ],
+            [
+              "153",
+              "[@artpolikarpov](https://github.com/artpolikarpov)/[**scrollyeah**](https://github.com/artpolikarpov/scrollyeah)",
+              "Puts floats in single line.",
+              ""
+            ],
+            [
+              "108",
+              "[@VodkaBears](https://github.com/VodkaBears)/[**galereya**](https://github.com/VodkaBears/galereya)",
+              "Responsive, easily customizable gallery with a masonry layout",
+              "[:arrow_upper_right:](http://vodkabears.github.com/galereya)"
+            ],
+            [
+              "101",
+              "[@koistya](https://github.com/koistya)/[**gulp-csscomb**](https://github.com/koistya/gulp-csscomb)",
+              "CSScomb plugin for Gulp.js. Formats CSS according to a pre-defined coding style.",
+              "[:arrow_upper_right:](http://csscomb.com)"
+            ],
+            [
+              "95",
+              "[@veged](https://github.com/veged)/[**krasota.js**](https://github.com/veged/krasota.js)",
+              "Syntactic transformations of JavaScript code, with taking care of whitespaces and comments.",
+              "[:arrow_upper_right:](http://veged.github.com/krasota.js/)"
+            ],
+            [
+              "71",
+              "[@artpolikarpov](https://github.com/artpolikarpov)/[**Flags**](https://github.com/artpolikarpov/Flags)",
+              "Flag icons in sprite",
+              "[:arrow_upper_right:](http://artpolikarpov.ru/projects/flags/)"
+            ],
+            [
+              "68",
+              "[@artzub](https://github.com/artzub)/[**blackhole.js**](https://github.com/artzub/blackhole.js)",
+              "Library for dinamyc visaulization such as code_swarm. Sandbox:",
+              "[:arrow_upper_right:](http://codepen.io/collection/Eqrmi/)"
+            ],
+            [
+              "64",
+              "[@VodkaBears](https://github.com/VodkaBears)/[**MotionDetector.js**](https://github.com/VodkaBears/MotionDetector.js)",
+              "JS library for motion detection.",
+              ""
+            ],
+            [
+              "62",
+              "[@artpolikarpov](https://github.com/artpolikarpov)/[**fuckyeah**](https://github.com/artpolikarpov/fuckyeah)",
+              "$('#sexy').slideDown('slow').fuckYeah();",
+              ""
+            ],
+            [
+              "58",
+              "[@VodkaBears](https://github.com/VodkaBears)/[**another-one-fucking-…**](https://github.com/VodkaBears/another-one-fucking-boilerplate)",
+              "Yes, another one JS boilerplate.",
+              ""
+            ],
+            [
+              "52",
+              "[@artpolikarpov](https://github.com/artpolikarpov)/[**upyachka.js**](https://github.com/artpolikarpov/upyachka.js)",
+              "Reserve the place where responsive images are going",
+              ""
+            ],
+            [
+              "41",
+              "[@outpunk](https://github.com/outpunk)/[**postcss-each**](https://github.com/outpunk/postcss-each)",
+              "PostCSS plugin to iterate through values",
+              ""
+            ],
+            [
+              "37",
+              "[@lahmatiy](https://github.com/lahmatiy)/[**postcss-csso**](https://github.com/lahmatiy/postcss-csso)",
+              "PostCSS plugin to minify CSS using CSSO",
+              ""
+            ],
+            [
+              "35",
+              "[@koistya](https://github.com/koistya)/[**demos**](https://github.com/koistya/demos)",
+              "Demo projects and code recipes featuring React, Redux, Relay...",
+              "[:arrow_upper_right:](https://medium.com/@tarkus)"
+            ],
+            [
+              "35",
+              "[@mishanga](https://github.com/mishanga)/[**bem-vcard**](https://github.com/mishanga/bem-vcard)",
+              "Yandex Staff Visiting Card",
+              "[:arrow_upper_right:](mishanga.ru)"
+            ],
+            [
+              "32",
+              "[@lahmatiy](https://github.com/lahmatiy)/[**es6-promise-polyfill**](https://github.com/lahmatiy/es6-promise-polyfill)",
+              "ES6 Promise polyfill",
+              ""
+            ],
+            [
+              "31",
+              "[@sergeche](https://github.com/sergeche)/[**jsdt-docs**](https://github.com/sergeche/jsdt-docs)",
+              "Some JSDoc files for Eclipse JSDT for popular libraries: underscore.js, Zepto, Node.js etc.",
+              ""
+            ],
+            [
+              "31",
+              "[@sgrebnov](https://github.com/sgrebnov)/[**cordova-plugin-backg…**](https://github.com/sgrebnov/cordova-plugin-background-download)",
+              "",
+              ""
+            ],
+            [
+              "30",
+              "[@sergeche](https://github.com/sergeche)/[**grunt-frontend**](https://github.com/sergeche/grunt-frontend)",
+              "CSS and JS minifier that respects source modification",
+              ""
+            ],
+            [
+              "29",
+              "[@arikon](https://github.com/arikon)/[**npm2debian**](https://github.com/arikon/npm2debian)",
+              "Utility to convert npm packages to Debian packages",
+              ""
+            ],
+            [
+              "29",
+              "[@dvv](https://github.com/dvv)/[**underscore-data**](https://github.com/dvv/underscore-data)",
+              "data querying and validating tools based on underscore.js",
+              ""
+            ],
+            [
+              "27",
+              "[@koistya](https://github.com/koistya)/[**git-push**](https://github.com/koistya/git-push)",
+              "Use git-push to deploy your website to Azure, Heroku, GitHub Pages or any another hosting provider supporting Git-based deployments.",
+              ""
+            ],
+            [
+              "27",
+              "[@artpolikarpov](https://github.com/artpolikarpov)/[**stickyeah**](https://github.com/artpolikarpov/stickyeah)",
+              "Makes blocks stick to the top of the screen while scrolling down the page",
+              ""
+            ],
+            [
+              "26",
+              "[@arikon](https://github.com/arikon)/[**mocha-istanbul**](https://github.com/arikon/mocha-istanbul)",
+              "",
+              ""
+            ],
+            [
+              "25",
+              "[@sergeche](https://github.com/sergeche)/[**webkit-css**](https://github.com/sergeche/webkit-css)",
+              "Hack to display CSS rule line number in Safari/Webkit/Chrome Web Inspector",
+              ""
+            ],
+            [
+              "24",
+              "[@Sannis](https://github.com/Sannis)/[**node-ubjson**](https://github.com/Sannis/node-ubjson)",
+              "Universal Binary JSON packer/unpacker for Node.js",
+              "[:arrow_upper_right:](http://sannis.github.com/node-ubjson)"
+            ],
+            [
+              "23",
+              "[@outpunk](https://github.com/outpunk)/[**gulp-evil-icons**](https://github.com/outpunk/gulp-evil-icons)",
+              "Gulp plugin to use Evil Icons in your project",
+              ""
+            ],
+            [
+              "22",
+              "[@koistya](https://github.com/koistya)/[**gulp-render**](https://github.com/koistya/gulp-render)",
+              "Pre-render React components at compile time. E.g. SomePage.jsx -> some-page.html",
+              ""
+            ],
+            [
+              "21",
+              "[@brainfucker](https://github.com/brainfucker)/[**nodejs.ru**](https://github.com/brainfucker/nodejs.ru)",
+              "open source web site",
+              ""
+            ],
+            [
+              "21",
+              "[@Mithgol](https://github.com/Mithgol)/[**phido**](https://github.com/Mithgol/phido)",
+              "Fidonet browser with a GUI.",
+              ""
+            ],
+            [
+              "21",
+              "[@sergeche](https://github.com/sergeche)/[**rocon**](https://github.com/sergeche/rocon)",
+              "Fast cross-browser library for rounded corners creation",
+              ""
+            ],
+            [
+              "21",
+              "[@sgrebnov](https://github.com/sgrebnov)/[**jqmobile-wp8-theme**](https://github.com/sgrebnov/jqmobile-wp8-theme)",
+              "",
+              ""
+            ],
+            [
+              "20",
+              "[@voischev](https://github.com/voischev)/[**bem-full-stack**](https://github.com/voischev/bem-full-stack)",
+              "express bem bemtree bemhtml project stub",
+              ""
+            ],
+            [
+              "19",
+              "[@VodkaBears](https://github.com/VodkaBears)/[**colormotion**](https://github.com/VodkaBears/colormotion)",
+              "Nice looking motion detection with an experimental HTML5 getUserMedia API.",
+              "[:arrow_upper_right:](http://vodkabears.github.com/colormotion/)"
+            ],
+            [
+              "18",
+              "[@dvv](https://github.com/dvv)/[**stereo**](https://github.com/dvv/stereo)",
+              "A naive multi-core node application controller",
+              ""
+            ],
+            [
+              "18",
+              "[@Panya](https://github.com/Panya)/[**tinymce_pasteimage**](https://github.com/Panya/tinymce_pasteimage)",
+              "Плагин для вставки картинок из буфера обмена",
+              ""
+            ],
+            [
+              "17",
+              "[@lahmatiy](https://github.com/lahmatiy)/[**open-in-editor**](https://github.com/lahmatiy/open-in-editor)",
+              "Open file in editor",
+              ""
+            ],
+            [
+              "16",
+              "[@Mithgol](https://github.com/Mithgol)/[**nwglobal**](https://github.com/Mithgol/nwglobal)",
+              "Node.js globals for node-webkit's HTML5",
+              ""
+            ],
+            [
+              "16",
+              "[@Sannis](https://github.com/Sannis)/[**node-mysql-benchmark…**](https://github.com/Sannis/node-mysql-benchmarks)",
+              "Benchmarks for MySQL client modules for Node.js",
+              "[:arrow_upper_right:](http://github.com/Sannis/node-mysql-benchmarks/wiki)"
+            ],
+            [
+              "16",
+              "[@dvv](https://github.com/dvv)/[**farm**](https://github.com/dvv/farm)",
+              "haproxy + stud made easy, socket.io ready",
+              ""
+            ],
+            [
+              "14",
+              "[@sergeche](https://github.com/sergeche)/[**ant-tools**](https://github.com/sergeche/ant-tools)",
+              "Набор Ant-задач для сборки веб-проектов",
+              ""
+            ],
+            [
+              "13",
+              "[@brainfucker](https://github.com/brainfucker)/[**node-comet**](https://github.com/brainfucker/node-comet)",
+              "Comet client and server libraries for Node.js",
+              "[:arrow_upper_right:](nodejs.ru)"
+            ],
+            [
+              "13",
+              "[@veged](https://github.com/veged)/[**shmakowiki**](https://github.com/veged/shmakowiki)",
+              "Yet another wiki dialect, inspired by WackoWiki and WikiCreole",
+              "[:arrow_upper_right:](http://clubs.ya.ru/4611686018427414227/)"
+            ],
+            [
+              "13",
+              "[@outpunk](https://github.com/outpunk)/[**grunt-evil-icons**](https://github.com/outpunk/grunt-evil-icons)",
+              "Grunt plugin to use Evil Icons in your project",
+              ""
+            ],
+            [
+              "12",
+              "[@SamuraiJack](https://github.com/SamuraiJack)/[**Shotenjin**](https://github.com/SamuraiJack/Shotenjin)",
+              "Post-modern javascript templating system",
+              "[:arrow_upper_right:](http://samuraijack.github.com/Shotenjin)"
+            ],
+            [
+              "11",
+              "[@dvv](https://github.com/dvv)/[**luvit-app**](https://github.com/dvv/luvit-app)",
+              "A simple framework",
+              ""
+            ],
+            [
+              "11",
+              "[@voischev](https://github.com/voischev)/[**posthtml-retext**](https://github.com/voischev/posthtml-retext)",
+              "PostHTML Retext plugin",
+              ""
+            ],
+            [
+              "11",
+              "[@sergeche](https://github.com/sergeche)/[**xsl-tracer**](https://github.com/sergeche/xsl-tracer)",
+              "Service for tracing XSL transformations",
+              ""
+            ],
+            [
+              "10",
+              "[@SamuraiJack](https://github.com/SamuraiJack)/[**KiokuJS**](https://github.com/SamuraiJack/KiokuJS)",
+              "Persistence layer for Joose, mostly targeting NoSQL backends (port of KiokuDB to Joose)",
+              ""
+            ],
+            [
+              "10",
+              "[@voischev](https://github.com/voischev)/[**posthtml-textr**](https://github.com/voischev/posthtml-textr)",
+              "Textr for PostHTML",
+              "[:arrow_upper_right:](http://npmjs.com/package/posthtml-textr)"
+            ],
+            [
+              "10",
+              "[@koistya](https://github.com/koistya)/[**graphql-express-mong…**](https://github.com/koistya/graphql-express-mongodb-example)",
+              "A minimalistic GraphQL server example built with Node.js, Express, MongoDB Native Driver, and ES2015 async/await syntax via Babel",
+              "[:arrow_upper_right:](https://twitter.com/koistya/status/719468387701813248)"
+            ],
+            [
+              "10",
+              "[@Mithgol](https://github.com/Mithgol)/[**node-fidonet-jam**](https://github.com/Mithgol/node-fidonet-jam)",
+              "Fidonet JAM echomail base access for Node.js",
+              ""
+            ],
+            [
+              "9",
+              "[@mishanga](https://github.com/mishanga)/[**serp**](https://github.com/mishanga/serp)",
+              "Simple Yandex SERP based on BEM (bem-bl)",
+              ""
+            ],
+            [
+              "9",
+              "[@lahmatiy](https://github.com/lahmatiy)/[**express-open-in-edit…**](https://github.com/lahmatiy/express-open-in-editor)",
+              "Express extension to open file in editor",
+              ""
+            ],
+            [
+              "9",
+              "[@veged](https://github.com/veged)/[**ometa-highlighter**](https://github.com/veged/ometa-highlighter)",
+              "Code highlighter based on Ometa/JS (little inspired by Pygments)",
+              ""
+            ],
+            [
+              "9",
+              "[@andreyvit](https://github.com/andreyvit)/[**majority.js**](https://github.com/andreyvit/majority.js)",
+              "Master election protocol for master-slave cloud services in Node.js",
+              ""
+            ],
+            [
+              "9",
+              "[@xboston](https://github.com/xboston)/[**phalcon-users-auth**](https://github.com/xboston/phalcon-users-auth)",
+              "",
+              "[:arrow_upper_right:](http://xboston.github.io/phalcon-users-auth/)"
+            ],
+            [
+              "8",
+              "[@Mithgol](https://github.com/Mithgol)/[**FGHI-URL**](https://github.com/Mithgol/FGHI-URL)",
+              "Fidonet Global Hypertext Interface — Uniform Resource Locators",
+              ""
+            ],
+            [
+              "8",
+              "[@dvv](https://github.com/dvv)/[**socket.io-context**](https://github.com/dvv/socket.io-context)",
+              "An updatable JS object over socket.io connection",
+              ""
+            ],
+            [
+              "8",
+              "[@artpolikarpov](https://github.com/artpolikarpov)/[**jquery.formyeah.js**](https://github.com/artpolikarpov/jquery.formyeah.js)",
+              "Persist form’s data locally",
+              ""
+            ],
+            [
+              "8",
+              "[@veged](https://github.com/veged)/[**bem-components-react**](https://github.com/veged/bem-components-react)",
+              "EXPERIMENT, DO NOT USE",
+              ""
+            ],
+            [
+              "8",
+              "[@andreyvit](https://github.com/andreyvit)/[**plist-to-json**](https://github.com/andreyvit/plist-to-json)",
+              "A tiny command-line tool to convert (xml) .plist files to JSON format",
+              ""
+            ],
+            [
+              "8",
+              "[@SamuraiJack](https://github.com/SamuraiJack)/[**Task-Joose-NodeJS**](https://github.com/SamuraiJack/Task-Joose-NodeJS)",
+              "Joose, packaged with NodeJS flavour",
+              "[:arrow_upper_right:](http://samuraijack.github.com/Task-Joose-NodeJS)"
+            ],
+            [
+              "8",
+              "[@dvv](https://github.com/dvv)/[**schema2form**](https://github.com/dvv/schema2form)",
+              "Given a JSON schema and optionally the data, render an HTML form",
+              ""
+            ],
+            [
+              "8",
+              "[@koistya](https://github.com/koistya)/[**git-repository**](https://github.com/koistya/git-repository)",
+              "A Promise-based JavaScript wrapper library for working with Git CLI",
+              ""
+            ],
+            [
+              "8",
+              "[@veged](https://github.com/veged)/[**yajsh**](https://github.com/veged/yajsh)",
+              "Yet Another JavaScript Highlighter",
+              ""
+            ],
+            [
+              "7",
+              "[@dvv](https://github.com/dvv)/[**simple-geoip**](https://github.com/dvv/simple-geoip)",
+              "barebone GeoIP, see https://github.com/dvv/simple-geoip/wiki for details",
+              ""
+            ],
+            [
+              "7",
+              "[@VodkaBears](https://github.com/VodkaBears)/[**sensitive-particles**](https://github.com/VodkaBears/sensitive-particles)",
+              "HTML5 experiment with motion detection and particles.",
+              "[:arrow_upper_right:](http://vodkabears.github.com/sensitive-particles/)"
+            ],
+            [
+              "7",
+              "[@sergeche](https://github.com/sergeche)/[**emmet.chocmixin**](https://github.com/sergeche/emmet.chocmixin)",
+              "Emmet mixin for Chocolat editor",
+              ""
+            ],
+            [
+              "7",
+              "[@dvv](https://github.com/dvv)/[**sockjs-luvit**](https://github.com/dvv/sockjs-luvit)",
+              "WebSocket emulation - Luvit server",
+              ""
+            ],
+            [
+              "7",
+              "[@dvv](https://github.com/dvv)/[**underscore.query**](https://github.com/dvv/underscore.query)",
+              "Language to declaratively operate on arrays/hashes of objects",
+              ""
+            ],
+            [
+              "7",
+              "[@Sannis](https://github.com/Sannis)/[**wikimapia-api-client…**](https://github.com/Sannis/wikimapia-api-clients)",
+              "Bunch of clients for Wikimapia API",
+              ""
+            ],
+            [
+              "7",
+              "[@artpolikarpov](https://github.com/artpolikarpov)/[**audiofade**](https://github.com/artpolikarpov/audiofade)",
+              "Набор плагинов для плавного включения и выключения аудио",
+              ""
+            ],
+            [
+              "7",
+              "[@Mithgol](https://github.com/Mithgol)/[**simteconf**](https://github.com/Mithgol/simteconf)",
+              "Simple text configuration reader (for Node.js)",
+              ""
+            ],
+            [
+              "7",
+              "[@SamuraiJack](https://github.com/SamuraiJack)/[**Syncler**](https://github.com/SamuraiJack/Syncler)",
+              "Real-time, optimistic replication backend for KiokuJS, based on Socket.IO",
+              ""
+            ],
+            [
+              "7",
+              "[@SamuraiJack](https://github.com/SamuraiJack)/[**JooseX-Role-Paramete…**](https://github.com/SamuraiJack/JooseX-Role-Parameterized)",
+              "Implementation of parameterized roles for Joose",
+              "[:arrow_upper_right:](http://joose.it)"
+            ],
+            [
+              "7",
+              "[@dvv](https://github.com/dvv)/[**luvit-engine.io**](https://github.com/dvv/luvit-engine.io)",
+              "Engine.IO made in Luvit",
+              ""
+            ],
+            [
+              "7",
+              "[@veged](https://github.com/veged)/[**tinyjira**](https://github.com/veged/tinyjira)",
+              "Tiny interface for Atlassian JIRA based on JSON-RPC",
+              ""
+            ],
+            [
+              "7",
+              "[@Mithgol](https://github.com/Mithgol)/[**node-singlebyte**](https://github.com/Mithgol/node-singlebyte)",
+              "Supports more 1-byte encodings than Node.js Buffer",
+              ""
+            ],
+            [
+              "7",
+              "[@dvv](https://github.com/dvv)/[**meta-fs**](https://github.com/dvv/meta-fs)",
+              "Higher level filesystem utilities for Node.js",
+              ""
+            ],
+            [
+              "6",
+              "[@SamuraiJack](https://github.com/SamuraiJack)/[**JooseX-Namespace-Dep…**](https://github.com/SamuraiJack/JooseX-Namespace-Depended)",
+              "Dependencies handling implementation, integrated with Joose3",
+              "[:arrow_upper_right:](http://samuraijack.github.com/JooseX-Namespace-Depended)"
+            ],
+            [
+              "6",
+              "[@mishanga](https://github.com/mishanga)/[**bem-form**](https://github.com/mishanga/bem-form)",
+              "Form widgets based on jz-forms and BEM tech",
+              "[:arrow_upper_right:](http://form.dev.eot.su/)"
+            ],
+            [
+              "6",
+              "[@SamuraiJack](https://github.com/SamuraiJack)/[**JooseX-CPS**](https://github.com/SamuraiJack/JooseX-CPS)",
+              "Some syntax sugar for 'Continuation Passing Style' in Joose",
+              "[:arrow_upper_right:](http://samuraijack.github.com/JooseX-CPS)"
+            ],
+            [
+              "6",
+              "[@SamuraiJack](https://github.com/SamuraiJack)/[**JSON2**](https://github.com/SamuraiJack/JSON2)",
+              "json2 / native JSON normalizer for Joose",
+              ""
+            ],
+            [
+              "6",
+              "[@SamuraiJack](https://github.com/SamuraiJack)/[**JooseX-Attribute**](https://github.com/SamuraiJack/JooseX-Attribute)",
+              "Additional features for Joose attributes",
+              "[:arrow_upper_right:](http://samuraijack.github.com/JooseX-Attribute)"
+            ],
+            [
+              "6",
+              "[@Sannis](https://github.com/Sannis)/[**node-pinba**](https://github.com/Sannis/node-pinba)",
+              "Pure node.js Pinba client",
+              ""
+            ],
+            [
+              "6",
+              "[@mishanga](https://github.com/mishanga)/[**bemchan**](https://github.com/mishanga/bemchan)",
+              "Image board BEM-based engine",
+              ""
+            ],
+            [
+              "6",
+              "[@dvv](https://github.com/dvv)/[**u-gotta-luvit**](https://github.com/dvv/u-gotta-luvit)",
+              "experimental http stack for luvit",
+              ""
+            ],
+            [
+              "6",
+              "[@voischev](https://github.com/voischev)/[**bem-mail**](https://github.com/voischev/bem-mail)",
+              "bem-mail",
+              ""
+            ],
+            [
+              "6",
+              "[@artpolikarpov](https://github.com/artpolikarpov)/[**grunt-gh-release**](https://github.com/artpolikarpov/grunt-gh-release)",
+              "Create relases on GitHub from Grunt task.",
+              ""
+            ],
+            [
+              "5",
+              "[@dvv](https://github.com/dvv)/[**ua**](https://github.com/dvv/ua)",
+              "Dirt cheap User-Agent: parser",
+              ""
+            ],
+            [
+              "5",
+              "[@vpavlenko](https://github.com/vpavlenko)/[**pastegraph**](https://github.com/vpavlenko/pastegraph)",
+              "Share graph plots",
+              "[:arrow_upper_right:](http://pastegraph.herokuapp.com/)"
+            ],
+            [
+              "5",
+              "[@Mithgol](https://github.com/Mithgol)/[**node-fidonet-fidohtm…**](https://github.com/Mithgol/node-fidonet-fidohtml)",
+              "Makes HTML code out of a Fidonet message.",
+              ""
+            ],
+            [
+              "5",
+              "[@artzub](https://github.com/artzub)/[**clearspending**](https://github.com/artzub/clearspending)",
+              "Для конкурса ГосЗатраты",
+              "[:arrow_upper_right:](clearspending.artzub.com)"
+            ],
+            [
+              "5",
+              "[@sgrebnov](https://github.com/sgrebnov)/[**Html5ImageEditor**](https://github.com/sgrebnov/Html5ImageEditor)",
+              "Demo application for Devcon12 ",
+              ""
+            ],
+            [
+              "5",
+              "[@lahmatiy](https://github.com/lahmatiy)/[**css-parser**](https://github.com/lahmatiy/css-parser)",
+              "CSS parser",
+              ""
+            ],
+            [
+              "5",
+              "[@Mithgol](https://github.com/Mithgol)/[**node-uue**](https://github.com/Mithgol/node-uue)",
+              "UUE decoder and encoder for Node.js",
+              ""
+            ],
+            [
+              "4",
+              "[@SamuraiJack](https://github.com/SamuraiJack)/[**ExtX.Layout**](https://github.com/SamuraiJack/ExtX.Layout)",
+              "Collection of layouts for ExtJS",
+              ""
+            ],
+            [
+              "4",
+              "[@VodkaBears](https://github.com/VodkaBears)/[**vodkabears.github.co…**](https://github.com/VodkaBears/vodkabears.github.com)",
+              "http://vodkabears.github.io",
+              ""
+            ],
+            [
+              "4",
+              "[@dvv](https://github.com/dvv)/[**luvit-sockjs**](https://github.com/dvv/luvit-sockjs)",
+              "SockJS server in Luvit",
+              ""
+            ],
+            [
+              "4",
+              "[@kovaldn](https://github.com/kovaldn)/[**magazinorehov**](https://github.com/kovaldn/magazinorehov)",
+              "Nuts store",
+              "[:arrow_upper_right:](http://xn--80aagcllh1aokbw0e.xn--p1ai/)"
+            ],
+            [
+              "4",
+              "[@SamuraiJack](https://github.com/SamuraiJack)/[**joosex-bridge-ext**](https://github.com/SamuraiJack/joosex-bridge-ext)",
+              "Bridge from Joose to Ext3",
+              "[:arrow_upper_right:](http://samuraijack.github.com/joosex-bridge-ext)"
+            ],
+            [
+              "4",
+              "[@koistya](https://github.com/koistya)/[**csscomb-loader**](https://github.com/koistya/csscomb-loader)",
+              "CSScomb loader for Webpack. Allows to format CSS coding style at a build time and/or lint your CSS",
+              ""
+            ],
+            [
+              "4",
+              "[@brainfucker](https://github.com/brainfucker)/[**manager**](https://github.com/brainfucker/manager)",
+              "manager for daemons",
+              ""
+            ],
+            [
+              "4",
+              "[@SamuraiJack](https://github.com/SamuraiJack)/[**JooseX-Observable**](https://github.com/SamuraiJack/JooseX-Observable)",
+              "Observable pattern as Joose role",
+              "[:arrow_upper_right:](http://samuraijack.github.com/JooseX-Observable/)"
+            ],
+            [
+              "4",
+              "[@zloirock](https://github.com/zloirock)/[**dtf**](https://github.com/zloirock/dtf)",
+              "Date formatting",
+              ""
+            ],
+            [
+              "4",
+              "[@outpunk](https://github.com/outpunk)/[**adaptive-evil-blocks**](https://github.com/outpunk/adaptive-evil-blocks)",
+              "Adaptivity support for Evil Blocks",
+              ""
+            ],
+            [
+              "4",
+              "[@SamuraiJack](https://github.com/SamuraiJack)/[**ShareBoard**](https://github.com/SamuraiJack/ShareBoard)",
+              "Collaborative sketching",
+              ""
+            ],
+            [
+              "4",
+              "[@artpolikarpov](https://github.com/artpolikarpov)/[**responsivr.js**](https://github.com/artpolikarpov/responsivr.js)",
+              "A small piece of JavaScript that makes sites more responsive even if they are completely fixed",
+              "[:arrow_upper_right:](http://artpolikarpov.github.io/responsivr.js/)"
+            ],
+            [
+              "4",
+              "[@artpolikarpov](https://github.com/artpolikarpov)/[**grunt-example**](https://github.com/artpolikarpov/grunt-example)",
+              "Простой пример конфигурации Гранта для склейки стилей и скриптов",
+              ""
+            ],
+            [
+              "4",
+              "[@arikon](https://github.com/arikon)/[**bower-npm-install**](https://github.com/arikon/bower-npm-install)",
+              "Run npm install on every bower dependency",
+              ""
+            ],
+            [
+              "4",
+              "[@veged](https://github.com/veged)/[**jscreole**](https://github.com/veged/jscreole)",
+              "JavaScript Creole 1.0 Wiki Markup Parser",
+              "[:arrow_upper_right:](http://www.ivan.fomichev.name/2008/04/javascript-creole-10-wiki-markup-parser.html)"
+            ],
+            [
+              "4",
+              "[@arikon](https://github.com/arikon)/[**tpl-cli**](https://github.com/arikon/tpl-cli)",
+              "Project template for the command line COA-based applications.",
+              ""
+            ],
+            [
+              "4",
+              "[@andreyvit](https://github.com/andreyvit)/[**grunt-typescript-exp…**](https://github.com/andreyvit/grunt-typescript-export)",
+              "Concat .d.ts from multiple files to provide an implicit module declaration for a npm package implemented in TypeScript",
+              ""
+            ],
+            [
+              "4",
+              "[@dvv](https://github.com/dvv)/[**connection**](https://github.com/dvv/connection)",
+              "WebSocket messaging made easy",
+              ""
+            ],
+            [
+              "3",
+              "[@arikon](https://github.com/arikon)/[**samurai**](https://github.com/arikon/samurai)",
+              "Samurai build platform",
+              ""
+            ],
+            [
+              "3",
+              "[@artzub](https://github.com/artzub)/[**Downloader-Chrome-Ex…**](https://github.com/artzub/Downloader-Chrome-Ext)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@SamuraiJack](https://github.com/SamuraiJack)/[**HTTP-Request-Provide…**](https://github.com/SamuraiJack/HTTP-Request-Provider)",
+              "Cross-platform HTTP request implementation",
+              ""
+            ],
+            [
+              "3",
+              "[@dvv](https://github.com/dvv)/[**luvit-checkit**](https://github.com/dvv/luvit-checkit)",
+              "A simple test runner",
+              ""
+            ],
+            [
+              "3",
+              "[@sgrebnov](https://github.com/sgrebnov)/[**incubator-cordova-wp…**](https://github.com/sgrebnov/incubator-cordova-wp8)",
+              "Mirror of Apache Cordova WP8",
+              ""
+            ],
+            [
+              "3",
+              "[@artzub](https://github.com/artzub)/[**minfin**](https://github.com/artzub/minfin)",
+              "minfin",
+              "[:arrow_upper_right:](http://budgetapps.artzub.com/minfin/)"
+            ],
+            [
+              "3",
+              "[@andreyvit](https://github.com/andreyvit)/[**tarantsov.com**](https://github.com/andreyvit/tarantsov.com)",
+              "",
+              "[:arrow_upper_right:](tarantsov.com)"
+            ],
+            [
+              "3",
+              "[@sgrebnov](https://github.com/sgrebnov)/[**cordova-plugin-ev3**](https://github.com/sgrebnov/cordova-plugin-ev3)",
+              "Apache Cordova plugin to control Lego EV3 via Bluetooth",
+              ""
+            ],
+            [
+              "3",
+              "[@SamuraiJack](https://github.com/SamuraiJack)/[**JooseIt**](https://github.com/SamuraiJack/JooseIt)",
+              "Joose.it website, business card of Joose project",
+              "[:arrow_upper_right:](http://joose.it)"
+            ],
+            [
+              "3",
+              "[@Panya](https://github.com/Panya)/[**reflow-tests**](https://github.com/Panya/reflow-tests)",
+              "Автоматические тесты рендеринга (reflow/repaint) страниц",
+              ""
+            ],
+            [
+              "3",
+              "[@kovaldn](https://github.com/kovaldn)/[**form**](https://github.com/kovaldn/form)",
+              "ajax form on bootstrap with serverside email validate",
+              ""
+            ],
+            [
+              "3",
+              "[@Mithgol](https://github.com/Mithgol)/[**fido2rss**](https://github.com/Mithgol/fido2rss)",
+              "Makes RSS feeds out of Fidonet echomail.",
+              ""
+            ],
+            [
+              "3",
+              "[@kovaldn](https://github.com/kovaldn)/[**counter-7days**](https://github.com/kovaldn/counter-7days)",
+              "counter is reset every 7 days",
+              ""
+            ],
+            [
+              "3",
+              "[@Mithgol](https://github.com/Mithgol)/[**node-abstract-syntax…**](https://github.com/Mithgol/node-abstract-syntax-tree)",
+              "An implementation of AST (abstract syntax tree) for Node.js. Can be used to build renderers of markup languages.",
+              ""
+            ],
+            [
+              "3",
+              "[@kovaldn](https://github.com/kovaldn)/[**dz-port**](https://github.com/kovaldn/dz-port)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@voischev](https://github.com/voischev)/[**bem-font**](https://github.com/voischev/bem-font)",
+              "Fonts lib in bem methodology",
+              "[:arrow_upper_right:](http://voischev.github.io/bem-font)"
+            ],
+            [
+              "3",
+              "[@lahmatiy](https://github.com/lahmatiy)/[**knockout-data-flow**](https://github.com/lahmatiy/knockout-data-flow)",
+              "Experimental basis.js data flow adaptation for knockout",
+              ""
+            ],
+            [
+              "3",
+              "[@SamuraiJack](https://github.com/SamuraiJack)/[**JooseX-SimpleRequest**](https://github.com/SamuraiJack/JooseX-SimpleRequest)",
+              "Simple XHR request abstraction",
+              "[:arrow_upper_right:](http://samuraijack.github.com/JooseX-SimpleRequest)"
+            ],
+            [
+              "3",
+              "[@SamuraiJack](https://github.com/SamuraiJack)/[**KiokuJS-Backend-Batc…**](https://github.com/SamuraiJack/KiokuJS-Backend-Batch)",
+              "Batching backend for KiokuJS",
+              ""
+            ],
+            [
+              "3",
+              "[@SamuraiJack](https://github.com/SamuraiJack)/[**KiokuJS-Backend-Couc…**](https://github.com/SamuraiJack/KiokuJS-Backend-CouchDB)",
+              "CouchDB backend for KiokuJS",
+              ""
+            ],
+            [
+              "3",
+              "[@lahmatiy](https://github.com/lahmatiy)/[**clap**](https://github.com/lahmatiy/clap)",
+              "Command line argument parser and staff",
+              ""
+            ],
+            [
+              "3",
+              "[@mishanga](https://github.com/mishanga)/[**bem-jz-forms**](https://github.com/mishanga/bem-jz-forms)",
+              "BEM-wrapper for jz form validation framework",
+              "[:arrow_upper_right:](https://github.com/dfilatov/jz)"
+            ],
+            [
+              "3",
+              "[@VodkaBears](https://github.com/VodkaBears)/[**Sop**](https://github.com/VodkaBears/Sop)",
+              "Small library for parsing stringified properties or converting properties to the string representation.",
+              ""
+            ],
+            [
+              "3",
+              "[@sergeche](https://github.com/sergeche)/[**codemirror-codecompl…**](https://github.com/sergeche/codemirror-codecomplete)",
+              "Code Complete abstract layer for CodeMirror2",
+              ""
+            ],
+            [
+              "3",
+              "[@veged](https://github.com/veged)/[**jquery.hashhistory**](https://github.com/veged/jquery.hashhistory)",
+              "jQuery hash change event",
+              "[:arrow_upper_right:](http://plugins.jquery.com/project/hashhistory)"
+            ],
+            [
+              "3",
+              "[@sergeche](https://github.com/sergeche)/[**html-transform**](https://github.com/sergeche/html-transform)",
+              "Streamed transform of HTML documents on DOM level",
+              ""
+            ],
+            [
+              "3",
+              "[@SamuraiJack](https://github.com/SamuraiJack)/[**JooseX-Meta-Lazy**](https://github.com/SamuraiJack/JooseX-Meta-Lazy)",
+              "Role to make metaclass 'lazy'",
+              "[:arrow_upper_right:](http://samuraijack.github.com/JooseX-Meta-Lazy)"
+            ],
+            [
+              "3",
+              "[@SamuraiJack](https://github.com/SamuraiJack)/[**Data.UUID**](https://github.com/SamuraiJack/Data.UUID)",
+              "Provides RFC4122v4 complaint UUIDs",
+              ""
+            ],
+            [
+              "3",
+              "[@artemeff](https://github.com/artemeff)/[**yam**](https://github.com/artemeff/yam)",
+              "Yet Another Music Player / Yandex.Music Desktop Client",
+              "[:arrow_upper_right:](https://music.yandex.ru/)"
+            ],
+            [
+              "2",
+              "[@Mithgol](https://github.com/Mithgol)/[**fidorest**](https://github.com/Mithgol/fidorest)",
+              "Fidonet RESTful API",
+              ""
+            ],
+            [
+              "2",
+              "[@veged](https://github.com/veged)/[**ometa-js-old**](https://github.com/veged/ometa-js-old)",
+              "Fork http://www.tinlizzie.org/~awarth/svn/ome…",
+              "[:arrow_upper_right:](http://tinlizzie.org/ometa-js/)"
+            ],
+            [
+              "2",
+              "[@veged](https://github.com/veged)/[**json4xml**](https://github.com/veged/json4xml)",
+              "Yet another JSON to XML convention",
+              ""
+            ],
+            [
+              "2",
+              "[@VodkaBears](https://github.com/VodkaBears)/[**jquery-expandingForm**](https://github.com/VodkaBears/jquery-expandingForm)",
+              "Expanding form widget for jquery",
+              ""
+            ],
+            [
+              "2",
+              "[@veged](https://github.com/veged)/[**odessajs-bem**](https://github.com/veged/odessajs-bem)",
+              "My talk for OdessaJS 2015",
+              "[:arrow_upper_right:](http://veged.github.io/odessajs-bem/)"
+            ],
+            [
+              "2",
+              "[@sgrebnov](https://github.com/sgrebnov)/[**phonegap-plugins-wp7**](https://github.com/sgrebnov/phonegap-plugins-wp7)",
+              "Temporary place for facebook connect and twitter plugins for Windows Phone",
+              ""
+            ],
+            [
+              "2",
+              "[@koistya](https://github.com/koistya)/[**jest-sandbox**](https://github.com/koistya/jest-sandbox)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@voischev](https://github.com/voischev)/[**bem-blog**](https://github.com/voischev/bem-blog)",
+              "Blog in expressjs / mongo / bem full stack",
+              ""
+            ],
+            [
+              "2",
+              "[@arikon](https://github.com/arikon)/[**q-wrap**](https://github.com/arikon/q-wrap)",
+              "Utility library to wrap async functions with last callback argument to promise returning functions",
+              ""
+            ],
+            [
+              "2",
+              "[@outpunk](https://github.com/outpunk)/[**gulp-rails-assets**](https://github.com/outpunk/gulp-rails-assets)",
+              "Rails assets manifest management for Gulp",
+              ""
+            ],
+            [
+              "2",
+              "[@veged](https://github.com/veged)/[**touchide**](https://github.com/veged/touchide)",
+              "Programming on iPhone",
+              ""
+            ],
+            [
+              "2",
+              "[@artzub](https://github.com/artzub)/[**olyspace**](https://github.com/artzub/olyspace)",
+              "Visualization statistics of the Olympic Games named \"Space of Olympic Games\"",
+              "[:arrow_upper_right:](http://d3.artzub.com/olyspace)"
+            ],
+            [
+              "2",
+              "[@veged](https://github.com/veged)/[**bem-i18n**](https://github.com/veged/bem-i18n)",
+              "BEM internationalization",
+              ""
+            ],
+            [
+              "2",
+              "[@andreyvit](https://github.com/andreyvit)/[**autoesc.js**](https://github.com/andreyvit/autoesc.js)",
+              "Error Short Circuiter (ESC) function decorator",
+              ""
+            ],
+            [
+              "2",
+              "[@sergeche](https://github.com/sergeche)/[**state-machine**](https://github.com/sergeche/state-machine)",
+              "A very simple and basic state machine implementation, inspired by Machina.js",
+              ""
+            ],
+            [
+              "2",
+              "[@Panya](https://github.com/Panya)/[**durilka**](https://github.com/Panya/durilka)",
+              "Simple tool for making data URIs from images in CSS files",
+              ""
+            ],
+            [
+              "2",
+              "[@Mithgol](https://github.com/Mithgol)/[**npmtree**](https://github.com/Mithgol/npmtree)",
+              "Outputs the tree of dependencies of a given npm package in Markdown form.",
+              ""
+            ],
+            [
+              "2",
+              "[@brainfucker](https://github.com/brainfucker)/[**skdy**](https://github.com/brainfucker/skdy)",
+              "ide experiment on top of node.js and bespin",
+              ""
+            ],
+            [
+              "2",
+              "[@Mithgol](https://github.com/Mithgol)/[**node-large-split**](https://github.com/Mithgol/node-large-split)",
+              "A collection of methods that split large Buffers and files.",
+              ""
+            ],
+            [
+              "2",
+              "[@SamuraiJack](https://github.com/SamuraiJack)/[**ExtX-Shotenjin**](https://github.com/SamuraiJack/ExtX-Shotenjin)",
+              "Shotenjin templates for ExtJS components",
+              "[:arrow_upper_right:](http://samuraijack.github.com/ExtX-Shotenjin)"
+            ],
+            [
+              "2",
+              "[@Mithgol](https://github.com/Mithgol)/[**agedays**](https://github.com/Mithgol/agedays)",
+              "Reports a given file's age (in days).",
+              ""
+            ],
+            [
+              "2",
+              "[@SamuraiJack](https://github.com/SamuraiJack)/[**Raphael**](https://github.com/SamuraiJack/Raphael)",
+              "JSAN-compatible distribution of the Raphael library",
+              "[:arrow_upper_right:](http://raphaeljs.com)"
+            ],
+            [
+              "2",
+              "[@dvv](https://github.com/dvv)/[**simple-example**](https://github.com/dvv/simple-example)",
+              "proof of concept for 'simple'",
+              ""
+            ],
+            [
+              "2",
+              "[@SamuraiJack](https://github.com/SamuraiJack)/[**Request.flXHR**](https://github.com/SamuraiJack/Request.flXHR)",
+              "JSAN wrapper for flXHR project",
+              ""
+            ],
+            [
+              "2",
+              "[@dvv](https://github.com/dvv)/[**o4epegb**](https://github.com/dvv/o4epegb)",
+              "A proto for socket.io new wave broadcasting. Name mimicks translit for russian \"очередь\" (queue)",
+              ""
+            ],
+            [
+              "2",
+              "[@SamuraiJack](https://github.com/SamuraiJack)/[**digest-md5**](https://github.com/SamuraiJack/digest-md5)",
+              "digest md5",
+              ""
+            ],
+            [
+              "2",
+              "[@dvv](https://github.com/dvv)/[**irclog**](https://github.com/dvv/irclog)",
+              "IRC logging bot",
+              ""
+            ],
+            [
+              "2",
+              "[@SamuraiJack](https://github.com/SamuraiJack)/[**ExtX-Reference-Slot**](https://github.com/SamuraiJack/ExtX-Reference-Slot)",
+              "ExtJS extension for accessing components hierarchy with mnemonic names",
+              "[:arrow_upper_right:](http://samuraijack.github.com/ExtX-Reference-Slot)"
+            ],
+            [
+              "2",
+              "[@dvv](https://github.com/dvv)/[**wscomm**](https://github.com/dvv/wscomm)",
+              "real-time shared context between browser and node",
+              ""
+            ],
+            [
+              "2",
+              "[@SamuraiJack](https://github.com/SamuraiJack)/[**extjs4**](https://github.com/SamuraiJack/extjs4)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@dvv](https://github.com/dvv)/[**express-mimic**](https://github.com/dvv/express-mimic)",
+              "Derive accepted MIME from URI extension",
+              ""
+            ],
+            [
+              "2",
+              "[@SamuraiJack](https://github.com/SamuraiJack)/[**Task-Joose-Stable**](https://github.com/SamuraiJack/Task-Joose-Stable)",
+              "Stable Joose distribution, required only for bootstraping purposes",
+              "[:arrow_upper_right:](http://samuraijack.github.com/Task-Joose-Stable)"
+            ],
+            [
+              "2",
+              "[@dvv](https://github.com/dvv)/[**banka**](https://github.com/dvv/banka)",
+              "RESTful mongodb server with RQL support",
+              ""
+            ],
+            [
+              "2",
+              "[@SamuraiJack](https://github.com/SamuraiJack)/[**Scope-Provider**](https://github.com/SamuraiJack/Scope-Provider)",
+              "Cross-platform (browser/NodeJS) JavaScript scope provider",
+              "[:arrow_upper_right:](http://samuraijack.github.com/Scope-Provider)"
+            ],
+            [
+              "2",
+              "[@Mithgol](https://github.com/Mithgol)/[**node-gamayun**](https://github.com/Mithgol/node-gamayun)",
+              "A server that serves answers.",
+              ""
+            ],
+            [
+              "2",
+              "[@SamuraiJack](https://github.com/SamuraiJack)/[**JooseX-Class-SimpleC…**](https://github.com/SamuraiJack/JooseX-Class-SimpleConstructor)",
+              "A trait for class, making the 'new' keyword optional during instantiation ",
+              ""
+            ],
+            [
+              "2",
+              "[@lahmatiy](https://github.com/lahmatiy)/[**fixed-width-string**](https://github.com/lahmatiy/fixed-width-string)",
+              "Ansi-aware string padding/ellipsing function",
+              ""
+            ],
+            [
+              "2",
+              "[@miripiruni](https://github.com/miripiruni)/[**rit2012-schedule**](https://github.com/miripiruni/rit2012-schedule)",
+              "Unofficial mobile version schedule of RIT++ 2012 conference.",
+              "[:arrow_upper_right:](http://miripiruni.github.com/rit2012-schedule/)"
+            ],
+            [
+              "2",
+              "[@SamuraiJack](https://github.com/SamuraiJack)/[**Johnny-Mnemonic**](https://github.com/SamuraiJack/Johnny-Mnemonic)",
+              "Yet another `ajax back button` implementation, on Joose3, with the test suite and no required page markup at this time",
+              ""
+            ]
+          ]
+        }
+      }
+    ]
+  }
 }
