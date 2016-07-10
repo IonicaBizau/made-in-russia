@@ -62,7 +62,8 @@
           "[Matlab](#matlab)",
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
-          "[PHP](#php)"
+          "[PHP](#php)",
+          "[Python](#python)"
         ]
       },
       {
@@ -4942,6 +4943,1161 @@
               "[@kovshenin](https://github.com/kovshenin)/[**camptix-admin-flags**](https://github.com/kovshenin/camptix-admin-flags)",
               "An addon for CampTix that allows admins to configure and set private per-attendee flags.",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Python #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "21068",
+              "[@nvbn](https://github.com/nvbn)/[**thefuck**](https://github.com/nvbn/thefuck)",
+              "Magnificent app which corrects your previous console command.",
+              ""
+            ],
+            [
+              "3056",
+              "[@klen](https://github.com/klen)/[**python-mode**](https://github.com/klen/python-mode)",
+              "Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box.",
+              ""
+            ],
+            [
+              "1303",
+              "[@Suor](https://github.com/Suor)/[**funcy**](https://github.com/Suor/funcy)",
+              "A fancy and practical functional tools",
+              ""
+            ],
+            [
+              "1098",
+              "[@nvbn](https://github.com/nvbn)/[**everpad**](https://github.com/nvbn/everpad)",
+              "Evernote client well integrated with linux desktop",
+              ""
+            ],
+            [
+              "733",
+              "[@kmmbvnr](https://github.com/kmmbvnr)/[**django-jenkins**](https://github.com/kmmbvnr/django-jenkins)",
+              "Plug and play continuous integration with django and jenkins",
+              ""
+            ],
+            [
+              "664",
+              "[@kmmbvnr](https://github.com/kmmbvnr)/[**django-fsm**](https://github.com/kmmbvnr/django-fsm)",
+              "Django friendly finite state machine support",
+              ""
+            ],
+            [
+              "571",
+              "[@kmike](https://github.com/kmike)/[**django-widget-tweaks**](https://github.com/kmike/django-widget-tweaks)",
+              "Tweak the form field rendering in templates, not in python-level form definitions. CSS classes and HTML attributes can be altered. ",
+              ""
+            ],
+            [
+              "555",
+              "[@Suor](https://github.com/Suor)/[**django-cacheops**](https://github.com/Suor/django-cacheops)",
+              "A slick ORM cache with automatic granular event-driven invalidation.",
+              ""
+            ],
+            [
+              "438",
+              "[@nvbn](https://github.com/nvbn)/[**django-bower**](https://github.com/nvbn/django-bower)",
+              "Easy way to use bower with your django project",
+              "[:arrow_upper_right:](https://django-bower.readthedocs.io/)"
+            ],
+            [
+              "374",
+              "[@klen](https://github.com/klen)/[**graphite-beacon**](https://github.com/klen/graphite-beacon)",
+              "Simple alerting system for Graphite metrics",
+              ""
+            ],
+            [
+              "351",
+              "[@kmike](https://github.com/kmike)/[**pymorphy2**](https://github.com/kmike/pymorphy2)",
+              "Morphological analyzer / inflection engine for Russian and Ukrainian languages.",
+              "[:arrow_upper_right:](https://pymorphy2.readthedocs.io/)"
+            ],
+            [
+              "339",
+              "[@klen](https://github.com/klen)/[**muffin**](https://github.com/klen/muffin)",
+              "Muffin is a fast, simple and asyncronous web-framework for Python 3",
+              ""
+            ],
+            [
+              "315",
+              "[@klen](https://github.com/klen)/[**mixer**](https://github.com/klen/mixer)",
+              "Mixer -- Is a fixtures replacement. Supported Django, Flask, SqlAlchemy and custom python objects. ",
+              ""
+            ],
+            [
+              "207",
+              "[@klen](https://github.com/klen)/[**py-frameworks-bench**](https://github.com/klen/py-frameworks-bench)",
+              "Another benchmark for some python frameworks",
+              ""
+            ],
+            [
+              "192",
+              "[@dreadatour](https://github.com/dreadatour)/[**Flake8Lint**](https://github.com/dreadatour/Flake8Lint)",
+              "Sublime Text plugin for lint Python files",
+              ""
+            ],
+            [
+              "190",
+              "[@idlesign](https://github.com/idlesign)/[**django-sitetree**](https://github.com/idlesign/django-sitetree)",
+              "Reusable application for Django introducing site tree, menu and breadcrumbs navigation elements.",
+              "[:arrow_upper_right:](http://github.com/idlesign/django-sitetree)"
+            ],
+            [
+              "186",
+              "[@klen](https://github.com/klen)/[**pylama**](https://github.com/klen/pylama)",
+              "Code audit tool for python.",
+              ""
+            ],
+            [
+              "182",
+              "[@Suor](https://github.com/Suor)/[**sublime-reform**](https://github.com/Suor/sublime-reform)",
+              "A Sublime Text plugin to move through and reform things",
+              ""
+            ],
+            [
+              "155",
+              "[@klen](https://github.com/klen)/[**Flask-Foundation**](https://github.com/klen/Flask-Foundation)",
+              "Quick start with Flask",
+              ""
+            ],
+            [
+              "138",
+              "[@Suor](https://github.com/Suor)/[**patterns**](https://github.com/Suor/patterns)",
+              "Pattern matching for python",
+              ""
+            ],
+            [
+              "129",
+              "[@zhovner](https://github.com/zhovner)/[**Skype-iplookup**](https://github.com/zhovner/Skype-iplookup)",
+              "Perform obscure ip lookup for online skype accounts. Can find local and remote ip address. Require craked SkypeKit with deobfuscated debug logs. http://news.ycombinator.com/item?id=3899…",
+              "[:arrow_upper_right:](http://news.ycombinator.com/item?id=3899829)"
+            ],
+            [
+              "120",
+              "[@smira](https://github.com/smira)/[**txZMQ**](https://github.com/smira/txZMQ)",
+              "ZeroMQ bindings for Twisted",
+              "[:arrow_upper_right:](http://pypi.python.org/pypi/txZMQ/)"
+            ],
+            [
+              "95",
+              "[@vlasovskikh](https://github.com/vlasovskikh)/[**funcparserlib**](https://github.com/vlasovskikh/funcparserlib)",
+              "Recurisve descent parsing library for Python based on functional combinators",
+              ""
+            ],
+            [
+              "80",
+              "[@kmmbvnr](https://github.com/kmmbvnr)/[**django-any**](https://github.com/kmmbvnr/django-any)",
+              "Unobtrusive test models  creation for django",
+              ""
+            ],
+            [
+              "79",
+              "[@nvbn](https://github.com/nvbn)/[**rhythmbox-gmusic**](https://github.com/nvbn/rhythmbox-gmusic)",
+              "Rhythmbox Google Play Music Plugin",
+              ""
+            ],
+            [
+              "69",
+              "[@klen](https://github.com/klen)/[**python-scss**](https://github.com/klen/python-scss)",
+              "Python scss parser.",
+              "[:arrow_upper_right:](http://packages.python.org/scss/)"
+            ],
+            [
+              "64",
+              "[@nvbn](https://github.com/nvbn)/[**python-yamusic**](https://github.com/nvbn/python-yamusic)",
+              "Python yandex music Library",
+              ""
+            ],
+            [
+              "64",
+              "[@klen](https://github.com/klen)/[**atmark**](https://github.com/klen/atmark)",
+              "Awk+Sed for humans",
+              ""
+            ],
+            [
+              "63",
+              "[@Suor](https://github.com/Suor)/[**handy**](https://github.com/Suor/handy)",
+              "Handy django tools",
+              ""
+            ],
+            [
+              "61",
+              "[@nvbn](https://github.com/nvbn)/[**import_from_github_c…**](https://github.com/nvbn/import_from_github_com)",
+              "Python module finder/loader from github, like in golang",
+              ""
+            ],
+            [
+              "55",
+              "[@klen](https://github.com/klen)/[**zeta-library**](https://github.com/klen/zeta-library)",
+              "Css, scss, js parser and linker. Also framework for working with static files",
+              ""
+            ],
+            [
+              "55",
+              "[@kmike](https://github.com/kmike)/[**vkontakte**](https://github.com/kmike/vkontakte)",
+              "vkontakte.ru python API wrapper",
+              "[:arrow_upper_right:](https://bitbucket.org/kmike/vkontakte/overview)"
+            ],
+            [
+              "54",
+              "[@Suor](https://github.com/Suor)/[**whatever**](https://github.com/Suor/whatever)",
+              "Easy anonymous functions by partial application of operators",
+              ""
+            ],
+            [
+              "46",
+              "[@kmike](https://github.com/kmike)/[**django-coverage**](https://github.com/kmike/django-coverage)",
+              "Yet another django test coverage app with nice custom html reports. The official git mirror.",
+              "[:arrow_upper_right:](https://bitbucket.org/kmike/django-coverage)"
+            ],
+            [
+              "46",
+              "[@klen](https://github.com/klen)/[**makesite**](https://github.com/klen/makesite)",
+              "makesite is a collection of scripts for deploying and managing web projects",
+              "[:arrow_upper_right:](http://packages.python.org/makesite/)"
+            ],
+            [
+              "46",
+              "[@kmike](https://github.com/kmike)/[**django-admin-user-st…**](https://github.com/kmike/django-admin-user-stats)",
+              "This app provides django-admin-tools dashboard modules with user registration stats/charts. ",
+              ""
+            ],
+            [
+              "44",
+              "[@klen](https://github.com/klen)/[**adrest**](https://github.com/klen/adrest)",
+              "Another django rest framework",
+              ""
+            ],
+            [
+              "44",
+              "[@kmike](https://github.com/kmike)/[**django-robokassa**](https://github.com/kmike/django-robokassa)",
+              "РАЗЫСКИВАЮТСЯ РАЗРАБОТЧИКИ! ПРОЕКТ ПОКА НЕ ПОДДЕРЖИВАЕТСЯ. Приложение для интеграции платежной системы ROBOKASSA в проекты django. Лицензия - MIT.",
+              ""
+            ],
+            [
+              "42",
+              "[@klen](https://github.com/klen)/[**django-netauth**](https://github.com/klen/django-netauth)",
+              "django auth backend",
+              ""
+            ],
+            [
+              "41",
+              "[@nvbn](https://github.com/nvbn)/[**djang0byte**](https://github.com/nvbn/djang0byte)",
+              "Lightweight social networks engine written in python+django, that aims to bear great workloads. ",
+              ""
+            ],
+            [
+              "40",
+              "[@bobuk](https://github.com/bobuk)/[**ypload**](https://github.com/bobuk/ypload)",
+              "Simple script for upload and publish a file to Yandex.Disk",
+              ""
+            ],
+            [
+              "40",
+              "[@kmike](https://github.com/kmike)/[**tornado-slacker**](https://github.com/kmike/tornado-slacker)",
+              "(experiment!) This package provides an easy API for moving the work out of the tornado process / event loop. ",
+              ""
+            ],
+            [
+              "40",
+              "[@klen](https://github.com/klen)/[**dealer**](https://github.com/klen/dealer)",
+              "Make some staff",
+              ""
+            ],
+            [
+              "38",
+              "[@nvbn](https://github.com/nvbn)/[**series_list**](https://github.com/nvbn/series_list)",
+              "Easy to use tool for automatically downloading episodes with subtitles",
+              ""
+            ],
+            [
+              "37",
+              "[@Suor](https://github.com/Suor)/[**django-pickling**](https://github.com/Suor/django-pickling)",
+              "Efficient pickling for django models",
+              ""
+            ],
+            [
+              "34",
+              "[@lavrton](https://github.com/lavrton)/[**sublime-better-types…**](https://github.com/lavrton/sublime-better-typescript)",
+              "Typescript syntax highlighting and checking, commands, shortcuts, snippets, watched compilation and more for Sublime Text.https://github.com/lavrton/sublime-…",
+              ""
+            ],
+            [
+              "33",
+              "[@Suor](https://github.com/Suor)/[**flaws**](https://github.com/Suor/flaws)",
+              "Finds flaws in your python code",
+              ""
+            ],
+            [
+              "33",
+              "[@idlesign](https://github.com/idlesign)/[**django-sitemetrics**](https://github.com/idlesign/django-sitemetrics)",
+              "Reusable application for Django that offers easy integration with different site metrics service providers.",
+              "[:arrow_upper_right:](http://github.com/idlesign/django-sitemetrics)"
+            ],
+            [
+              "33",
+              "[@klen](https://github.com/klen)/[**Flask-Collect**](https://github.com/klen/Flask-Collect)",
+              "Collect static files in flask application",
+              "[:arrow_upper_right:](http://klen.github.com/Flask-Collect/)"
+            ],
+            [
+              "32",
+              "[@klen](https://github.com/klen)/[**aioauth-client**](https://github.com/klen/aioauth-client)",
+              "OAuth client for aiohttp",
+              ""
+            ],
+            [
+              "30",
+              "[@daevaorn](https://github.com/daevaorn)/[**django-composition**](https://github.com/daevaorn/django-composition)",
+              "DSL for smart database fields denormalization",
+              ""
+            ],
+            [
+              "29",
+              "[@FZambia](https://github.com/FZambia)/[**cyclone-sse**](https://github.com/FZambia/cyclone-sse)",
+              "Server-Sent Events (EventSource) broadcasting server based on top of cyclone web server.",
+              ""
+            ],
+            [
+              "29",
+              "[@barbuza](https://github.com/barbuza)/[**supercaptcha**](https://github.com/barbuza/supercaptcha)",
+              "captchafield for django newforms",
+              ""
+            ],
+            [
+              "28",
+              "[@zhovner](https://github.com/zhovner)/[**mfdread**](https://github.com/zhovner/mfdread)",
+              "Mifare 1k/4k dumps parser in human readable format",
+              ""
+            ],
+            [
+              "27",
+              "[@idlesign](https://github.com/idlesign)/[**django-sitegate**](https://github.com/idlesign/django-sitegate)",
+              "Reusable application for Django to ease sign up & sign in processes",
+              "[:arrow_upper_right:](https://github.com/idlesign/django-sitegate)"
+            ],
+            [
+              "27",
+              "[@klen](https://github.com/klen)/[**peewee_migrate**](https://github.com/klen/peewee_migrate)",
+              "Simple migration engine for Peewee",
+              ""
+            ],
+            [
+              "27",
+              "[@idlesign](https://github.com/idlesign)/[**django-sitemessage**](https://github.com/idlesign/django-sitemessage)",
+              "Reusable application for Django introducing a message delivery framework",
+              "[:arrow_upper_right:](https://github.com/idlesign/django-sitemessage)"
+            ],
+            [
+              "26",
+              "[@kmike](https://github.com/kmike)/[**opencorpora-tools**](https://github.com/kmike/opencorpora-tools)",
+              "Python interface to http://opencorpora.org/",
+              "[:arrow_upper_right:](http://pypi.python.org/pypi/opencorpora-tools/)"
+            ],
+            [
+              "26",
+              "[@andreypopp](https://github.com/andreypopp)/[**routr**](https://github.com/andreypopp/routr)",
+              "Request routing for WebOb based WSGI applications",
+              "[:arrow_upper_right:](http://routr.readthedocs.org/)"
+            ],
+            [
+              "24",
+              "[@klen](https://github.com/klen)/[**rope-vim**](https://github.com/klen/rope-vim)",
+              "Pathogen compatable ropevim plugin. Dont need install rope libs in system.",
+              ""
+            ],
+            [
+              "24",
+              "[@nvbn](https://github.com/nvbn)/[**vkvideo**](https://github.com/nvbn/vkvideo)",
+              "Vkontakte video lens",
+              ""
+            ],
+            [
+              "23",
+              "[@nvbn](https://github.com/nvbn)/[**coviolations_web**](https://github.com/nvbn/coviolations_web)",
+              "Tool for collecting and visualasing code violations.",
+              "[:arrow_upper_right:](https://coviolations.io)"
+            ],
+            [
+              "23",
+              "[@daevaorn](https://github.com/daevaorn)/[**django-query-exchang…**](https://github.com/daevaorn/django-query-exchange)",
+              "Django application for handling GET query params for url creation",
+              ""
+            ],
+            [
+              "21",
+              "[@andreypopp](https://github.com/andreypopp)/[**generic**](https://github.com/andreypopp/generic)",
+              "Generic programming library for Python",
+              "[:arrow_upper_right:](http://generic.readthedocs.org/)"
+            ],
+            [
+              "21",
+              "[@lavrton](https://github.com/lavrton)/[**SublimeLinter-contri…**](https://github.com/lavrton/SublimeLinter-contrib-tslint)",
+              " tslint plugin for SublimeLinter. Lint your typescript code.",
+              ""
+            ],
+            [
+              "20",
+              "[@zhovner](https://github.com/zhovner)/[**airport-sniffer**](https://github.com/zhovner/airport-sniffer)",
+              "Very simple Wi-Fi sniffer and dump parser for built-in macbook AirPort Extreme card. Only native MacOS tools used.",
+              ""
+            ],
+            [
+              "20",
+              "[@bobuk](https://github.com/bobuk)/[**ruhdtv-plex**](https://github.com/bobuk/ruhdtv-plex)",
+              "Plex application for ruhd.tv",
+              ""
+            ],
+            [
+              "19",
+              "[@idlesign](https://github.com/idlesign)/[**django-oauthost**](https://github.com/idlesign/django-oauthost)",
+              "Reusable application for Django, introducing OAuth2 server functionality.",
+              "[:arrow_upper_right:](https://github.com/idlesign/django-oauthost)"
+            ],
+            [
+              "18",
+              "[@nvbn](https://github.com/nvbn)/[**pytest-docker-pexpec…**](https://github.com/nvbn/pytest-docker-pexpect)",
+              "pytest plugin for writing functional tests with pexpect and docker",
+              ""
+            ],
+            [
+              "18",
+              "[@vlasovskikh](https://github.com/vlasovskikh)/[**convoread**](https://github.com/vlasovskikh/convoread)",
+              "Command-line tool for Convore.com",
+              ""
+            ],
+            [
+              "17",
+              "[@idlesign](https://github.com/idlesign)/[**deluge-webapi**](https://github.com/idlesign/deluge-webapi)",
+              "Plugin for Deluge WebUI providing sane JSON API",
+              ""
+            ],
+            [
+              "17",
+              "[@barbuza](https://github.com/barbuza)/[**hamly**](https://github.com/barbuza/hamly)",
+              "fast haml for python",
+              ""
+            ],
+            [
+              "17",
+              "[@dreadatour](https://github.com/dreadatour)/[**Pep8Lint**](https://github.com/dreadatour/Pep8Lint)",
+              "Sublime Text 2 plugin / check Python files against some of the style conventions in PEP8",
+              ""
+            ],
+            [
+              "16",
+              "[@barbuza](https://github.com/barbuza)/[**contract**](https://github.com/barbuza/contract)",
+              "validate arbitrary data structures in python and javascript",
+              ""
+            ],
+            [
+              "16",
+              "[@andreypopp](https://github.com/andreypopp)/[**jsonpublish**](https://github.com/andreypopp/jsonpublish)",
+              "Configurable JSON encoder for publishing Python objects as JSON documents",
+              "[:arrow_upper_right:](http://jsonpublish.readthedocs.org/)"
+            ],
+            [
+              "16",
+              "[@idlesign](https://github.com/idlesign)/[**django-siteblocks**](https://github.com/idlesign/django-siteblocks)",
+              "Reusable application for Django to build blocks of static or dynamic data that could be used in templates.",
+              "[:arrow_upper_right:](http://github.com/idlesign/django-siteblocks)"
+            ],
+            [
+              "16",
+              "[@idlesign](https://github.com/idlesign)/[**torrentool**](https://github.com/idlesign/torrentool)",
+              "The tool to work with torrent files.",
+              "[:arrow_upper_right:](https://github.com/idlesign/torrentool)"
+            ],
+            [
+              "16",
+              "[@idlesign](https://github.com/idlesign)/[**torrt**](https://github.com/idlesign/torrt)",
+              "Automates torrent updates for you",
+              "[:arrow_upper_right:](https://github.com/idlesign/torrt)"
+            ],
+            [
+              "16",
+              "[@nvbn](https://github.com/nvbn)/[**cantailme-server**](https://github.com/nvbn/cantailme-server)",
+              "Server side of cantail.me",
+              ""
+            ],
+            [
+              "15",
+              "[@Kagami](https://github.com/Kagami)/[**chaptcha**](https://github.com/Kagami/chaptcha)",
+              "Break 2ch CAPTCHA using OpenCV and FANN",
+              ""
+            ],
+            [
+              "15",
+              "[@klen](https://github.com/klen)/[**django-gitrevision**](https://github.com/klen/django-gitrevision)",
+              "Django git revision, simple add current git revision to request object for use in tempaltes and views. ",
+              ""
+            ],
+            [
+              "15",
+              "[@Suor](https://github.com/Suor)/[**django-easymoney**](https://github.com/Suor/django-easymoney)",
+              "Easy MoneyField for Django",
+              ""
+            ],
+            [
+              "14",
+              "[@idlesign](https://github.com/idlesign)/[**pythonz**](https://github.com/idlesign/pythonz)",
+              "Место, где делают pythonz.net",
+              "[:arrow_upper_right:](http://pythonz.net)"
+            ],
+            [
+              "14",
+              "[@Suor](https://github.com/Suor)/[**django-counters**](https://github.com/Suor/django-counters)",
+              "Redis based counters for Django models",
+              ""
+            ],
+            [
+              "14",
+              "[@Kagami](https://github.com/Kagami)/[**webm.py**](https://github.com/Kagami/webm.py)",
+              "Encode WebM videos",
+              ""
+            ],
+            [
+              "14",
+              "[@dreadatour](https://github.com/dreadatour)/[**sentry-statsd**](https://github.com/dreadatour/sentry-statsd)",
+              "A Sentry extension which send errors stats to StatsD",
+              ""
+            ],
+            [
+              "14",
+              "[@bobuk](https://github.com/bobuk)/[**c**](https://github.com/bobuk/c)",
+              "Simple shell command to work with files in console. Copy-paste style like in Finder or Explorer.",
+              ""
+            ],
+            [
+              "13",
+              "[@zhovner](https://github.com/zhovner)/[**skypebot**](https://github.com/zhovner/skypebot)",
+              "Skype bot based on skypekit that can host live conference call. ",
+              ""
+            ],
+            [
+              "13",
+              "[@kmike](https://github.com/kmike)/[**yandex-maps**](https://github.com/kmike/yandex-maps)",
+              "[ НЕ ПОДДЕРЖИВАЕТСЯ. ПИШИТЕ НА kmike84@gmail.com, ЕСЛИ ХОТИТЕ ПОМОЧЬ ] Библиотека для работы с API Яндекс-карт.",
+              "[:arrow_upper_right:](https://bitbucket.org/kmike/yandex-maps)"
+            ],
+            [
+              "13",
+              "[@kmike](https://github.com/kmike)/[**fabric-taskset**](https://github.com/kmike/fabric-taskset)",
+              "Expose methods as Fabric tasks ",
+              "[:arrow_upper_right:](http://pypi.python.org/pypi/fabric-taskset/)"
+            ],
+            [
+              "13",
+              "[@smira](https://github.com/smira)/[**fmspy**](https://github.com/smira/fmspy)",
+              "FMSPy provides implementation of RTMP protocol upon Twisted Framework. On top of protocol implementation it builds server for Flash/Flex/Haxe/... clients. ",
+              ""
+            ],
+            [
+              "13",
+              "[@idlesign](https://github.com/idlesign)/[**django-sitecats**](https://github.com/idlesign/django-sitecats)",
+              "Django reusable application for content categorization.",
+              "[:arrow_upper_right:](https://github.com/idlesign/django-sitecats)"
+            ],
+            [
+              "13",
+              "[@dreadatour](https://github.com/dreadatour)/[**lazy**](https://github.com/dreadatour/lazy)",
+              "Lazy token",
+              "[:arrow_upper_right:](http://habrahabr.ru/post/143102/)"
+            ],
+            [
+              "13",
+              "[@kmike](https://github.com/kmike)/[**django-eml-email-bac…**](https://github.com/kmike/django-eml-email-backend)",
+              "Django email backend that saves emails to .eml files. Such files can be opened directly in Outlook or Mail.app.",
+              ""
+            ],
+            [
+              "12",
+              "[@klen](https://github.com/klen)/[**bottle-peewee**](https://github.com/klen/bottle-peewee)",
+              "Integrate Peewee ORM to Bottle framework",
+              ""
+            ],
+            [
+              "12",
+              "[@idlesign](https://github.com/idlesign)/[**deluge-updatorr**](https://github.com/idlesign/deluge-updatorr)",
+              "Deluge plugin for automatic torrents updates",
+              "[:arrow_upper_right:](https://github.com/idlesign/deluge-updatorr)"
+            ],
+            [
+              "12",
+              "[@smira](https://github.com/smira)/[**py-numa**](https://github.com/smira/py-numa)",
+              "Python interface to NUMA Linux library",
+              "[:arrow_upper_right:](http://smira.github.com/py-numa/)"
+            ],
+            [
+              "12",
+              "[@kmike](https://github.com/kmike)/[**russian-tagsets**](https://github.com/kmike/russian-tagsets)",
+              "Russian morphological tagset converters library.",
+              "[:arrow_upper_right:](https://pypi.python.org/pypi/russian-tagsets/)"
+            ],
+            [
+              "12",
+              "[@andreypopp](https://github.com/andreypopp)/[**configure**](https://github.com/andreypopp/configure)",
+              "Configuration toolkit based on YAML",
+              "[:arrow_upper_right:](http://configure.readthedocs.org/)"
+            ],
+            [
+              "12",
+              "[@Suor](https://github.com/Suor)/[**overload**](https://github.com/Suor/overload)",
+              "Overload python 2 functions",
+              ""
+            ],
+            [
+              "12",
+              "[@idlesign](https://github.com/idlesign)/[**django-admirarchy**](https://github.com/idlesign/django-admirarchy)",
+              "Django Admin addon to navigate through hierarchies.",
+              "[:arrow_upper_right:](https://github.com/idlesign/django-admirarchy)"
+            ],
+            [
+              "11",
+              "[@idlesign](https://github.com/idlesign)/[**steampak**](https://github.com/idlesign/steampak)",
+              "Nicely packed tools to work with Steam APIs",
+              "[:arrow_upper_right:](https://github.com/idlesign/steampak)"
+            ],
+            [
+              "11",
+              "[@barbuza](https://github.com/barbuza)/[**jsroutes**](https://github.com/barbuza/jsroutes)",
+              "use 'reverse' from javascript",
+              ""
+            ],
+            [
+              "11",
+              "[@kmike](https://github.com/kmike)/[**pymorphy2-dicts**](https://github.com/kmike/pymorphy2-dicts)",
+              "Scripts for updating pymorphy2 dictionaries",
+              ""
+            ],
+            [
+              "10",
+              "[@Kagami](https://github.com/Kagami)/[**kisa**](https://github.com/Kagami/kisa)",
+              "XMPP stress tool",
+              ""
+            ],
+            [
+              "10",
+              "[@idlesign](https://github.com/idlesign)/[**pyyaru**](https://github.com/idlesign/pyyaru)",
+              "Python interface for ya.ru blog service API. Python-интерфейс для API блог-сервиса ya.ru.",
+              "[:arrow_upper_right:](http://github.com/idlesign/pyyaru)"
+            ],
+            [
+              "10",
+              "[@idlesign](https://github.com/idlesign)/[**pysyge**](https://github.com/idlesign/pysyge)",
+              "API to access data from Sypex Geo IP database files from your Python code",
+              ""
+            ],
+            [
+              "9",
+              "[@idlesign](https://github.com/idlesign)/[**django-siteprefs**](https://github.com/idlesign/django-siteprefs)",
+              "Reusable app for Django introducing site preferences system",
+              "[:arrow_upper_right:](https://github.com/idlesign/django-siteprefs)"
+            ],
+            [
+              "9",
+              "[@kmike](https://github.com/kmike)/[**port-for**](https://github.com/kmike/port-for)",
+              "`port-for` is a command-line utility and a python library that helps with local TCP ports managment. `port-for <foo>` script finds an unused port and associates it with `<foo>`. Subsequent calls will return the same port number.",
+              ""
+            ],
+            [
+              "8",
+              "[@idlesign](https://github.com/idlesign)/[**imhodump**](https://github.com/idlesign/imhodump)",
+              "Экспорт оценок из imhonet.ru",
+              "[:arrow_upper_right:](https://github.com/idlesign/imhodump)"
+            ],
+            [
+              "8",
+              "[@klen](https://github.com/klen)/[**flask-pw**](https://github.com/klen/flask-pw)",
+              "Peewee ORM integration for Flask framework",
+              ""
+            ],
+            [
+              "8",
+              "[@bobuk](https://github.com/bobuk)/[**jsonwsp-client**](https://github.com/bobuk/jsonwsp-client)",
+              "Quiet simple realization of jsonwsp with excelent python-requests",
+              ""
+            ],
+            [
+              "8",
+              "[@kmike](https://github.com/kmike)/[**django-vkontakte-ifr…**](https://github.com/kmike/django-vkontakte-iframe)",
+              "Django app for developing vk.com (aka vkontakte.ru largest, Russian social network) iframe applications. Handles user authentication and registration. Official git mirror.",
+              "[:arrow_upper_right:](https://bitbucket.org/kmike/django-vkontakte-iframe)"
+            ],
+            [
+              "8",
+              "[@andreypopp](https://github.com/andreypopp)/[**extracty**](https://github.com/andreypopp/extracty)",
+              "a set of tools to extract metadata from HTML documents (WIP)",
+              ""
+            ],
+            [
+              "8",
+              "[@kmike](https://github.com/kmike)/[**text-unidecode**](https://github.com/kmike/text-unidecode)",
+              "The most basic Text::Unidecode port (licensed under Artistic License)",
+              "[:arrow_upper_right:](https://pypi.python.org/pypi/text-unidecode/)"
+            ],
+            [
+              "7",
+              "[@idlesign](https://github.com/idlesign)/[**django-dev**](https://github.com/idlesign/django-dev)",
+              "Tools to facilitate application development for Django",
+              "[:arrow_upper_right:](https://github.com/idlesign/django-dev)"
+            ],
+            [
+              "7",
+              "[@kmike](https://github.com/kmike)/[**django-generic-image…**](https://github.com/kmike/django-generic-images)",
+              "This app provides image model (with useful managers, fields, utility methods and advanced admin image uploader) that can be attached to any other Django model using generic relations.",
+              "[:arrow_upper_right:](https://bitbucket.org/kmike/django-generic-images)"
+            ],
+            [
+              "7",
+              "[@nvbn](https://github.com/nvbn)/[**cantailme-client**](https://github.com/nvbn/cantailme-client)",
+              "Console client-sender for cantail.me",
+              ""
+            ],
+            [
+              "7",
+              "[@idlesign](https://github.com/idlesign)/[**django-siteflags**](https://github.com/idlesign/django-siteflags)",
+              "Reusable application for Django allowing users to flag/bookmark site objects",
+              "[:arrow_upper_right:](https://github.com/idlesign/django-siteflags)"
+            ],
+            [
+              "7",
+              "[@idlesign](https://github.com/idlesign)/[**bowerer**](https://github.com/idlesign/bowerer)",
+              "Bower for pythoneers",
+              "[:arrow_upper_right:](https://github.com/idlesign/bowerer)"
+            ],
+            [
+              "7",
+              "[@kmike](https://github.com/kmike)/[**django-admin-decorat…**](https://github.com/kmike/django-admin-decorators)",
+              "Extra decorators for django admin",
+              "[:arrow_upper_right:](http://pypi.python.org/pypi/django-admin-decorators)"
+            ],
+            [
+              "7",
+              "[@kmike](https://github.com/kmike)/[**ruscorpora-tools**](https://github.com/kmike/ruscorpora-tools)",
+              "Python interface to a free corpus subset available at http://ruscorpora.ru",
+              ""
+            ],
+            [
+              "7",
+              "[@nvbn](https://github.com/nvbn)/[**roboarm**](https://github.com/nvbn/roboarm)",
+              "Python library for controlling owi robotic arm edge",
+              ""
+            ],
+            [
+              "6",
+              "[@andreypopp](https://github.com/andreypopp)/[**contentlet**](https://github.com/andreypopp/contentlet)",
+              "Framework for creating composable and reusable web UI.",
+              ""
+            ],
+            [
+              "6",
+              "[@kmike](https://github.com/kmike)/[**greatape**](https://github.com/kmike/greatape)",
+              "Client library for the MailChimp API v1.2.",
+              ""
+            ],
+            [
+              "6",
+              "[@daevaorn](https://github.com/daevaorn)/[**djapian**](https://github.com/daevaorn/djapian)",
+              "High level Xapian integration for Django",
+              ""
+            ],
+            [
+              "6",
+              "[@nvbn](https://github.com/nvbn)/[**coviolations_app**](https://github.com/nvbn/coviolations_app)",
+              "coviolations.io",
+              ""
+            ],
+            [
+              "5",
+              "[@daevaorn](https://github.com/daevaorn)/[**hollow**](https://github.com/daevaorn/hollow)",
+              "Django ORM mocking library",
+              ""
+            ],
+            [
+              "5",
+              "[@idlesign](https://github.com/idlesign)/[**pypusher**](https://github.com/idlesign/pypusher)",
+              "pypusher pushes stuff from Python. Apple Push.",
+              "[:arrow_upper_right:](https://github.com/idlesign/pypusher)"
+            ],
+            [
+              "5",
+              "[@idlesign](https://github.com/idlesign)/[**calibre-bookradar**](https://github.com/idlesign/calibre-bookradar)",
+              "Calibre plugin. Searches for books metadata on bookradar.org",
+              "[:arrow_upper_right:](https://github.com/idlesign/calibre-bookradar)"
+            ],
+            [
+              "4",
+              "[@dreadatour](https://github.com/dreadatour)/[**jenkins-achtung**](https://github.com/dreadatour/jenkins-achtung)",
+              "Jenkins achtung",
+              "[:arrow_upper_right:](http://habrahabr.ru/company/mailru/blog/193606/)"
+            ],
+            [
+              "4",
+              "[@smira](https://github.com/smira)/[**spamfighter**](https://github.com/smira/spamfighter)",
+              "Web-service fighting spam and other unsolicited messages (comments, chat etc.)",
+              "[:arrow_upper_right:](http://spam-fighter.ru/)"
+            ],
+            [
+              "4",
+              "[@klen](https://github.com/klen)/[**bottle-jade**](https://github.com/klen/bottle-jade)",
+              "Provide Jade templates for Bottle framework",
+              ""
+            ],
+            [
+              "4",
+              "[@andreypopp](https://github.com/andreypopp)/[**sphinxalchemy**](https://github.com/andreypopp/sphinxalchemy)",
+              "SphinxQL dialect for SQLAlchemy (uses MySQLdb-Python for wire protocol)",
+              "[:arrow_upper_right:](http://sphinxalchemy.readthedocs.org/)"
+            ],
+            [
+              "4",
+              "[@kmike](https://github.com/kmike)/[**fabtest**](https://github.com/kmike/fabtest)",
+              "Test Fabric scripts on VirtualBox VMs",
+              "[:arrow_upper_right:](http://pypi.python.org/pypi/fabtest)"
+            ],
+            [
+              "4",
+              "[@idlesign](https://github.com/idlesign)/[**django-etc**](https://github.com/idlesign/django-etc)",
+              "Tiny stuff for Django that won't fit into separate apps.",
+              "[:arrow_upper_right:](https://github.com/idlesign/django-etc)"
+            ],
+            [
+              "4",
+              "[@nvbn](https://github.com/nvbn)/[**mcoll**](https://github.com/nvbn/mcoll)",
+              "Modern API for python collections",
+              ""
+            ],
+            [
+              "4",
+              "[@klen](https://github.com/klen)/[**django-gishelper**](https://github.com/klen/django-gishelper)",
+              "Useful commands for geodjango",
+              ""
+            ],
+            [
+              "4",
+              "[@vlasovskikh](https://github.com/vlasovskikh)/[**whatsnew33-demo**](https://github.com/vlasovskikh/whatsnew33-demo)",
+              "What's new in Python 3.3.",
+              "[:arrow_upper_right:](http://www.youtube.com/watch?v=KYXnQzKcsQ0)"
+            ],
+            [
+              "4",
+              "[@Suor](https://github.com/Suor)/[**django-dirty**](https://github.com/Suor/django-dirty)",
+              "Track dirty fields on django model",
+              ""
+            ],
+            [
+              "4",
+              "[@andreypopp](https://github.com/andreypopp)/[**diffbot**](https://github.com/andreypopp/diffbot)",
+              "DiffBot API wrapper (uses urllib3)",
+              ""
+            ],
+            [
+              "4",
+              "[@nvbn](https://github.com/nvbn)/[**findZbomb**](https://github.com/nvbn/findZbomb)",
+              "Write robot, find bomb and remove!",
+              ""
+            ],
+            [
+              "3",
+              "[@barbuza](https://github.com/barbuza)/[**django-robust**](https://github.com/barbuza/django-robust)",
+              "robust background queue for django",
+              ""
+            ],
+            [
+              "3",
+              "[@andreypopp](https://github.com/andreypopp)/[**fb.py**](https://github.com/andreypopp/fb.py)",
+              "Python bindings for Facebook Graph API",
+              ""
+            ],
+            [
+              "3",
+              "[@kmike](https://github.com/kmike)/[**django-mailru-money**](https://github.com/kmike/django-mailru-money)",
+              "Django app for money.mail.ru. It was not tested in production!",
+              ""
+            ],
+            [
+              "3",
+              "[@kmike](https://github.com/kmike)/[**django-pony**](https://github.com/kmike/django-pony)",
+              "A pony for your django project.",
+              "[:arrow_upper_right:](http://www.mahner.org/)"
+            ],
+            [
+              "3",
+              "[@andreypopp](https://github.com/andreypopp)/[**docgen.mk**](https://github.com/andreypopp/docgen.mk)",
+              "a set of utilities and make macros for static site generation",
+              "[:arrow_upper_right:](http://braintrace.ru/posts/2012-09-02-docgen.mk.html)"
+            ],
+            [
+              "3",
+              "[@klen](https://github.com/klen)/[**muffin-session**](https://github.com/klen/muffin-session)",
+              "Session for Muffin Framework",
+              ""
+            ],
+            [
+              "3",
+              "[@klen](https://github.com/klen)/[**muffin-admin**](https://github.com/klen/muffin-admin)",
+              "Admin interface for Muffin Framework",
+              ""
+            ],
+            [
+              "3",
+              "[@klen](https://github.com/klen)/[**muffin-redis**](https://github.com/klen/muffin-redis)",
+              "Redis support for Muffin framework",
+              ""
+            ],
+            [
+              "3",
+              "[@klen](https://github.com/klen)/[**pyserve**](https://github.com/klen/pyserve)",
+              "Serve local dirs (human version)",
+              ""
+            ],
+            [
+              "3",
+              "[@klen](https://github.com/klen)/[**muffin-peewee**](https://github.com/klen/muffin-peewee)",
+              "Peewee integration to Muffin framework",
+              ""
+            ],
+            [
+              "3",
+              "[@nvbn](https://github.com/nvbn)/[**pyboard-play**](https://github.com/nvbn/pyboard-play)",
+              "A few games for pyboard/micropython",
+              ""
+            ],
+            [
+              "3",
+              "[@Suor](https://github.com/Suor)/[**gzip-reader**](https://github.com/Suor/gzip-reader)",
+              "Streaming gzip decoder",
+              ""
+            ],
+            [
+              "3",
+              "[@FZambia](https://github.com/FZambia)/[**django-expand**](https://github.com/FZambia/django-expand)",
+              "Easily create rest skeleton based on django model, including templates, views when starting project.",
+              ""
+            ],
+            [
+              "3",
+              "[@idlesign](https://github.com/idlesign)/[**pycbrf**](https://github.com/idlesign/pycbrf)",
+              "Tools to query Bank of Russia",
+              "[:arrow_upper_right:](https://github.com/idlesign/pycbrf)"
+            ],
+            [
+              "3",
+              "[@FZambia](https://github.com/FZambia)/[**django-realtime-tick…**](https://github.com/FZambia/django-realtime-ticket)",
+              "authorize django users in realtime(asynchronous) backends using Redis expiring tickets",
+              ""
+            ],
+            [
+              "3",
+              "[@idlesign](https://github.com/idlesign)/[**makeapp**](https://github.com/idlesign/makeapp)",
+              "Simplifies Python application rollout by providing its basic structure.",
+              "[:arrow_upper_right:](https://github.com/idlesign/makeapp)"
+            ],
+            [
+              "3",
+              "[@andreypopp](https://github.com/andreypopp)/[**ipsql**](https://github.com/andreypopp/ipsql)",
+              "Intelligent PostgreSQL shell (concept)",
+              ""
+            ],
+            [
+              "3",
+              "[@daevaorn](https://github.com/daevaorn)/[**gae-urlfetcher**](https://github.com/daevaorn/gae-urlfetcher)",
+              "Wrapper around native Google App Engine urlfetch module",
+              ""
+            ],
+            [
+              "3",
+              "[@nvbn](https://github.com/nvbn)/[**evilshortgen**](https://github.com/nvbn/evilshortgen)",
+              "Shortest and hackish tornado assync calls",
+              ""
+            ],
+            [
+              "3",
+              "[@idlesign](https://github.com/idlesign)/[**django-firebird**](https://github.com/idlesign/django-firebird)",
+              "Firebird backend for Django 1.2+",
+              "[:arrow_upper_right:](http://code.google.com/p/django-firebird/)"
+            ],
+            [
+              "3",
+              "[@nvbn](https://github.com/nvbn)/[**pytoppa**](https://github.com/nvbn/pytoppa)",
+              "Python package to ppa",
+              ""
+            ],
+            [
+              "3",
+              "[@Suor](https://github.com/Suor)/[**autolink**](https://github.com/Suor/autolink)",
+              "Convert URL-like and email-like strings into links",
+              ""
+            ],
+            [
+              "3",
+              "[@nvbn](https://github.com/nvbn)/[**debman**](https://github.com/nvbn/debman)",
+              "apt frontend with pacman syntax",
+              ""
+            ],
+            [
+              "3",
+              "[@nadako](https://github.com/nadako)/[**dungeons**](https://github.com/nadako/dungeons)",
+              "Misc roguelike-related stuff",
+              ""
+            ],
+            [
+              "2",
+              "[@klen](https://github.com/klen)/[**muffin-sentry**](https://github.com/klen/muffin-sentry)",
+              "Sentry integration to Muffin Framework.",
+              ""
+            ],
+            [
+              "2",
+              "[@Suor](https://github.com/Suor)/[**django-union**](https://github.com/Suor/django-union)",
+              "Unite several querysets into one.",
+              ""
+            ],
+            [
+              "2",
+              "[@Suor](https://github.com/Suor)/[**debug-cache**](https://github.com/Suor/debug-cache)",
+              "Cache to speed up debugging",
+              ""
+            ],
+            [
+              "2",
+              "[@andreypopp](https://github.com/andreypopp)/[**schemify**](https://github.com/andreypopp/schemify)",
+              "simple schema validation for Python",
+              ""
+            ],
+            [
+              "2",
+              "[@andreypopp](https://github.com/andreypopp)/[**statics**](https://github.com/andreypopp/statics)",
+              "Static site generator",
+              ""
+            ],
+            [
+              "2",
+              "[@Suor](https://github.com/Suor)/[**rebind**](https://github.com/Suor/rebind)",
+              "Rebind hard-coded constants on the fly",
+              ""
+            ],
+            [
+              "2",
+              "[@daevaorn](https://github.com/daevaorn)/[**django-legacy**](https://github.com/daevaorn/django-legacy)",
+              "Smart rewrites for old urls",
+              ""
+            ],
+            [
+              "2",
+              "[@daevaorn](https://github.com/daevaorn)/[**django-reflection**](https://github.com/daevaorn/django-reflection)",
+              "Provides API to reflect changes in the instances of different models",
+              ""
+            ],
+            [
+              "2",
+              "[@dreadatour](https://github.com/dreadatour)/[**django-fest**](https://github.com/dreadatour/django-fest)",
+              "django-fest",
+              ""
+            ],
+            [
+              "2",
+              "[@zhovner](https://github.com/zhovner)/[**RPi-hijacker**](https://github.com/zhovner/RPi-hijacker)",
+              "Raspberry Pi based WiFi self-contained cookie hijacker.",
+              ""
+            ],
+            [
+              "2",
+              "[@barbuza](https://github.com/barbuza)/[**delay**](https://github.com/barbuza/delay)",
+              "because postgres is mongo too",
+              ""
+            ],
+            [
+              "2",
+              "[@nadako](https://github.com/nadako)/[**myplay**](https://github.com/nadako/myplay)",
+              "Very simple music playing service",
+              ""
+            ],
+            [
+              "2",
+              "[@barbuza](https://github.com/barbuza)/[**scoped**](https://github.com/barbuza/scoped)",
+              "easily add scopes to django models",
+              ""
+            ],
+            [
+              "2",
+              "[@nvbn](https://github.com/nvbn)/[**robocam**](https://github.com/nvbn/robocam)",
+              "OWI Robotic Arm + Raspberry pi + Arduino dashboard",
+              ""
+            ],
+            [
+              "2",
+              "[@Kagami](https://github.com/Kagami)/[**shitsu**](https://github.com/Kagami/shitsu)",
+              "Tiny and flexible XMPP bot framework",
+              ""
+            ],
+            [
+              "2",
+              "[@nvbn](https://github.com/nvbn)/[**microasync**](https://github.com/nvbn/microasync)",
+              "Green threads and CSP for micropython",
+              ""
+            ],
+            [
+              "2",
+              "[@vlasovskikh](https://github.com/vlasovskikh)/[**git-subdirs**](https://github.com/vlasovskikh/git-subdirs)",
+              "Small wrapper for performing git commands on nested repositories in subdirectories.",
+              ""
+            ],
+            [
+              "2",
+              "[@nvbn](https://github.com/nvbn)/[**pyfunc**](https://github.com/nvbn/pyfunc)",
+              "Examples for habr post",
+              "[:arrow_upper_right:](http://habrahabr.ru/post/193920/)"
+            ],
+            [
+              "2",
+              "[@kmmbvnr](https://github.com/kmmbvnr)/[**viewflow-intro**](https://github.com/kmmbvnr/viewflow-intro)",
+              "Viewflow in action: 10 Minutes introduction",
+              ""
+            ],
+            [
+              "2",
+              "[@kmike](https://github.com/kmike)/[**funny-codes**](https://github.com/kmike/funny-codes)",
+              "Generate randoms strings of a given pattern",
+              "[:arrow_upper_right:](http://pypi.python.org/pypi/funny-codes)"
+            ],
+            [
+              "2",
+              "[@nadako](https://github.com/nadako)/[**pyrogue**](https://github.com/nadako/pyrogue)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@klen](https://github.com/klen)/[**fquest**](https://github.com/klen/fquest)",
+              "ZeroQuest lazy RPG. Moscow Facebook Hackday.",
+              ""
+            ],
+            [
+              "2",
+              "[@idlesign](https://github.com/idlesign)/[**letmehear**](https://github.com/idlesign/letmehear)",
+              "Audio book batch processor (resplitter)",
+              "[:arrow_upper_right:](https://github.com/idlesign/letmehear)"
+            ],
+            [
+              "2",
+              "[@andreypopp](https://github.com/andreypopp)/[**pyevent2**](https://github.com/andreypopp/pyevent2)",
+              "Python bindings for libevent 2.x",
+              "[:arrow_upper_right:](http://github.com/bsdemon/pyevent2)"
             ]
           ]
         }
