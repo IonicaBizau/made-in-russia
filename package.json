@@ -53,7 +53,8 @@
           "[HTML](#html)",
           "[C](undefined)",
           "[C++](#c-2)",
-          "[ActionScript](#actionscript)"
+          "[ActionScript](#actionscript)",
+          "[Clojure](#clojure)"
         ]
       },
       {
@@ -2757,6 +2758,153 @@
               "2",
               "[@mayakwd](https://github.com/mayakwd)/[**as3-rest**](https://github.com/mayakwd/as3-rest)",
               "Basic REST-Service framework",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Clojure #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "5635",
+              "[@tonsky](https://github.com/tonsky)/[**FiraCode**](https://github.com/tonsky/FiraCode)",
+              "Monospaced font with programming ligatures",
+              ""
+            ],
+            [
+              "2144",
+              "[@tonsky](https://github.com/tonsky)/[**datascript**](https://github.com/tonsky/datascript)",
+              "Immutable database and Datalog query engine for Clojure, ClojureScript and JS",
+              ""
+            ],
+            [
+              "141",
+              "[@Flamefork](https://github.com/Flamefork)/[**fleet**](https://github.com/Flamefork/fleet)",
+              "Templating System for Clojure",
+              "[:arrow_upper_right:](http://clojars.org/fleet)"
+            ],
+            [
+              "129",
+              "[@tonsky](https://github.com/tonsky)/[**datascript-chat**](https://github.com/tonsky/datascript-chat)",
+              "Sample SPA using DataScript and core.async",
+              "[:arrow_upper_right:](http://tonsky.me/datascript-chat/)"
+            ],
+            [
+              "90",
+              "[@tonsky](https://github.com/tonsky)/[**net.async**](https://github.com/tonsky/net.async)",
+              "Network commucations with clojure.core.async interface",
+              ""
+            ],
+            [
+              "49",
+              "[@Flamefork](https://github.com/Flamefork)/[**node-webkit-cljs**](https://github.com/Flamefork/node-webkit-cljs)",
+              "ClojureScript wrapper for node-webkit Native UI API",
+              ""
+            ],
+            [
+              "38",
+              "[@tonsky](https://github.com/tonsky)/[**datascript-todo**](https://github.com/tonsky/datascript-todo)",
+              "DataScript ToDo Sample Application",
+              "[:arrow_upper_right:](http://tonsky.me/datascript-todo/)"
+            ],
+            [
+              "32",
+              "[@tonsky](https://github.com/tonsky)/[**41-socks**](https://github.com/tonsky/41-socks)",
+              "Simple match game in cljs+om+react",
+              "[:arrow_upper_right:](http://tonsky.github.io/41-socks/)"
+            ],
+            [
+              "31",
+              "[@tonsky](https://github.com/tonsky)/[**datascript-transit**](https://github.com/tonsky/datascript-transit)",
+              "Transit handlers for DataScript database and datoms",
+              ""
+            ],
+            [
+              "30",
+              "[@tonsky](https://github.com/tonsky)/[**clojure.unicode**](https://github.com/tonsky/clojure.unicode)",
+              "Unicode symbols for Clojure",
+              ""
+            ],
+            [
+              "21",
+              "[@tonsky](https://github.com/tonsky)/[**cljs-skeleton**](https://github.com/tonsky/cljs-skeleton)",
+              "Skeleton CLJS client/server app with WS, Transit, Rum",
+              ""
+            ],
+            [
+              "18",
+              "[@tonsky](https://github.com/tonsky)/[**bloknote**](https://github.com/tonsky/bloknote)",
+              "Fast online notepad",
+              ""
+            ],
+            [
+              "13",
+              "[@tonsky](https://github.com/tonsky)/[**katybot**](https://github.com/tonsky/katybot)",
+              "Campfire bot written in Clojure",
+              ""
+            ],
+            [
+              "12",
+              "[@tonsky](https://github.com/tonsky)/[**boot-anybar**](https://github.com/tonsky/boot-anybar)",
+              "A boot task reporting build status to AnyBar",
+              ""
+            ],
+            [
+              "10",
+              "[@Flamefork](https://github.com/Flamefork)/[**widje**](https://github.com/Flamefork/widje)",
+              "Templating for ClojureScript",
+              ""
+            ],
+            [
+              "9",
+              "[@tonsky](https://github.com/tonsky)/[**clojure-future-spec**](https://github.com/tonsky/clojure-future-spec)",
+              "A backport of clojure.spec for Clojure 1.8",
+              ""
+            ],
+            [
+              "6",
+              "[@tonsky](https://github.com/tonsky)/[**tongue**](https://github.com/tonsky/tongue)",
+              "Do-it-yourself i18n library for Clojure/Script",
+              ""
+            ],
+            [
+              "4",
+              "[@tmeits](https://github.com/tmeits)/[**99-clojure-exercises**](https://github.com/tmeits/99-clojure-exercises)",
+              "C-99: Ninety-Nine Clojure Problems",
+              ""
+            ],
+            [
+              "3",
+              "[@antonlogvinenko](https://github.com/antonlogvinenko)/[**jacket**](https://github.com/antonlogvinenko/jacket)",
+              "Jacket, yet another LISP on the JVM",
+              ""
+            ],
+            [
+              "2",
+              "[@zahardzhan](https://github.com/zahardzhan)/[**leica**](https://github.com/zahardzhan/leica)",
+              "Downloader writen in lisp",
+              "[:arrow_upper_right:](http://twitter.com/zahardzhan)"
+            ],
+            [
+              "2",
+              "[@ostronom](https://github.com/ostronom)/[**clj-googl**](https://github.com/ostronom/clj-googl)",
+              "Google URL shortener API implementation.",
+              ""
+            ],
+            [
+              "2",
+              "[@netvl](https://github.com/netvl)/[**odh-exporter**](https://github.com/netvl/odh-exporter)",
+              "Org -> Docbook -> Habr markup translator",
               ""
             ]
           ]
