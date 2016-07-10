@@ -57,7 +57,8 @@
           "[Clojure](#clojure)",
           "[CoffeeScript](#coffeescript)",
           "[Go](#go)",
-          "[Haskell](#haskell)"
+          "[Haskell](#haskell)",
+          "[Lua](#lua)"
         ]
       },
       {
@@ -3398,6 +3399,69 @@
               "[@l29ah](https://github.com/l29ah)/[**xmonad-config**](https://github.com/l29ah/xmonad-config)",
               "",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Lua #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "136",
+              "[@Shestak](https://github.com/Shestak)/[**ShestakUI**](https://github.com/Shestak/ShestakUI)",
+              "User Interface for World of Warcraft",
+              "[:arrow_upper_right:](http://shestak.org)"
+            ],
+            [
+              "10",
+              "[@Shestak](https://github.com/Shestak)/[**ShestakUI_Extra**](https://github.com/Shestak/ShestakUI_Extra)",
+              "Extra modules for ShestakUI",
+              "[:arrow_upper_right:](http://shestak.org)"
+            ],
+            [
+              "8",
+              "[@Disinterpreter](https://github.com/Disinterpreter)/[**ClassicDM-MTA**](https://github.com/Disinterpreter/ClassicDM-MTA)",
+              "My test gamemod. Not recommend taking yourself :D",
+              ""
+            ],
+            [
+              "5",
+              "[@mniip](https://github.com/mniip)/[**xsTPTIRC**](https://github.com/mniip/xsTPTIRC)",
+              "IRC client for The Powder Toy (http://powdertoy.co.uk)",
+              ""
+            ],
+            [
+              "5",
+              "[@mniip](https://github.com/mniip)/[**yt**](https://github.com/mniip/yt)",
+              "youtube downloader in lua",
+              ""
+            ],
+            [
+              "5",
+              "[@claygod](https://github.com/claygod)/[**Rumba**](https://github.com/claygod/Rumba)",
+              "Micro framework Rumba written in Lua language for web development faster and light sites or CMS that are hosted on Apache (with mod_lua module)",
+              ""
+            ],
+            [
+              "2",
+              "[@spike-spb](https://github.com/spike-spb)/[**local-mexes**](https://github.com/spike-spb/local-mexes)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@Shestak](https://github.com/Shestak)/[**ShestakUI_Media**](https://github.com/Shestak/ShestakUI_Media)",
+              "Extra media for third-party addons with LibSharedMedia",
+              "[:arrow_upper_right:](http://shestak.org)"
             ]
           ]
         }
