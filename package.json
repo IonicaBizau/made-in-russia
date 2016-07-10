@@ -54,7 +54,8 @@
           "[C](undefined)",
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
-          "[Clojure](#clojure)"
+          "[Clojure](#clojure)",
+          "[CoffeeScript](#coffeescript)"
         ]
       },
       {
@@ -2905,6 +2906,81 @@
               "2",
               "[@netvl](https://github.com/netvl)/[**odh-exporter**](https://github.com/netvl/odh-exporter)",
               "Org -> Docbook -> Habr markup translator",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "CoffeeScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "29",
+              "[@KirillTemnov](https://github.com/KirillTemnov)/[**node-pocket**](https://github.com/KirillTemnov/node-pocket)",
+              "API bindings to getpocket.com",
+              ""
+            ],
+            [
+              "22",
+              "[@KirillTemnov](https://github.com/KirillTemnov)/[**node-ocr**](https://github.com/KirillTemnov/node-ocr)",
+              "ocr wrapper for abbyy finereader cloud api",
+              ""
+            ],
+            [
+              "12",
+              "[@KirillTemnov](https://github.com/KirillTemnov)/[**strack**](https://github.com/KirillTemnov/strack)",
+              "Project/bug tracking system",
+              ""
+            ],
+            [
+              "3",
+              "[@nikita-volkov](https://github.com/nikita-volkov)/[**Fury**](https://github.com/nikita-volkov/Fury)",
+              "A platform independent library of higher order functions for function composing, overloading and asynchronicity in JavaScript and CoffeeScript",
+              ""
+            ],
+            [
+              "2",
+              "[@karudo](https://github.com/karudo)/[**nodedbadmin**](https://github.com/karudo/nodedbadmin)",
+              "nodeDBAdmin - mysql and MongoDB (and other databases in future) database administration tool ",
+              ""
+            ],
+            [
+              "2",
+              "[@nikita-volkov](https://github.com/nikita-volkov)/[**FuellSys**](https://github.com/nikita-volkov/FuellSys)",
+              "Fuell library extension of system utilities for node.js",
+              ""
+            ],
+            [
+              "2",
+              "[@nikita-volkov](https://github.com/nikita-volkov)/[**Fuell**](https://github.com/nikita-volkov/Fuell)",
+              "A platform-independent library for purely declarative functional programming in CoffeeScript/JavaScript with support for async actions and such niceties as function composing, overloading and memoization",
+              ""
+            ],
+            [
+              "2",
+              "[@nikita-volkov](https://github.com/nikita-volkov)/[**Robusta**](https://github.com/nikita-volkov/Robusta)",
+              "A CoffeeScript transcompiler that introduces a packaging system and support for convenient import statements",
+              ""
+            ],
+            [
+              "2",
+              "[@KirillTemnov](https://github.com/KirillTemnov)/[**bm-generator**](https://github.com/KirillTemnov/bm-generator)",
+              "create bookmarklet project from shell command",
+              ""
+            ],
+            [
+              "2",
+              "[@KirillTemnov](https://github.com/KirillTemnov)/[**market-req**](https://github.com/KirillTemnov/market-req)",
+              "",
               ""
             ]
           ]
