@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 A list of neat projects made in Russia
 
 #### Params
+
 - **Number** `a`: Param descrpition.
 - **Number** `b`: Param descrpition.
 
