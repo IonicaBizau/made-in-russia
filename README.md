@@ -426,6 +426,7 @@ $ npm i --save made-in-russia
 6 | [@illarionov](https://github.com/illarionov)/[**rdr2netflow**](https://github.com/illarionov/rdr2netflow) | Cisco SCE RDRv1 to Netflow v5 converter |
 6 | [@leshak](https://github.com/leshak)/[**i5700-leshak-kmodule…**](https://github.com/leshak/i5700-leshak-kmodules2) | Kernel modules for i5700 with Android 2.x |
 6 | [@tony2001](https://github.com/tony2001)/[**arrr**](https://github.com/tony2001/arrr) | PHP extension embedding R language |
+5 | [@pyos](https://github.com/pyos)/[**libcno**](https://github.com/pyos/libcno) | An io-abstract http/2 client/server implementation |
 5 | [@vm03](https://github.com/vm03)/[**android_kernel_lge_m…**](https://github.com/vm03/android_kernel_lge_msm8610) |  |
 5 | [@akorotkov](https://github.com/akorotkov)/[**postgres**](https://github.com/akorotkov/postgres) |  |
 5 | [@LongSoft](https://github.com/LongSoft)/[**UBU-helpers**](https://github.com/LongSoft/UBU-helpers) | Set of helper utilitites for UEFI BIOS Updater project |
@@ -475,6 +476,8 @@ $ npm i --save made-in-russia
 57 | [@Nerei](https://github.com/Nerei)/[**kinfu_remake**](https://github.com/Nerei/kinfu_remake) | Optimized and reworked version of Kinfu |
 13 | [@CODeRUS](https://github.com/CODeRUS)/[**libaxolotl**](https://github.com/CODeRUS/libaxolotl) | axolotl implementation in Qt |
 12 | [@ddemidov](https://github.com/ddemidov)/[**gpgpu_with_modern_cp…**](https://github.com/ddemidov/gpgpu_with_modern_cpp) | LaTeX source for "Programming CUDA and OpenCL: A Case Study Using Modern C++ Libraries" | [:arrow_upper_right:](http://arxiv.org/abs/1212.6326)
+7 | [@pyos](https://github.com/pyos)/[**re2jit**](https://github.com/pyos/re2jit) | An x86-64 JIT compiler for re2. Also adds back the backrefs support. |
+5 | [@danlark1](https://github.com/danlark1)/[**Kzip**](https://github.com/danlark1/Kzip) | An external-dictionary compression for big collections of small records. |
 5 | [@tinybit](https://github.com/tinybit)/[**cocaine-fastcgi-prox…**](https://github.com/tinybit/cocaine-fastcgi-proxy) | Cocaine FastCGI Proxy |
 5 | [@ddemidov](https://github.com/ddemidov)/[**mba**](https://github.com/ddemidov/mba) | Scattered data interpolation with multilevel B-Splines |
 4 | [@CODeRUS](https://github.com/CODeRUS)/[**android-notification…**](https://github.com/CODeRUS/android-notifications) | Simple daemon adding sound (IM category), led and icon on lockscreen for android notifications. |
@@ -993,6 +996,7 @@ $ npm i --save made-in-russia
 6 | [@kmike](https://github.com/kmike)/[**greatape**](https://github.com/kmike/greatape) | Client library for the MailChimp API v1.2. |
 6 | [@daevaorn](https://github.com/daevaorn)/[**djapian**](https://github.com/daevaorn/djapian) | High level Xapian integration for Django |
 6 | [@nvbn](https://github.com/nvbn)/[**coviolations_app**](https://github.com/nvbn/coviolations_app) | coviolations.io |
+5 | [@pyos](https://github.com/pyos)/[**libcno**](https://github.com/pyos/libcno) | An http/2 client/server library. |
 5 | [@daevaorn](https://github.com/daevaorn)/[**hollow**](https://github.com/daevaorn/hollow) | Django ORM mocking library |
 5 | [@idlesign](https://github.com/idlesign)/[**pypusher**](https://github.com/idlesign/pypusher) | pypusher pushes stuff from Python. Apple Push. | [:arrow_upper_right:](https://github.com/idlesign/pypusher)
 5 | [@idlesign](https://github.com/idlesign)/[**calibre-bookradar**](https://github.com/idlesign/calibre-bookradar) | Calibre plugin. Searches for books metadata on bookradar.org | [:arrow_upper_right:](https://github.com/idlesign/calibre-bookradar)
