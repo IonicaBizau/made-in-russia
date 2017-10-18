@@ -18,10 +18,10 @@ $ npm i --save made-in-russia
 
  - [JavaScript](#javascript)
  - [Java](#java)
- - [C#](#c-1)
+ - [C#](#c)
  - [CSS](#css)
  - [HTML](#html)
- - [C](undefined)
+ - [C](#c-1)
  - [C++](#c-2)
  - [ActionScript](#actionscript)
  - [Clojure](#clojure)
