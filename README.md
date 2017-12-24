@@ -10,18 +10,23 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save made-in-russia
+# Using npm
+npm install --save made-in-russia
+
+# Using yarn
+yarn add made-in-russia
 ```
 
 
 ## Contents
 
+
  - [JavaScript](#javascript)
  - [Java](#java)
- - [C#](#c)
+ - [C#](#c-1)
  - [CSS](#css)
  - [HTML](#html)
- - [C](#c-1)
+ - [C](undefined)
  - [C++](#c-2)
  - [ActionScript](#actionscript)
  - [Clojure](#clojure)
@@ -42,6 +47,7 @@ $ npm i --save made-in-russia
  - [VimL](#viml)
 
 ### JavaScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 4449 | [@sergeche](https://github.com/sergeche)/[**emmet-sublime**](https://github.com/sergeche/emmet-sublime) | Emmet for Sublime Text | [:arrow_upper_right:](http://emmet.io)
@@ -241,7 +247,9 @@ $ npm i --save made-in-russia
 2 | [@lahmatiy](https://github.com/lahmatiy)/[**fixed-width-string**](https://github.com/lahmatiy/fixed-width-string) | Ansi-aware string padding/ellipsing function |
 2 | [@miripiruni](https://github.com/miripiruni)/[**rit2012-schedule**](https://github.com/miripiruni/rit2012-schedule) | Unofficial mobile version schedule of RIT++ 2012 conference. | [:arrow_upper_right:](http://miripiruni.github.com/rit2012-schedule/)
 2 | [@SamuraiJack](https://github.com/SamuraiJack)/[**Johnny-Mnemonic**](https://github.com/SamuraiJack/Johnny-Mnemonic) | Yet another `ajax back button` implementation, on Joose3, with the test suite and no required page markup at this time |
+
 ### Java #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2292 | [@Prototik](https://github.com/Prototik)/[**HoloEverywhere**](https://github.com/Prototik/HoloEverywhere) | NO LONGER MAINTAINED. DEVELOP FOR 4.X+ DUDE. |
@@ -341,7 +349,9 @@ $ npm i --save made-in-russia
 2 | [@barancev](https://github.com/barancev)/[**webdriver-factory**](https://github.com/barancev/webdriver-factory) | An utility to manage WebDriver instances |
 2 | [@shipilev](https://github.com/shipilev)/[**benchmarks-scratch**](https://github.com/shipilev/benchmarks-scratch) | Scratch throw-away benchmarks |
 2 | [@4ntoine](https://github.com/4ntoine)/[**CoffeeCatchDemo**](https://github.com/4ntoine/CoffeeCatchDemo) | Test project for coffeecatch lib |
+
 ### C# #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 176 | [@Maxx53](https://github.com/Maxx53)/[**SCMBot**](https://github.com/Maxx53/SCMBot) | Steam Community Market auto-buying bot | [:arrow_upper_right:](http://scmbot.com)
@@ -383,16 +393,22 @@ $ npm i --save made-in-russia
 2 | [@ForNeVeR](https://github.com/ForNeVeR)/[**ImapSlack**](https://github.com/ForNeVeR/ImapSlack) | Integrate Slack with IMAP email server. |
 2 | [@nicloay](https://github.com/nicloay)/[**persistentSingleton**](https://github.com/nicloay/persistentSingleton) | Unity plugin which store/read properties from/to singleton to UserPrefs |
 2 | [@roman-yagodin](https://github.com/roman-yagodin)/[**R7.DnnLocalization**](https://github.com/roman-yagodin/R7.DnnLocalization) | Localization of DNN Platform static resources (language pack) - русский перевод DotNetNuke |
+
 ### CSS #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3 | [@tsergeytovarov](https://github.com/tsergeytovarov)/[**gulp-project**](https://github.com/tsergeytovarov/gulp-project) | Базовый шаблон проекта на Gulp | [:arrow_upper_right:](http://ourworkspace.ru)
 2 | [@tsergeytovarov](https://github.com/tsergeytovarov)/[**grunt-project**](https://github.com/tsergeytovarov/grunt-project) | Базовый каркас проекта | [:arrow_upper_right:](http://ourworkspace.ru/about.html)
+
 ### HTML #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 11 | [@spalt08](https://github.com/spalt08)/[**TweenSprite**](https://github.com/spalt08/TweenSprite) | Sprite animation plugin for TweenMax.js |
+
 ### C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 212 | [@nekromant](https://github.com/nekromant)/[**esp8266-frankenstein**](https://github.com/nekromant/esp8266-frankenstein) | Alternative firmware for ESP8266 modules |
@@ -426,7 +442,6 @@ $ npm i --save made-in-russia
 6 | [@illarionov](https://github.com/illarionov)/[**rdr2netflow**](https://github.com/illarionov/rdr2netflow) | Cisco SCE RDRv1 to Netflow v5 converter |
 6 | [@leshak](https://github.com/leshak)/[**i5700-leshak-kmodule…**](https://github.com/leshak/i5700-leshak-kmodules2) | Kernel modules for i5700 with Android 2.x |
 6 | [@tony2001](https://github.com/tony2001)/[**arrr**](https://github.com/tony2001/arrr) | PHP extension embedding R language |
-5 | [@pyos](https://github.com/pyos)/[**libcno**](https://github.com/pyos/libcno) | An io-abstract http/2 client/server implementation |
 5 | [@vm03](https://github.com/vm03)/[**android_kernel_lge_m…**](https://github.com/vm03/android_kernel_lge_msm8610) |  |
 5 | [@akorotkov](https://github.com/akorotkov)/[**postgres**](https://github.com/akorotkov/postgres) |  |
 5 | [@LongSoft](https://github.com/LongSoft)/[**UBU-helpers**](https://github.com/LongSoft/UBU-helpers) | Set of helper utilitites for UEFI BIOS Updater project |
@@ -467,7 +482,9 @@ $ npm i --save made-in-russia
 2 | [@szastupov](https://github.com/szastupov)/[**ustl**](https://github.com/szastupov/ustl) | ustl mirror (see no-exceptions branch) | [:arrow_upper_right:](http://ustl.sourceforge.net/)
 2 | [@Nazg-Gul](https://github.com/Nazg-Gul)/[**fm**](https://github.com/Nazg-Gul/fm) | A GNU/Linux console-based file manager | [:arrow_upper_right:](http://nazg-gul.dyndns.org/wiki/index.php/Main_Page)
 2 | [@tony2001](https://github.com/tony2001)/[**rabbitmq-c**](https://github.com/tony2001/rabbitmq-c) | AMQP client library |
+
 ### C++ #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 340 | [@ddemidov](https://github.com/ddemidov)/[**vexcl**](https://github.com/ddemidov/vexcl) | VexCL is a C++ vector expression template library for OpenCL/CUDA | [:arrow_upper_right:](http://vexcl.readthedocs.org)
@@ -476,8 +493,6 @@ $ npm i --save made-in-russia
 57 | [@Nerei](https://github.com/Nerei)/[**kinfu_remake**](https://github.com/Nerei/kinfu_remake) | Optimized and reworked version of Kinfu |
 13 | [@CODeRUS](https://github.com/CODeRUS)/[**libaxolotl**](https://github.com/CODeRUS/libaxolotl) | axolotl implementation in Qt |
 12 | [@ddemidov](https://github.com/ddemidov)/[**gpgpu_with_modern_cp…**](https://github.com/ddemidov/gpgpu_with_modern_cpp) | LaTeX source for "Programming CUDA and OpenCL: A Case Study Using Modern C++ Libraries" | [:arrow_upper_right:](http://arxiv.org/abs/1212.6326)
-7 | [@pyos](https://github.com/pyos)/[**re2jit**](https://github.com/pyos/re2jit) | An x86-64 JIT compiler for re2. Also adds back the backrefs support. |
-5 | [@danlark1](https://github.com/danlark1)/[**Kzip**](https://github.com/danlark1/Kzip) | An external-dictionary compression for big collections of small records. |
 5 | [@tinybit](https://github.com/tinybit)/[**cocaine-fastcgi-prox…**](https://github.com/tinybit/cocaine-fastcgi-proxy) | Cocaine FastCGI Proxy |
 5 | [@ddemidov](https://github.com/ddemidov)/[**mba**](https://github.com/ddemidov/mba) | Scattered data interpolation with multilevel B-Splines |
 4 | [@CODeRUS](https://github.com/CODeRUS)/[**android-notification…**](https://github.com/CODeRUS/android-notifications) | Simple daemon adding sound (IM category), led and icon on lockscreen for android notifications. |
@@ -488,7 +503,9 @@ $ npm i --save made-in-russia
 2 | [@CODeRUS](https://github.com/CODeRUS)/[**powermenu**](https://github.com/CODeRUS/powermenu) | Powermenu - fancy menu and configuration for power key actions |
 2 | [@intelfx](https://github.com/intelfx)/[**Homework_2011**](https://github.com/intelfx/Homework_2011) | A toy virtual machine implementing a custom machine language and an ahead-of-time translator to x86_64. |
 2 | [@CODeRUS](https://github.com/CODeRUS)/[**aliendalvik-control**](https://github.com/CODeRUS/aliendalvik-control) | DBus daemon for controlling aliendalvik and sending commands |
+
 ### ActionScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 19 | [@mayakwd](https://github.com/mayakwd)/[**as3-eaze-tween**](https://github.com/mayakwd/as3-eaze-tween) | Eaze Tween: smart, fast, chainable and compact Flash AS3 tweening library |
@@ -499,7 +516,9 @@ $ npm i --save made-in-russia
 3 | [@kirillrybin](https://github.com/kirillrybin)/[**Unity-Flash-Socket-C…**](https://github.com/kirillrybin/Unity-Flash-Socket-Connection) | Sample projects for Unity and Flash aka Client-Server via Sockets |
 2 | [@zlumer](https://github.com/zlumer)/[**as3-dataobject**](https://github.com/zlumer/as3-dataobject) | AS3 ORM |
 2 | [@mayakwd](https://github.com/mayakwd)/[**as3-rest**](https://github.com/mayakwd/as3-rest) | Basic REST-Service framework |
+
 ### Clojure #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 5635 | [@tonsky](https://github.com/tonsky)/[**FiraCode**](https://github.com/tonsky/FiraCode) | Monospaced font with programming ligatures |
@@ -524,7 +543,9 @@ $ npm i --save made-in-russia
 2 | [@zahardzhan](https://github.com/zahardzhan)/[**leica**](https://github.com/zahardzhan/leica) | Downloader writen in lisp | [:arrow_upper_right:](http://twitter.com/zahardzhan)
 2 | [@ostronom](https://github.com/ostronom)/[**clj-googl**](https://github.com/ostronom/clj-googl) | Google URL shortener API implementation. |
 2 | [@netvl](https://github.com/netvl)/[**odh-exporter**](https://github.com/netvl/odh-exporter) | Org -> Docbook -> Habr markup translator |
+
 ### CoffeeScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 29 | [@KirillTemnov](https://github.com/KirillTemnov)/[**node-pocket**](https://github.com/KirillTemnov/node-pocket) | API bindings to getpocket.com |
@@ -537,7 +558,9 @@ $ npm i --save made-in-russia
 2 | [@nikita-volkov](https://github.com/nikita-volkov)/[**Robusta**](https://github.com/nikita-volkov/Robusta) | A CoffeeScript transcompiler that introduces a packaging system and support for convenient import statements |
 2 | [@KirillTemnov](https://github.com/KirillTemnov)/[**bm-generator**](https://github.com/KirillTemnov/bm-generator) | create bookmarklet project from shell command |
 2 | [@KirillTemnov](https://github.com/KirillTemnov)/[**market-req**](https://github.com/KirillTemnov/market-req) |  |
+
 ### Go #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3179 | [@nsf](https://github.com/nsf)/[**gocode**](https://github.com/nsf/gocode) | An autocompletion daemon for the Go programming language |
@@ -581,7 +604,9 @@ $ npm i --save made-in-russia
 2 | [@nsf](https://github.com/nsf)/[**goal**](https://github.com/nsf/goal) | Go makefile templates system |
 2 | [@nsf](https://github.com/nsf)/[**vulkangen**](https://github.com/nsf/vulkangen) | Vulkan C++ wrapper generator |
 2 | [@grafov](https://github.com/grafov)/[**wtfm**](https://github.com/grafov/wtfm) | Where's the fucking manual? (ok, let Write the Fabulous Manual) |
+
 ### Haskell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 202 | [@anton-k](https://github.com/anton-k)/[**ru-haskell-book**](https://github.com/anton-k/ru-haskell-book) | учебник по Haskell |
@@ -607,7 +632,9 @@ $ npm i --save made-in-russia
 2 | [@l29ah](https://github.com/l29ah)/[**9ph**](https://github.com/l29ah/9ph) | implementation of the 9P2000 protocol for haskell |
 2 | [@dmatveev](https://github.com/dmatveev)/[**mutators**](https://github.com/dmatveev/mutators) | Automatically generate "setters" for complex data structures |
 2 | [@l29ah](https://github.com/l29ah)/[**xmonad-config**](https://github.com/l29ah/xmonad-config) |  |
+
 ### Lua #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 136 | [@Shestak](https://github.com/Shestak)/[**ShestakUI**](https://github.com/Shestak/ShestakUI) | User Interface for World of Warcraft | [:arrow_upper_right:](http://shestak.org)
@@ -618,12 +645,16 @@ $ npm i --save made-in-russia
 5 | [@claygod](https://github.com/claygod)/[**Rumba**](https://github.com/claygod/Rumba) | Micro framework Rumba written in Lua language for web development faster and light sites or CMS that are hosted on Apache (with mod_lua module) |
 2 | [@spike-spb](https://github.com/spike-spb)/[**local-mexes**](https://github.com/spike-spb/local-mexes) |  |
 2 | [@Shestak](https://github.com/Shestak)/[**ShestakUI_Media**](https://github.com/Shestak/ShestakUI_Media) | Extra media for third-party addons with LibSharedMedia | [:arrow_upper_right:](http://shestak.org)
+
 ### Matlab #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 88 | [@Bihaqo](https://github.com/Bihaqo)/[**TensorNet**](https://github.com/Bihaqo/TensorNet) |  |
 7 | [@Bihaqo](https://github.com/Bihaqo)/[**TT-MRF**](https://github.com/Bihaqo/TT-MRF) |  |
+
 ### Objective-C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 1866 | [@kolyvan](https://github.com/kolyvan)/[**kxmovie**](https://github.com/kolyvan/kxmovie) | movie player for iOS using ffmpeg |
@@ -683,7 +714,9 @@ $ npm i --save made-in-russia
 3 | [@Kentzo](https://github.com/Kentzo)/[**IKPowerSources**](https://github.com/Kentzo/IKPowerSources) |  |
 2 | [@azimin](https://github.com/azimin)/[**FoodlePayPal**](https://github.com/azimin/FoodlePayPal) |  |
 2 | [@kolyvan](https://github.com/kolyvan)/[**kxvif2ne**](https://github.com/kolyvan/kxvif2ne) | iOS application for viewing VIF2NE.RU forum |
+
 ### Perl #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 83 | [@berekuk](https://github.com/berekuk)/[**Ubic**](https://github.com/berekuk/Ubic) | Polymorphic service manager. | [:arrow_upper_right:](https://metacpan.org/release/Ubic)
@@ -751,7 +784,9 @@ $ npm i --save made-in-russia
 2 | [@GreenKakadu](https://github.com/GreenKakadu)/[**bootylicious-plugin-…**](https://github.com/GreenKakadu/bootylicious-plugin-gallery) | Bootylicious::Plugin::Gallery - Gallery plugin for Bootylicious | [:arrow_upper_right:](http://getbootylicious.org/)
 2 | [@sharifulin](https://github.com/sharifulin)/[**acme-cpanauthors-nor…**](https://github.com/sharifulin/acme-cpanauthors-norwegian) | Acme::CPANAuthors::Norwegian – We are Norwegian CPAN authors | [:arrow_upper_right:](http://search.cpan.org/dist/Acme-CPANAuthors-Norwegian/)
 2 | [@n4kz](https://github.com/n4kz)/[**japh**](https://github.com/n4kz/japh) | Perl programs |
+
 ### PHP #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 1301 | [@kakserpom](https://github.com/kakserpom)/[**phpdaemon**](https://github.com/kakserpom/phpdaemon) | Asynchronous server-side framework for network applications implemented in PHP using libevent | [:arrow_upper_right:](http://daemon.io/)
@@ -866,7 +901,9 @@ $ npm i --save made-in-russia
 2 | [@AgelxNash](https://github.com/AgelxNash)/[**l4-confirm-action**](https://github.com/AgelxNash/l4-confirm-action) |  |
 2 | [@bezumkin](https://github.com/bezumkin)/[**Schedule**](https://github.com/bezumkin/Schedule) | Component for building custom schedule on MODX Revolution |
 2 | [@kovshenin](https://github.com/kovshenin)/[**camptix-admin-flags**](https://github.com/kovshenin/camptix-admin-flags) | An addon for CampTix that allows admins to configure and set private per-attendee flags. |
+
 ### Python #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 21068 | [@nvbn](https://github.com/nvbn)/[**thefuck**](https://github.com/nvbn/thefuck) | Magnificent app which corrects your previous console command. |
@@ -996,7 +1033,6 @@ $ npm i --save made-in-russia
 6 | [@kmike](https://github.com/kmike)/[**greatape**](https://github.com/kmike/greatape) | Client library for the MailChimp API v1.2. |
 6 | [@daevaorn](https://github.com/daevaorn)/[**djapian**](https://github.com/daevaorn/djapian) | High level Xapian integration for Django |
 6 | [@nvbn](https://github.com/nvbn)/[**coviolations_app**](https://github.com/nvbn/coviolations_app) | coviolations.io |
-5 | [@pyos](https://github.com/pyos)/[**libcno**](https://github.com/pyos/libcno) | An http/2 client/server library. |
 5 | [@daevaorn](https://github.com/daevaorn)/[**hollow**](https://github.com/daevaorn/hollow) | Django ORM mocking library |
 5 | [@idlesign](https://github.com/idlesign)/[**pypusher**](https://github.com/idlesign/pypusher) | pypusher pushes stuff from Python. Apple Push. | [:arrow_upper_right:](https://github.com/idlesign/pypusher)
 5 | [@idlesign](https://github.com/idlesign)/[**calibre-bookradar**](https://github.com/idlesign/calibre-bookradar) | Calibre plugin. Searches for books metadata on bookradar.org | [:arrow_upper_right:](https://github.com/idlesign/calibre-bookradar)
@@ -1060,11 +1096,15 @@ $ npm i --save made-in-russia
 2 | [@klen](https://github.com/klen)/[**fquest**](https://github.com/klen/fquest) | ZeroQuest lazy RPG. Moscow Facebook Hackday. |
 2 | [@idlesign](https://github.com/idlesign)/[**letmehear**](https://github.com/idlesign/letmehear) | Audio book batch processor (resplitter) | [:arrow_upper_right:](https://github.com/idlesign/letmehear)
 2 | [@andreypopp](https://github.com/andreypopp)/[**pyevent2**](https://github.com/andreypopp/pyevent2) | Python bindings for libevent 2.x | [:arrow_upper_right:](http://github.com/bsdemon/pyevent2)
+
 ### R #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 10 | [@mephistopheies](https://github.com/mephistopheies)/[**ml-r**](https://github.com/mephistopheies/ml-r) | Code for ML course |
+
 ### Ruby #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2142 | [@gazay](https://github.com/gazay)/[**gon**](https://github.com/gazay/gon) | Your Rails variables in your JS |
@@ -1200,7 +1240,9 @@ $ npm i --save made-in-russia
 2 | [@dustalov](https://github.com/dustalov)/[**myaso-web**](https://github.com/dustalov/myaso-web) | An user interface for the Myaso analyzer. | [:arrow_upper_right:](http://nlpub.ru/wiki/Myaso)
 2 | [@kostya](https://github.com/kostya)/[**msgpack_protocol**](https://github.com/kostya/msgpack_protocol) | Msgpack protocol for eventmachine |
 2 | [@niquola](https://github.com/niquola)/[**conditioner**](https://github.com/niquola/conditioner) | simple conditions builder for active record |
+
 ### Scala #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 44 | [@btd](https://github.com/btd)/[**luna**](https://github.com/btd/luna) | Git Review Tool. Pages | [:arrow_upper_right:](http://btd.github.com/luna/)
@@ -1217,7 +1259,9 @@ $ npm i --save made-in-russia
 2 | [@sergei-romanenko](https://github.com/sergei-romanenko)/[**mrsct**](https://github.com/sergei-romanenko/mrsct) | A variation of mrsc based on traits + self-types |
 2 | [@sergei-romanenko](https://github.com/sergei-romanenko)/[**sat4j-experiments**](https://github.com/sergei-romanenko/sat4j-experiments) | Experiments with Sat4j. |
 2 | [@Pchelolo](https://github.com/Pchelolo)/[**Quotter**](https://github.com/Pchelolo/Quotter) |  |
+
 ### Shell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 20 | [@jcmvbkbc](https://github.com/jcmvbkbc)/[**xtensa-toolchain-bui…**](https://github.com/jcmvbkbc/xtensa-toolchain-build) | Xtensa toolchain building scripts |
@@ -1229,11 +1273,15 @@ $ npm i --save made-in-russia
 2 | [@vitlav](https://github.com/vitlav)/[**etersoft-build-utils**](https://github.com/vitlav/etersoft-build-utils) | A set of rpm build utilities from Etersoft |
 2 | [@vitlav](https://github.com/vitlav)/[**autosshd**](https://github.com/vitlav/autosshd) | Run autossh as system service |
 2 | [@backbone](https://github.com/backbone)/[**findcruftfiles**](https://github.com/backbone/findcruftfiles) | Portage cruft files search. | [:arrow_upper_right:](https://git.backbone.ws/gentoo/findcruftfiles)
+
 ### Swift #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3 | [@almas-dev](https://github.com/almas-dev)/[**APMAlertController**](https://github.com/almas-dev/APMAlertController) | AlertController written in Swift |
+
 ### VimL #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 1810 | [@morhetz](https://github.com/morhetz)/[**gruvbox**](https://github.com/morhetz/gruvbox) | Retro groove color scheme for Vim |
@@ -1246,6 +1294,7 @@ $ npm i --save made-in-russia
 3 | [@gorkunov](https://github.com/gorkunov)/[**vimconfig**](https://github.com/gorkunov/vimconfig) | my vim config |
 3 | [@morhetz](https://github.com/morhetz)/[**vim-termitr**](https://github.com/morhetz/vim-termitr) | Some vim terminal integration |
 2 | [@zaa](https://github.com/zaa)/[**dotfiles**](https://github.com/zaa/dotfiles) | zaa's dot files |
+
 
 ## :clipboard: Example
 
@@ -1265,7 +1314,9 @@ There are few ways to get help:
 
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
  2. For bug reports and feature requests, open issues. :bug:
+
  3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+
 
 
 ## :memo: Documentation
