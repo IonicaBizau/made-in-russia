@@ -954,6 +954,8 @@ yarn add made-in-russia
  | 21068 | [@nvbn](https://github.com/nvbn)/[**thefuck**](https://github.com/nvbn/thefuck) | Magnificent app which corrects your previous console command. |
 3056 | [@klen](https://github.com/klen)/[**python-mode**](https://github.com/klen/python-mode) | Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box. |
 1303 | [@Suor](https://github.com/Suor)/[**funcy**](https://github.com/Suor/funcy) | A fancy and practical functional tools |
+1100 | [@sobolevn](https://github.com/sobolevn)/[**wemake-python-styleguide**](https://github.com/wemake-services/wemake-python-styleguide) | The strictest and most opinionated python linter ever! |
+1300 | [@sobolevn](https://github.com/sobolevn)/[**dry-python/returns**](https://github.com/dry-python/returns) | Make your functions return something meaningful, typed, and safe!  |
 1098 | [@nvbn](https://github.com/nvbn)/[**everpad**](https://github.com/nvbn/everpad) | Evernote client well integrated with linux desktop |
 733 | [@kmmbvnr](https://github.com/kmmbvnr)/[**django-jenkins**](https://github.com/kmmbvnr/django-jenkins) | Plug and play continuous integration with django and jenkins |
 664 | [@kmmbvnr](https://github.com/kmmbvnr)/[**django-fsm**](https://github.com/kmmbvnr/django-fsm) | Django friendly finite state machine support |
